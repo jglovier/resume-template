@@ -1,0 +1,84 @@
+// Mixins
+// ---------------------------------------/
+
+@function em( $fontSize, $contextSize: 16 ) {
+  @return 1em * ( $fontSize / $contextSize ); }
+
+@function pct( $size, $context ) {
+  @return percentage( $size / $context ); }
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+// Clearfix
+//
+// Clears floats via mixin (avoid using as a class).
+
+@mixin clearfix {
+  &:before {
+    display: table;
+    content: "";
+  }
+
+  &:after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+}
+
+// media querie tools
+
+@mixin media_max($screen_width) {
+  @media (max-width: $screen_width) { @content; }
+}
+
+@mixin media_min($screen_width) {
+  @media (min-width: $screen_width) { @content; }
+}
+
+@mixin media_1 {
+  @media (min-width: 700px) { @content; }
+}
+
+@mixin media_2 {
+  @media (min-width: 900px) { @content; }
+}
+
+@mixin media_3 {
+  @media (min-width: 1100px) { @content; }
+}
+
+// type utilities
+
+@mixin sans {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@mixin sans_light {
+  @include sans;
+  font-weight: 300;
+}
+
+@mixin sans_regular {
+  @include sans;
+  font-weight: 400;
+}
+
+@mixin sans_semibold {
+  @include sans;
+  font-weight: 600;
+}
+
+@mixin sans_bold {
+  @include sans;
+  font-weight: 700;
+}
+
+@mixin sans_extrabold {
+  @include sans;
+  font-weight: 800;
+}
