@@ -13,9 +13,24 @@ resume_name:                    "Homer J. Simpson"
 resume_title:                   "Nuclear Safety Inspector"
 resume_contact_email:
   "homerjsimpson@youremailaddress.com"
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
 
 # Resume social links
-
+# delete any of these you don't intend to use
+resume_options:
+  resume_pdf_URL:               "insert URL here"
+  resume_github_url:            "https://github.com/jglovier/resume-template"
+  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_print_url:             "insert print URL here"
+  resume_dribbble_url:          "insert Dribbble URL here"
+  resume_linkedin_url:          "insert LinkedIn URL here"
+  resume_facebook_url:          "insert Facebook URL here"
+  resume_website_url:           "insert your website URL here"
+  resume_instagram_url:         "insert your Instagram URL here"
 
 # Design settings
 resume_theme:                   default

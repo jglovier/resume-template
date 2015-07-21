@@ -4,9 +4,8 @@
 // util
 
 .section-header {
-  border-top: 4px solid #c7c7c7;
-  border-bottom: 2px solid #c7c7c7;
-  padding: .5rem 0;
+  @include section_border;
+  margin-bottom: 1.5rem;
 
   h2 {
     @include sans;
@@ -15,7 +14,6 @@
     letter-spacing: -.05rem;
     margin: 0;
   }
-
 }
 
 // page header styles
@@ -43,9 +41,7 @@
   }
 
   .title-bar {
-    border-top: 4px solid #c7c7c7;
-    border-bottom: 2px solid #c7c7c7;
-    padding: .5rem 0;
+    @include section_border;
 
     .header-title {
       @include sans;
@@ -57,5 +53,65 @@
   }
 }
 
+.contact-button {
+  @include border-radius(3px);
+  background-color: #efefef;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin: 1.5rem auto;
+  width: 220px;
+  font-size: 1.375rem;
+  @include sans_light;
+  color: #333;
+  line-height: 55px;
+  @include transition(all .2s ease);
 
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
 
+  &.not-looking {
+    width: 400px;
+  }
+}
+
+// resume content styles
+
+.content-section {
+  margin: 0 0 3rem;
+
+  .resume-item { margin-bottom: 2rem; }
+
+  .resume-item-title {
+    @include sans_bold;
+    margin: 0 0 0;
+    font-size: 1.5rem;
+  }
+
+  .resume-item-details {
+    font-size: 1.25rem;
+    margin: 0 0 1rem;
+  }
+}
+
+// footer styles
+
+.page-footer {
+  border-top: 4px solid #c7c7c7;
+  padding-top: 1.5rem;
+  text-align: center;
+  margin-bottom: 3rem;
+
+  .footer-line {
+    margin: 0;
+    font-size: .875rem;
+    color: #999;
+
+    > a {
+      font-weight: 700;
+      color: #333;
+    }
+  }
+}

@@ -31,13 +31,18 @@
           <p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>
         </div>
 
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button"></a>
+        {% if site.resume_looking_for_work == 'yes' %}
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button">Contact me</a>
+        {% elsif site.resume_looking_for_work == 'no' %}
+        <a class="contact-button not-looking">I'm not looking for work right now.</a>
+        {% else %}
+        {% endif %}
 
       </header>
 
       <!-- begin Experience -->
 
-      <section class="primary-section">
+      <section class="content-section">
 
         <header class="section-header">
           <h2>Experience</h2>
@@ -78,7 +83,7 @@
 
       <!-- begin Education -->
 
-      <section class="primary-section">
+      <section class="content-section">
 
         <header class="section-header">
           <h2>Education</h2>
@@ -95,8 +100,8 @@
       <!-- end Education -->
 
       <footer class="page-footer">
-        <p>Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p>If this is your live resume, you can remove or modify this part. ;-)</p>
+        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
       </footer>
 
     </div>
