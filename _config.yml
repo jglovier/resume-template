@@ -7,3 +7,8 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+# Resume settings
+resume_name:                    "Homer J. Simpson"
+resume_title:                   "Nuclear Safety Inspector"
+resume_contact_email:           "homerjsimpson@youremailaddress.com"
