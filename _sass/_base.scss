@@ -11,7 +11,7 @@ html {
 }
 
 body{
-  @include sans;
+  @include serif;
   color: $text_color;
   font-size: 16px;
   line-height: 1.5;
@@ -21,7 +21,7 @@ body{
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
 .wrapper {
-  max-width: 1084px;
+  max-width: 680px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;

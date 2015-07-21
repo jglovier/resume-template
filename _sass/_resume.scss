@@ -1,2 +1,61 @@
-// Home styles
+// Resme styles
 // ---------------------------------------/
+
+// util
+
+.section-header {
+  border-top: 4px solid #c7c7c7;
+  border-bottom: 2px solid #c7c7c7;
+  padding: .5rem 0;
+
+  h2 {
+    @include sans;
+    font-weight: 900;
+    font-size: 1.75rem;
+    letter-spacing: -.05rem;
+    margin: 0;
+  }
+
+}
+
+// page header styles
+
+.page-header {
+  padding: 1.5rem 0;
+
+  .avatar {
+    width: 95px;
+    max-width: 100%;
+    overflow: hidden;
+    @include border-radius(100px);
+    margin: 0 auto;
+    display: block;
+  }
+
+  .header-name {
+    @include sans;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 1rem 0 2rem;
+  }
+
+  .title-bar {
+    border-top: 4px solid #c7c7c7;
+    border-bottom: 2px solid #c7c7c7;
+    padding: .5rem 0;
+
+    .header-title {
+      @include sans;
+      font-weight: 300;
+      font-size: 1.75rem;
+      letter-spacing: -.05rem;
+      margin: 0;
+    }
+  }
+}
+
+
+

@@ -11,4 +11,15 @@ sass:
 # Resume settings
 resume_name:                    "Homer J. Simpson"
 resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
+resume_contact_email:
+  "homerjsimpson@youremailaddress.com"
+
+# Resume social links
+
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _congif.yml are only recognized when the server starts

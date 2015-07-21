@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper">
 
@@ -20,9 +20,11 @@
           <h2 class="header-title">{{ site.resume_title }}</h2>
 
           <!-- annnd guess where these are defined? Yup, you guessed it: the _config.yml file -->
+          {% if site.resume_links %}
           <ul class="icon-links">
             <li class="icon-link"><a href="" class=""></a></li>
           </ul>
+          {% endif %}
         </div>
 
         <div class="executive-summary">
