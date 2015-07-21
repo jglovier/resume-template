@@ -1,8 +1,6 @@
 # Site settings
-title: "Jekyll Boilerplate"
-description: "site description goes here"
-
-url: "http://yourdomain.com"
+title: "Jekyll Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
