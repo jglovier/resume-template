@@ -6,13 +6,19 @@
 
 ### Running locally
 
+...write me...
+
 ### Customizing
 
 Most of the basic customization will take place in the `_config.yml` file.
 
 ### Publishing to GitHub Pages for free
 
+...write me...
+
 ### Configuring with your own domain name
+
+...write me...
 
 ### Themes
 
