@@ -74,11 +74,6 @@
   font-weight: 400;
 }
 
-@mixin sans_semibold {
-  @include sans;
-  font-weight: 600;
-}
-
 @mixin sans_bold {
   @include sans;
   font-weight: 700;
