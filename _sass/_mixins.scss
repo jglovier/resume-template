@@ -1,12 +1,6 @@
 // Mixins
 // ---------------------------------------/
 
-@function em( $fontSize, $contextSize: 16 ) {
-  @return 1em * ( $fontSize / $contextSize ); }
-
-@function pct( $size, $context ) {
-  @return percentage( $size / $context ); }
-
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
@@ -46,16 +40,12 @@
   @media (min-width: $screen_width) { @content; }
 }
 
-@mixin media_1 {
-  @media (min-width: 700px) { @content; }
+@mixin media_larger_than_mobile {
+  @media (min-width: 600px) { @content; }
 }
 
-@mixin media_2 {
-  @media (min-width: 900px) { @content; }
-}
-
-@mixin media_3 {
-  @media (min-width: 1100px) { @content; }
+@mixin media_mobile {
+  @media (max-width: 600px) { @content; }
 }
 
 // type utilities

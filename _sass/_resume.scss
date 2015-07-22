@@ -50,13 +50,18 @@
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
-      margin: 0;
-      float: left;
+      text-align: center;
+      margin: 0 0 .5rem;
+
+      @include media_larger_than_mobile {
+        float: left;
+        margin: 0;
+      }
     }
   }
 
   .executive-summary {
-    @media screen and (min-width: 600px) { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 1.125rem; }
   }
 }
 
@@ -64,9 +69,17 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  float: right;
   position: relative;
   top: 4px;
+  text-align: center;
+  border-top: 2px solid #c7c7c7;
+  padding-top: .4rem;
+
+  @include media_larger_than_mobile {
+    float: right;
+    border-top: none;
+    padding-top: 0;
+  }
 
   .icon-link-item {
     display: inline-block;
