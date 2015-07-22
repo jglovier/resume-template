@@ -42,15 +42,35 @@
 
   .title-bar {
     @include section_border;
+    padding: .4rem 0;
+    @include clearfix;
 
     .header-title {
       @include sans;
       font-weight: 300;
       font-size: 1.75rem;
+      line-height: 2rem;
       letter-spacing: -.05rem;
       margin: 0;
+      float: left;
     }
   }
+}
+
+.icon-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: right;
+  position: relative;
+  top: 4px;
+
+  .icon-link-item {
+    display: inline-block;
+    margin-left: 5px;
+  }
+
+  .icon-link { display: inline-block; }
 }
 
 .contact-button {
