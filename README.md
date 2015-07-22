@@ -6,7 +6,11 @@
 
 ### Running locally
 
-...write me...
+To test locally, run the following in your terminal:
+
+1. `bundle install`
+2. `bundle exec jekyll serve`
+3. Open your browser to `localhost:4000`
 
 ### Customizing
 
@@ -26,7 +30,6 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 
 ## Roadmap
 
-- [ ] Add the option buttons
 - [ ] Add print button/styles
 - [ ] Add PDF button/functionality
 - [ ] Add a section for links
@@ -34,6 +37,12 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 - [ ] Add screencaps to Readme
 - [ ] Add a "fork me on GitHub" thing
 - [ ] Optimize mobile typography
+- [ ] Finish docs
+- [ ] Cleanup unused CSS
+
+## Contributing
+
+...write me...
 
 ## License
 
