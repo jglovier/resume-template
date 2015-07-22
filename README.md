@@ -27,6 +27,8 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 ## Roadmap
 
 - [ ] Add the option buttons
+- [ ] Add print button/styles
+- [ ] Add PDF button/functionality
 - [ ] Add a section for links
 - [ ] Add more theme styles
 - [ ] Add screencaps to Readme
