@@ -40,7 +40,6 @@
       </header>
 
       <!-- begin Experience -->
-
       <section class="content-section">
 
         <header class="section-header">
@@ -78,11 +77,10 @@
         </div><!-- end of resume-item -->
 
       </section>
-
       <!-- end Experience -->
 
+      {% if site.resume_section_education %}
       <!-- begin Education -->
-
       <section class="content-section">
 
         <header class="section-header">
@@ -96,8 +94,86 @@
         </div>
 
       </section>
-
       <!-- end Education -->
+      {% endif %}
+
+      {% if site.resume_section_projects %}
+      <!-- begin Projects -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Projects</h2>
+        </header>
+
+        <div class="resume-item">
+          <h3 class="resume-item-title"><a href="http://donutlocator.io">donutfinder.io</a></h3>
+          <h4 class="resume-item-details">Founder & Primary Developer &bull; 2012 &mdash; Present</h4>
+          <p class="resume-item-copy">Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.</p>
+        </div>
+
+        <div class="resume-item">
+          <h3 class="resume-item-title">Springfield Donut Eater's User Group</h3>
+          <h4 class="resume-item-details">Co-Founder & Organizer &bull; 2007 &mdash; Present</h4>
+          <p class="resume-item-copy">DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.</p>
+        </div>
+
+      </section>
+      <!-- end Projects -->
+      {% endif %}
+
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+
+        <div class="resume-item">
+          <h3 class="resume-item-title">Springfield College</h3>
+          <h4 class="resume-item-details">Associates Degree, Business Management &bull; 1984 &mdash; 1986</h4>
+          <p class="resume-item-copy">If you had any meaningful roles at college, feel free to write about them here.</p>
+        </div>
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
+      {% if site.resume_section_recognition %}
+      <!-- begin Recognition -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Recognition</h2>
+        </header>
+
+        <div class="resume-item">
+          <h3 class="resume-item-title">Springfield College</h3>
+          <h4 class="resume-item-details">Associates Degree, Business Management &bull; 1984 &mdash; 1986</h4>
+          <p class="resume-item-copy">If you had any meaningful roles at college, feel free to write about them here.</p>
+        </div>
+
+      </section>
+      <!-- end Recognition -->
+      {% endif %}
+
+      {% if site.resume_section_links %}
+      <!-- begin Links -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Links</h2>
+        </header>
+
+        <div class="resume-item">
+          <h3 class="resume-item-title">Springfield College</h3>
+          <h4 class="resume-item-details">Associates Degree, Business Management &bull; 1984 &mdash; 1986</h4>
+          <p class="resume-item-copy">If you had any meaningful roles at college, feel free to write about them here.</p>
+        </div>
+
+      </section>
+      <!-- end Links -->
+      {% endif %}
 
       <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>

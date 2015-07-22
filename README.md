@@ -36,7 +36,6 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 - [ ] Add more theme styles
 - [ ] Add screencaps to Readme
 - [ ] Add a "fork me on GitHub" thing
-- [ ] Optimize mobile typography
 - [ ] Finish docs
 - [ ] Cleanup unused CSS
 
