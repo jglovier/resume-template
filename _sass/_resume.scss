@@ -70,7 +70,13 @@
     margin-left: 5px;
   }
 
-  .icon-link { display: inline-block; }
+  .icon-link { display: inline-block;
+
+    &:hover .icon path {
+      fill: #333;
+      @include transition(all .2s ease);
+    }
+  }
 }
 
 .contact-button {
