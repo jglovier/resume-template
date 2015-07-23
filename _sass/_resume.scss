@@ -139,7 +139,8 @@
   }
 
   .resume-item-title,
-  .resume-item-details {
+  .resume-item-details,
+  .resume-item-copy {
     a {
       color: #333;
       text-decoration: none;
@@ -152,9 +153,7 @@
     }
   }
 
-  .resume-item-copy {
-    margin: .75rem 0 0;
-  }
+  .resume-item-copy { margin: .75rem 0 0; }
 }
 
 // footer styles
