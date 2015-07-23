@@ -21,7 +21,7 @@ First you'll want to fork the repo to your own account. Then clone it locally an
 
 #### Options/configuration
 
-Much Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
 [...write these out...]
 
