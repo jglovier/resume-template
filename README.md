@@ -32,12 +32,10 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 
 - [ ] Add print button/styles
 - [ ] Add PDF button/functionality
-- [ ] Add a section for links
 - [ ] Add more theme styles
-- [ ] Add screencaps to Readme
 - [ ] Add a "fork me on GitHub" thing
 - [ ] Finish docs
-- [ ] Cleanup unused CSS
+- [ ] Cleanup CSS
 
 ## Contributing
 
