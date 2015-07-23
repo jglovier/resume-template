@@ -8,7 +8,7 @@
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize. Much Most of the basic customization will take place in the `/_config.yml` file, and most of the content configuration will take place in the `/_layouts/resume.html` file
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize. Most of the basic customization will take place in the `/_config.yml` file, and most of the content configuration will take place in the `/_layouts/resume.html` file
 
 ### Running locally
 
