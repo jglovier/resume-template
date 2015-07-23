@@ -138,6 +138,20 @@
     line-height: 1;
   }
 
+  .resume-item-title,
+  .resume-item-details {
+    a {
+      color: #333;
+      text-decoration: none;
+      border-bottom: 1px solid;
+
+      &:hover {
+        border-bottom: none;
+        color: #9c9c9c;
+      }
+    }
+  }
+
   .resume-item-copy {
     margin: .75rem 0 0;
   }
