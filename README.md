@@ -43,6 +43,7 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 ## Contributing
 
 If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
+
 1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
 2. [Fork the project](https://github.com/jglovier/resume-template#fork-destination-box), make changes, and submit a pull request
 
