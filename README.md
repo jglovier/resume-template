@@ -21,11 +21,11 @@ To test locally, run the following in your terminal:
 
 ### Publishing to GitHub Pages for free
 
-...write me...
+[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
 
 ### Configuring with your own domain name
 
-...write me...
+To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
 ### Themes
 
@@ -42,7 +42,9 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 
 ## Contributing
 
-...write me...
+If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
+1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
+2. [Fork the project](https://github.com/jglovier/resume-template#fork-destination-box), make changes, and submit a pull request
 
 ## License
 
