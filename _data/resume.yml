@@ -6,7 +6,10 @@
     email: "homerjsimpson@youremailaddress.com"
     phone: "(912) 555-4321"
     website: "https://en.wikipedia.org/wiki/Homer_Simpson"
-    summary: "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S."
+    summary: |
+      This is the executive <a href='http://google.com'>summary</a>. <br>
+      You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals.<br>
+      Make the length appropriate for your needs, but <strong>K.I.S.S</strong>.
     location:
       address: "742 Evergreen Terrace"
       postalCode: "???"
