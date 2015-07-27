@@ -1,0 +1,137 @@
+---
+  basics:
+    name: "Homer J. Simpson"
+    label: "Nuclear Safety Inspector"
+    picture: "images/avatar.jpg"
+    email: "homerjsimpson@youremailaddress.com"
+    phone: "(912) 555-4321"
+    website: "https://en.wikipedia.org/wiki/Homer_Simpson"
+    summary: |
+      This is the executive <a href='http://google.com'>summary</a>. <br>
+      You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals.<br>
+      Make the length appropriate for your needs, but <strong>K.I.S.S</strong>.
+    location:
+      address: "742 Evergreen Terrace"
+      postalCode: "???"
+      city: "Springfield"
+      countryCode: "US"
+      region: "??"
+    profiles:
+      -
+        network: "GitHub"
+        username: "jglovier"
+        url: "https://github.com/jglovier/resume-template"
+      -
+        network: "Twitter"
+        username: "jglovier"
+        url: "http://twitter.com/jglovier"
+      -
+        network: "Dribbble"
+        username: "jag"
+        url: "https://dribbble.com/jag"
+      -
+        network: "LinkedIn"
+        username: "joelglovier"
+        url: "https://www.linkedin.com/in/joelglovier"
+      -
+        network: "Website"
+        url: "http://joelglovier.com"
+  work:
+    -
+      company: "Springfield Nuclear Power Plant"
+      position: "Safety Inspector"
+      website: "http://company.com"
+      startDate: "Nov, 1980"
+      endDate: "Present"
+      summary: "Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points:"
+      highlights:
+        - "Ate lots of donuts"
+        - "Fell asleep rarely"
+        - "Left promptly at end of day (sometimes earlier)"
+    -
+      company: "Sir Putt-A-Lot's Merrie Olde Fun Centre"
+      position: "Windmill Crank Operator"
+      website: "http://company.com"
+      startDate: "Jun, 1978"
+      endDate: "Sept, 1979"
+      summary: "If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience."
+    -
+      company: "Simpson Lazer Tag"
+      position: "Windmill Crank Operator"
+      website: "http://company.com"
+      startDate: "Jun, 1978"
+      endDate: "Sept, 1979"
+      summary: "If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience."
+  volunteer:
+    -
+      organization: "donutfinder.io"
+      position: "Founder & Primary Developer"
+      website: "http://organization.com/"
+      startDate: "2012"
+      endDate: "Present"
+      summary: "Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home."
+      highlights:
+        - "Awarded 'Volunteer of the Month'"
+    -
+      organization: "Springfield Donut Eater's User Group"
+      position: "Co-Founder & Organizer "
+      website: "http://organization.com/"
+      startDate: "2012"
+      endDate: "Present"
+      summary: "DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts."
+  education:
+    -
+      institution: "Springfield College"
+      area: "Business Management"
+      studyType: "Associates Degree"
+      startDate: "2011-01-01"
+      endDate: "2013-01-01"
+      gpa: "4.0"
+      courses:
+        - "If you had any meaningful roles at college, feel free to write about them here."
+  awards:
+    -
+      title: "Outstanding Achievement"
+      date: "2010"
+      awarder: "Springfield Nuclear Power Plant"
+      summary: "Awarded for stopping a nuclear meltdown, even though I also started it."
+    -
+      title: "Duff Beer Customer of the year"
+      date: "1997 - 2001, 2003, 2008 - 2012"
+      awarder: "Duff Beer"
+      summary: "Honored by Duff Beer for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed."
+    -
+      title: "Moe's Patron of the Month"
+      date: "12/2001, 8/2004"
+      awarder: "Moe"
+      summary: "Specifically this prestigious awarded twice for stopping a robber with my belly."
+  publications:
+    -
+      name: "Publication"
+      publisher: "Company"
+      releaseDate: "2014-10-01"
+      website: "http://publication.com"
+      summary: "Description..."
+  skills:
+    -
+      name: "Donut design"
+      level: "Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research"
+    -
+      name: "Craft beer brewing"
+      level: "Hops inspection, brew testing, distribution management, bottle label design, festival and event management"
+    -
+      name: "Family leadership"
+      level: "Bread winning, conflict resolution, couch inspection, TV longevity testing"
+  languages:
+    -
+      language: "English"
+      fluency: "Native speaker"
+  interests:
+    -
+      name: "Beeeeeeer"
+      keywords:
+        - "Beer"
+  references:
+    -
+      name: "Jane Doe"
+      reference: "Reference..."
