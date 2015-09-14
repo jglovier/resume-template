@@ -11,9 +11,9 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Javier Gómez"
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "Marketing Technologist"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "javierorange@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -34,13 +34,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/javierorange/resume-template"
+  resume_twitter_url:           "http://twitter.com/javiermardona"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/javiergomezg"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+ # resume_website_url:           "http://joelglovier.com"
 
 # Design settings
 resume_theme:                   default
