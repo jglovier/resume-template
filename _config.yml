@@ -22,8 +22,8 @@ resume_contact_email:
 resume_looking_for_work:        "yes"
 
 # Decide which sections to use
-# comment out to hide (Experience is not shown
-# because it is the only required section)
+# comment out to hide
+resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
