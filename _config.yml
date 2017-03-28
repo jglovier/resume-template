@@ -14,6 +14,7 @@ resume_name:                    "Homer J. Simpson"
 resume_title:                   "Nuclear Safety Inspector"
 resume_contact_email:
   "homerjsimpson@youremailaddress.com"
+resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,6 +42,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
+resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default

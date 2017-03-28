@@ -1,4 +1,4 @@
-// Resme styles
+// Resume styles
 // ---------------------------------------/
 
 // util
@@ -37,6 +37,14 @@
     letter-spacing: -.15rem;
     line-height: 1;
     margin: 1rem 0 2rem;
+  }
+
+  .header-contact-info {
+    @include sans;
+    text-align: center;
+  }
+  .header-contact-info p a {
+    color: inherit;
   }
 
   .title-bar {
@@ -173,6 +181,41 @@
     > a {
       font-weight: 700;
       color: #333;
+    }
+  }
+}
+
+.print-only { display: none !important }
+
+@media print {
+  .no-print { display: none !important }
+  .print-only { display: block !important }
+  body { font-size: 12px; line-height: 1rem; }
+  .page-header { padding: 1rem 0 .2rem;
+    .header-name {
+      @include sans_bold;
+      font-size: 2rem;
+      margin: 0 0 .2rem;
+    }
+  }
+  .section-header {
+    @include section_border_thin;
+    margin-bottom: 1rem;
+    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+  }
+  .content-section {
+    margin: 0 0 1rem;
+    .resume-item { margin-bottom: 1rem; }
+    .resume-item-title {
+      font-size: 16px;
+      line-height: .7em;
+    }
+
+    .resume-item-details {
+      font-size: 12px;
+      margin: 0;
+      line-height: .7em;
+      font-style:italic;
     }
   }
 }
