@@ -43,12 +43,7 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 
 ## Roadmap
 
-- [ ] Add print button/styles
-- [ ] Add PDF button/functionality
-- [ ] Add more theme styles
-- [ ] Add a "fork me on GitHub" thing
-- [ ] Finish docs
-- [ ] Cleanup CSS
+A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
 
 ## Contributing
 
