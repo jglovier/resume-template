@@ -32,7 +32,7 @@
         </div>
 
         <div class="executive-summary no-print" itemprop="description">
-          <p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>
+          {{ site.resume_header_intro }}
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
@@ -59,12 +59,12 @@
           <p class="resume-item-copy" style="clear: both;">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
-        
+
       </section>
       <!-- end Experience -->
       {% endif %}
 
-      
+
       {% if site.resume_section_education %}
       <!-- begin Education -->
       <section class="content-section">
@@ -99,7 +99,7 @@
           <p class="resume-item-copy" style="clear: both;">{{ project.description }}</p>
         </div>
         {% endfor %}
-        
+
       </section>
       <!-- end Projects -->
       {% endif %}
@@ -117,7 +117,7 @@
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
-        
+
       </section>
       <!-- end Skills -->
       {% endif %}
@@ -129,7 +129,7 @@
         <header class="section-header">
           <h2>Recognition</h2>
         </header>
-        
+
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
