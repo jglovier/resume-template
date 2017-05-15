@@ -1,11 +1,11 @@
 # Associations
-- organization: Beer for the World
-  role: Volunteer
-  year: 2008 &mdash; Present
-  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+#- organization: Beer for the World
+#  role: Volunteer
+#  year: 2008 &mdash; Present
+#  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
 
 
-- organization: Springfield Nuclear Workers Labor Union
-  role: Member in Good Standin
-  year: 1994 &mdash; Present
-  summary: Founding member of the local nuclear workers labor union.
+#- organization: Springfield Nuclear Workers Labor Union
+#  role: Member in Good Standin
+#  year: 1994 &mdash; Present
+#  summary: Founding member of the local nuclear workers labor union.
