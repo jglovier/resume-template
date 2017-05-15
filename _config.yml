@@ -12,10 +12,9 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Itay Weiss"
 resume_title:                   "Code Evangelist"
-resume_contact_email:
-  "itaywss@gmail.com"
+resume_contact_email: "itaywss@gmail.com"
 resume_header_contact_info: "Tel-Aviv, Israel | itaywss@gmail.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>Software developer with lots of experience in Python, .Net, C++, Operating systems, Software security, and working in Linux environment. Recent experience in the Golang. Fulfilled positions as hands-on Senior developer, Technological supervisor and Development team leader. Initiated and implemented innovative projects and adaptation of new technologies.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
