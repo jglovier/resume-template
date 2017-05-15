@@ -1,19 +1,32 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# 
+- company: Iguazio
+  position: Senior Software Engineer
+  duration: 2015 &mdash; Current
+  summary: Developing backend and API of a software defined storage system as well as Devops tools. <ul class="resume-item-list"><li>Python, Node.js and a bit of Golang</li><li>Developing on top of the docker ecosystem</li><li>Working with the bleeding edge of technology</li><li>Managing and reviewing code on github.com</li><li>Developing on multiple linux distributions</li></ul>
+
+# 
+- company: IDF (8200 intelligence unit)
+  position: Senior Software Engineer
+  duration: 2015 &mdash; 2015
+  summary: Developing a software framework in python. <ul class="resume-item-list"><li>Python, SQLite</li><li>Managing code in git working with atlassian solutions (Stash, Jira and more)</li></ul>
+
+# Blackjack Team
+- company: IDF (8200 intelligence unit)
+  position: Software Team Leader (Officer, Lieutenant)
+  duration: 2012 &mdash; 2015
+  summary: Founding and Managing a team of 10 software engineers. The team is responsible for designing and developing an Enterprise social network for thousands of users. <ul class="resume-item-list"><li>PHP, JavaScript, Node.js</li><li>Design and development of highly scalable web solutions</li><li>Project management applying both agile and TOC methodology</li><li>Maintaining a number of web 2.0 systems, mostly open source</li><li>Using Microsoft TFS as source control, including advanced features</li><li>Maintaining many server environments (Dev, Test, Production), mostly Linux</li><li>Database administration of MySql server</li></ul>
+
+# Tech Lead
+- company: IDF (8200 intelligence unit)
+  position: Senior Software Engineer
+  duration: 2011 &mdash; 2012
+  summary: In charge of designing and developing information systems for a large organization. <ul class="resume-item-list"><li>Java, .Net, oracle PL/SQL</li><li>System architecture</li><li>Worked with a large and complex oracle database</li><li>Single-handedly developed a software framework</li></ul> 
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Embedded/RT Software
+- company: IDF (8200 intelligence unit)
+  position: C++ Software Developer
+  duration: 2009  &mdash; 2011
+  summary: Worked with Altera hardware boards. <ul class="resume-item-list"><li>C/C++ Embedded development</li><li>Development on linux environments</li><li>Linux internals</li></ul> 
