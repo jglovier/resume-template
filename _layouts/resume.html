@@ -74,8 +74,9 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span><span style="display: block; float:right;">{{ education.year }}</span></h4>
+          <h3 class="resume-item-title" itemprop="name">{{ education.organization }}</h3>
+          {% for course in education.courses}
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ course.name }}</span><span style="display: block; float:right;">{{ course.year }}</span></h4>
           <h5 class="resume-item-details" itemprop="description">{{ education.awards }}</h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
@@ -134,7 +135,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organisation }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <!--<p class="resume-item-copy">{{ recognition.summary }}</p>-->
         </div>
         {% endfor %}
 
@@ -180,6 +181,25 @@
 
       </section>
       <!-- end Links -->
+      {% endif %}
+
+      {% if site.resume_section_other %}
+      <!-- begin Other -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Other</h2>
+        </header>
+
+      <ul class="resume-item-list">
+        {% for misc in site.data.other %}
+          <div class="resume-item">
+            <li> {{ misc.summary }} </li>
+          </div>
+        {% endfor %}
+      </ul>
+      </section>
+      <!-- end Other -->
       {% endif %}
 
       {% if site.resume_print_social_links %}
