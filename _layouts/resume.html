@@ -55,8 +55,8 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ job.position }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
-          <p class="resume-item-copy" style="clear: both;">{{ job.summary }}</p>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -75,8 +75,8 @@
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span><span style="display: block; float:right;">{{ education.year }}</span></h4>
-          <h5 class="resume-item-details" itemprop="description">{{ education.awards }}</h5>
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards }}</h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
@@ -95,8 +95,8 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ project.project }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ project.role }}</span><span style="display: block; float:right;">{{ project.duration }}</span></h4><br/>
-          <p class="resume-item-copy" style="clear: both;">{{ project.description }}</p>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
 
