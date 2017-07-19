@@ -27,23 +27,23 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+#resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/mattups"
   resume_twitter_url:           "https://twitter.com/mattia_tupone"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://mattups.github.io/resume/"
 resume_print_social_links:      true
 
 # Design settings
