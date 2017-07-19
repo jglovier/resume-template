@@ -38,7 +38,7 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/mattups"
-  resume_twitter_url:           "https://twitter.com/mattia_tupone"
+  #resume_twitter_url:           "https://twitter.com/mattia_tupone"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
