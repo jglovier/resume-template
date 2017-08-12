@@ -12,8 +12,9 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Homer J. Simpson"
 resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+resume_contact_email:           "homerjsimpson@youremailaddress.com"
+resume_contact_telephone:       "555-7334"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
