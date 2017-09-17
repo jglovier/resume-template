@@ -11,11 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mattia Tupone"
-resume_title:                   "SysAdmin/IT Technician"
+resume_title:                   "SysAdmin/DevOps"
 resume_contact_email:
   "tupone.mattia@gmail.com"
 resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
-resume_header_intro: "<p>Just a young guy who loves IT, programming and tries to become more and more professional.</p>"
+resume_header_intro: "<p>I'm a 22 years old SysAdmin/DevOps based in Italy with the passion for IT systems and coding. Moving across servers, code and deployments, i started working as a professional in 2016 gaining and maturing experience day-by-day, always looking for new technologies and methods.
+Skilled with virtualization technologies as VMware vSphere Suite and Microsoft Windows/Linux ecosystems.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
