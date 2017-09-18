@@ -18,13 +18,6 @@
     <li>Configuration and administration of Fortinet (FortiGate, FortiClient);</li>
     <li>Set up and manage VPN systems (SSL).</li>
 
-- skill: Virtualization
-  description: <ul class="resume-item-list">
-    <li>Design, implementation and maintenance of vSphere-ESXi 6.0 server infrastructure;</li>
-    <li>Configuration and deployment of virtual machines;</li>
-    <li>Backup and creating snapshots, restore the same;</li>
-    <li>Using vCenter, VMware Workstation 12 Pro, VMware Player, Oracle VirtualBox.</li>
-
 - skill: Programming
   description: <ul class="resume-item-list">
     <li>HTML/CSS;</li>
