@@ -56,9 +56,20 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+	  <table border="0" width="100%"><tr>
+	      <td><h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3></td>
+	      <td align="right">{{job.location}}</td>
+	    </tr></table>
+	  <table border="0" width="100%"><tr>
+	      <td><h4 class="resume-item-details" itemprop="name">{{ job.position}}</h4></td>
+	      <td align="right">{{job.duration}}</td>
+	    </tr></table>
           <p class="resume-item-copy">{{ job.summary }}</p>
+	  <ul class="resume-item-copy">
+          {% for item in job.items %}
+          <li>{{ item }}</li>
+          {% endfor %}
+	  </ul>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -76,10 +87,21 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-          <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards }}</h5>
-          <p class="resume-item-copy">{{ education.summary }}</p>
+	  <table border="0" width="100%"><tr>
+	      <td><h3 class="resume-item-title" style="display:inline" itemprop="name">{{ education.uni}}, </h3>
+		{% if education.gpa %} GPA {{education.gpa}} {% endif %}
+	      </td>
+	      <td align="right">{{education.location}}</td>
+	    </tr></table>
+	  <table border="0" width="100%"><tr>
+	      <td><h4 class="resume-item-details" itemprop="name"> {{ education.degree}}</h4></td>
+	      <td align="right">{{education.year}}</td>
+	    </tr></table>
+          <p class="resume-item-copy">{{ education.summary }}
+          {% if education.awards %}
+	    Received the {{ education.awards }}
+          {% endif %}</p>
+	  </p>
         </div>
         {% endfor %}
       </section>
@@ -222,8 +244,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line no-print">This resume available to fork at <a href="{{site.resume_social_links.resume_github_repo_url}}">Github</a>.</p>
       </footer>
 
     </div>

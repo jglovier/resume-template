@@ -88,6 +88,11 @@
   font-weight: 700;
 }
 
+@mixin serif_light {
+  @include serif;
+  font-weight: 300;
+}
+
 // layout
 
 @mixin section_border {

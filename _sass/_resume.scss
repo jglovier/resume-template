@@ -8,12 +8,13 @@
   margin-bottom: 1.5rem;
 
   h2 {
-    @include sans;
-    font-weight: 900;
+    @include serif;
+    font-weight: 300;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
   }
+
 }
 
 // page header styles
@@ -30,9 +31,9 @@
   }
 
   .header-name {
-    @include sans;
+    @include serif;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: 400;
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
@@ -40,7 +41,7 @@
   }
 
   .header-contact-info {
-    @include sans;
+    @include serif;
     text-align: center;
   }
   .header-contact-info p a {
@@ -53,7 +54,7 @@
     @include clearfix;
 
     .header-title {
-      @include sans;
+      @include serif;
       font-weight: 300;
       font-size: 1.75rem;
       line-height: 2rem;
@@ -112,7 +113,7 @@
   margin: 1.5rem auto;
   width: 220px;
   font-size: 1.375rem;
-  @include sans_light;
+  @include serif_light;
   color: #333;
   line-height: 55px;
   @include transition(all .2s ease);
@@ -130,19 +131,21 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item { margin-bottom: 1.5rem; }
+
 
   .resume-item-title {
-    @include sans_bold;
-    margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    @include serif;
+    margin: 0 0 .25rem;
+    font-weight: 600;
+    font-size: 1.4rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
     font-size: 1.125rem;
-    margin: 0 0 .75rem;
+    margin: 0 0 .25rem;
     line-height: 1;
 
     &.award-title {
@@ -167,6 +170,7 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-list { margin: .75rem 0 0; }
 }
 
 // footer styles
@@ -194,10 +198,16 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
+  a {
+      color: black;
+      text-decoration: none;
+      border-bottom: none;
+  }
   body { font-size: 12px; line-height: 1rem; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
-      @include sans_bold;
+      @include serif_bold;
+      font-weight: 600;
       font-size: 2rem;
       margin: 0 0 .2rem;
     }
@@ -221,5 +231,18 @@
       line-height: .7em;
       font-style:italic;
     }
+    // if you want to remove underlines for links, add this.
+    // note it seems Chrome prints PDFs w/ links active/clickable
+    // but using the system dialogue to create PDF does not
+  //.resume-item-title,
+  //.resume-item-details,
+  //.resume-item-copy,
+  //.resume-item-list {
+  //  a {
+  //    text-decoration: none;
+  //    border-bottom: none;
+  //  }
+  // }
   }
 }
+
