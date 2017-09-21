@@ -7,7 +7,7 @@
     <li>Configuring LAMP systems, XAMPP, WAMP;</li>
     <li>Microsoft Windows 7, 8.1, 10;</li>
     <li>Microsoft Windows Server 2012 R2;</li>
-    <li>Ubuntu 4.14 LTS, 15.10, 16.04 LTS;</li>
+    <li>Ubuntu 14.14 LTS, 15.10, 16.04 LTS;</li>
     <li>Ubuntu Server LTS, CentOS 7.</li>
     </ul>
 
@@ -15,7 +15,7 @@
   description: <ul class="resume-item-list">
     <li>Understanding and configuration of a network;</li>
     <li>Knowledge, configuration and maintenance of the hardware components of a network;</li>
-    <li>Configuration and administration of Fortinet (FortiGate, FortiClient);</li>
+    <li>Configuration and administration of Fortinet systems (FortiGate, FortiClient);</li>
     <li>Set up and manage VPN systems (SSL).</li>
 
 - skill: Programming
@@ -26,8 +26,8 @@
     <li>Bootstrap;</li>
     <li>PHP;</li>
     <li>Wordpress;</li>
+    <li>Bash scripting.</li>
     <li>Basic knowledge of C#, C++;</li>
-    <li>Basic knowledge of bash scripting.</li>
 
 - skill: Databases
   description: <ul class="resume-item-list">
@@ -37,10 +37,11 @@
 - skill: Cloud Computing
   description: <ul class="resume-item-list">
     <li>Microsoft Azure platform.</li>
+    <li>Amazon AWS.</li>
 
 - skill: Other
   description: <ul class="resume-item-list">
     <li>Expertise in the use of Git and SVN version control systems;</li>
     <li>Excellent skills in the use of remote support software LogMeIn, TeamViewer, AnyDesk;</li>
-    <li>Basic knowledge of Photoshop and GIMP software;</li>
+    <li>Basic knowledge of Adobe Photoshop, Adobe Illustrator and GIMP;</li>
     <li>Basic knowledge of Unity3D graphics engine and Unreal Engine.</li>
