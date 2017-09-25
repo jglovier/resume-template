@@ -3,13 +3,18 @@
   description: <ul class="resume-item-list">
     <li>Configuration and installation of hardware/software systems;</li>
     <li>Maintenance, support, backup and restore;</li>
-    <li>log analysis, troubleshooting;</li>
+    <li>Log analysis, troubleshooting;</li>
     <li>Configuring LAMP systems, XAMPP, WAMP;</li>
     <li>Microsoft Windows 7, 8.1, 10;</li>
     <li>Microsoft Windows Server 2012 R2;</li>
     <li>Ubuntu 14.14 LTS, 15.10, 16.04 LTS;</li>
     <li>Ubuntu Server LTS, CentOS 7.</li>
     </ul>
+
+- skill: Systems Monitoring
+  description: <ul class="resume-item-list">
+    <li>Zabbix;</li>
+    <li>Netdisco.</li>
 
 - skill: Networking
   description: <ul class="resume-item-list">
@@ -36,12 +41,17 @@
 
 - skill: Cloud Computing
   description: <ul class="resume-item-list">
-    <li>Microsoft Azure platform.</li>
+    <li>Microsoft Azure platform;</li>
     <li>Amazon AWS.</li>
+
+- skill: Version Control Systems
+  description: <ul class="resume-item-list">
+    <li>Git;</li>
+    <li>GitHub;</li>
+    <li>SVN.</li>
 
 - skill: Other
   description: <ul class="resume-item-list">
-    <li>Expertise in the use of Git and SVN version control systems;</li>
     <li>Excellent skills in the use of remote support software LogMeIn, TeamViewer, AnyDesk;</li>
     <li>Basic knowledge of Adobe Photoshop, Adobe Illustrator and GIMP;</li>
     <li>Basic knowledge of Unity3D graphics engine and Unreal Engine.</li>
