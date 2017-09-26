@@ -2,56 +2,63 @@
 - skill: Systems
   description: <ul class="resume-item-list">
     <li>Configuration and installation of hardware/software systems;</li>
-    <li>Maintenance, support, backup and restore;</li>
+    <li>Maintenance, support, backup strategies and restore;</li>
     <li>Log analysis, troubleshooting;</li>
-    <li>Configuring LAMP systems, XAMPP, WAMP;</li>
-    <li>Microsoft Windows 7, 8.1, 10;</li>
-    <li>Microsoft Windows Server 2012 R2;</li>
-    <li>Ubuntu 14.14 LTS, 15.10, 16.04 LTS;</li>
-    <li>Ubuntu Server LTS, CentOS 7.</li>
+    <li>In-depth knowledge of Microsoft Windows system applications and operating systems;</li>
+    <li>In-depth knowledge of Linux/UNIX system applications and operating systems.</li>
     </ul>
 
 - skill: Systems Monitoring
   description: <ul class="resume-item-list">
     <li>Zabbix;</li>
     <li>Netdisco.</li>
+    </ul>
 
 - skill: Networking
   description: <ul class="resume-item-list">
     <li>Understanding and configuration of a network;</li>
     <li>Knowledge, configuration and maintenance of the hardware components of a network;</li>
     <li>Configuration and administration of Fortinet systems (FortiGate, FortiClient);</li>
-    <li>Set up and manage VPN systems (SSL).</li>
+    <li>Set up and manage SSL VPN systems.</li>
+    </ul>
 
 - skill: Programming
   description: <ul class="resume-item-list">
     <li>HTML/CSS;</li>
     <li>JavaScript, TypeScript;</li>
-    <li>jQuery;</li>
-    <li>Bootstrap;</li>
     <li>PHP;</li>
-    <li>Wordpress;</li>
+    <li>Bootstrap, Wordpress;</li>
     <li>Bash scripting.</li>
-    <li>Basic knowledge of C#, C++;</li>
+    <li>Basic knowledge of C, C#, C++;</li>
+    </ul>
 
 - skill: Databases
   description: <ul class="resume-item-list">
     <li>MySQL;</li>
     <li>SQL Server 2012/2014.</li>
+    </ul>
 
 - skill: Cloud Computing
   description: <ul class="resume-item-list">
     <li>Microsoft Azure platform;</li>
     <li>Amazon AWS.</li>
+    </ul>
+
+- skill: Deploying Tools
+  description: <ul class="resume-item-list">
+    <li>Docker.</li>
+    </ul>
 
 - skill: Version Control Systems
   description: <ul class="resume-item-list">
     <li>Git;</li>
     <li>GitHub;</li>
     <li>SVN.</li>
+    </ul>
 
 - skill: Other
   description: <ul class="resume-item-list">
-    <li>Excellent skills in the use of remote support software LogMeIn, TeamViewer, AnyDesk;</li>
+    <li>Proficient with Ubuntu (LTS), Debian, CentOS 7, Windows 7/10, Windows Server 2012 R2;</li>
     <li>Basic knowledge of Adobe Photoshop, Adobe Illustrator and GIMP;</li>
     <li>Basic knowledge of Unity3D graphics engine and Unreal Engine.</li>
+    </ul>
