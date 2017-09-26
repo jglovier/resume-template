@@ -1,10 +1,8 @@
 # Recognitions
-- award: VMware Certified Professional 6 - Data Center Virtualization (VCP6-DCV)
-  organization: VMware
+- award: VMware Certified Professional 6 - Data Center Virtualization
+  organization: (VCP6-DCV), VMware
   year: 2017
-  summary:  <ul class="resume-item-list">
-               <li>Certification Date - Saturday, September 16, 2017</li>
-               <li>Valid Through - Monday, September 16, 2019</li>
-               <li>Candidate ID - VMW-02120218G-00616311</li>
-               <li>Renewal Date - Saturday, September 16, 2017</li>
-             </ul>
+  summary:  <p>Certification Date - Saturday, September 16, 2017<br>
+               Valid Through - Monday, September 16, 2019<br>
+               Candidate ID - VMW-02120218G-00616311<br>>
+               Renewal Date - Saturday, September 16, 2017</p>
