@@ -1,19 +1,38 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Senior Software Engineer
+- company: Early Warning
+  position: Senior Software Engineer
+  duration: Sept, 2016 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Provided an evaluation and guidance on the Couchbase server product. (C#/.Net, Couchbase, AWS) </li><li>Evaluated conversational interfaces and available natural language processing solutions. (Amazon Alexa/Lex, Google Actions, Microsoft Luis, IBM Watson, Rasa.AI) </li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Software Engineer
+- company: Early Warning
+  position: Software Engineer
+  duration:  Jul, 2014 &mdash; Sept, 2016
+  summary: <ul class="resume-item-list"><li>Lead team to create a successful PoC of Amazon Alexa integration with Early Warning products, for real time peer to peer payments. (C#/ASP.NET, Google Firebase messaging, Amazon Alexa, MSSQL) </li><li>Designed, developed and maintained REST services/APIs (C#/WCF/ASP.NET, Zuora API, Salesforce API, MSSQL) to support the billing system and customer facing portal.</li><li>Designed, developed and maintained C# applications that consume the billing REST services to perform billing and customer portal operations. Deliver 100% accurate and on time billing data to Zuora to facilitate smooth invoicing. Maintained 100% accurate and on time delivery of data to customers via Salesforce. </li><li>Developed and maintained support tools and libraries to be used by internal customers, as well as inter-team (C#/.NET, IronPython, Python, Node.js) Projects included a search tool to provide a near real time, free text search of all customer transactions. (ElasticSearch, C#/.NET) and a tool to provide internal customers with an interface to onboard new customers. (WCF, C#/.NET, MSSQL)</li></ul>
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Software Developer
+- company: Always in Touch, LLC
+  position: Software Developer
+  duration:   Jun, 2013  &mdash; Jun, 2014
+  summary: <ul class="resume-item-list"><li>Developed and maintained a server in C#/NET 4.0 to receive incoming SMS, transform and dispatch the received data over TCP/IP to a web application linking to PostgreSQL database. Database interaction (read/write) via ODBC used for special cases of SMS. Reversely, data is received over TCP/IP and transformed and dispatched via SMS.</li><li>Designed, developed and maintain a serial based debugging protocol and tool in C#, .NET 4.0 and WPF to be used with our devices. The application reads data from selected COM port and displays data appropriately in dynamically created windows dictated by our packet structure.</li><li>Developed and maintained an internal web tool in ASP.NET to allow employees to send SMS to our devices following our message structure without having to actually know the structure.</li><li>Reverse engineered USB based home medical devices (blood glucose monitor, pulse-ox, etc...) to integrate their data the Onkol device.</li></ul>
+
+  # Software Engineer
+- company: Atlas Material Testing / AMETEK 
+  position: Software Engineer
+  duration:   Jan, 2012  &mdash; May, 2013
+  summary: <ul class="resume-item-list"><li>Worked with product management to acquire product requirements, designed and developed enhancements for embedded applications. </li><li>Provided maintenance and support for  the Panel PC software to minimize bugs and risks in the field. Customer complaints and suggestions are dealt with promptly and new features are integrated. (CLR/C++, WinForms)</li><li>Launched and continued to support the S3T System (CLR/C++, WinForms)</li><li>Customized JIRA to be used as the Engineering Change Request system, moved existing Excel system into JIRA system.</li><li>Developed and maintained a time reporting database and UI for the engineering department.</li><li>Integrated and maintained code for hardware control including pyrometers, spectrometers, RFID readers and tags, motors, humidifiers, various sensors including but not limited to light, temperature, and humidity.</li></ul>
+
+ # Software Test Technician
+- company: Atlas Material Testing / AMETEK 
+  position: Software Test Technician
+  duration:   May, 2011  &mdash; Jan, 2012
+  summary: <ul class="resume-item-list"><li>Designed and performed software Verification and Validation. </li><li>Developed and launched a new product, the Panel PC. A migration from ARM9 based systems to an Intel Atom x32, Windows XP Embedded, based control system. Developed encryption and versioning systems. (CLR/C++, WinForms)</li><li>Designed and developed the S3T: Specimen Specific Surface Temperature Add-on System. (Ci Weather-ometers) S3T project utilized an RFID system and a pyrometer to monitor surface temperature of samples on a rotating rack in the Ci series of instruments. Wrote the system level and software subsystem requirements for the project. (CLR/C++, WinForms)</li></ul>
+
+  # Intern
+- company: Atlas Material Testing / AMETEK 
+  position: Intern
+  duration:   Sept, 2010  &mdash; May, 2011
+  summary: Developed, created and maintained validation plans for existing projects, requirements management plan for future projects.<ul class="resume-item-list"><li>Designed and performed software Verification and Validation.</li><li>Redesigned and developed the Laboratory Information Management System used for the Chicago Calibration Lab. (MS Access)</li></ul>
+
