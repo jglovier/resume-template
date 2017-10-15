@@ -1,19 +1,37 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
+# Senior Software Engineer
+- company: Early Warning
+  position: Senior Software Engineer
+  duration: Sept, 2016 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
+# Software Engineer
+- company: Early Warning
+  position: Software Engineer
+  duration:  Jul, 2014 &mdash; Sept, 2016
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Software Developer
+- company: Always in Touch, LLC
+  position: Software Developer
+  duration:   Jun, 2013  &mdash; Jun, 2014
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+  # Software Engineer
+- company: Atlas Material Testing / AMETEK 
+  position: Software Engineer
+  duration:   Jan, 2012  &mdash; May, 2013
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+ # Software Test Technician
+- company: Atlas Material Testing / AMETEK 
+  position: Software Test Technician
+  duration:   May, 2011  &mdash; Jan, 2012
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+  # Intern
+- company: Atlas Material Testing / AMETEK 
+  position: Intern
+  duration:   Sept, 2010  &mdash; May, 2011
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
