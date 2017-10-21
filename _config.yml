@@ -44,7 +44,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/bill-highley"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  # resume_website_url:           "http://DNSName.com"
 resume_print_social_links:      true
 
 # Design settings
