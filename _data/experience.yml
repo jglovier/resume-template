@@ -16,26 +16,46 @@
   summary:  <ul class="resume-item-list"><li>Led strategic direction for threat intelligence and analytics</li><li> Designed and led implementation of security analytics capability leveraging <a href=http://www.splunk.com>Splunk</a></li><li>Led computer forensics capability, in coordination with Legal</li><li>Provided Tier 3 incident response, including mentoring Tier 1 and 2 analysts</li><li>Designed and implemented automation across security function, reducing mean time to resolution by 92%</li></ul>
 
 # Baylor
-- company: <a href=http://www.baylor.edu>Baylor</a>
+- company: <a href=http://www.baylor.edu>Baylor University</a>
   position: Senior Information Security Analyst
   duration: September 2010 &mdash; April 2013
   summary: <ul class="resume-item-list"><li>Principal technical analyst reporting to university ISO</li><li>Technical lead for PCI compliance effort including project management of technical implementations.  Member of the Payment Card Oversight committee responsible for payment card usage university wide</li><li>Lead development and operation of technical detection mechanisms for security incidents</li><li>Develop incident response process and lead incident response team</li><li>Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel</li><li>Assist in development of campus-wide security policies and roadmaps, in addition to standard vendor contract reviews and negotiations</li><li>Conduct exploratory research into emerging security technologies</li></ul>
 
+- position: Information Security Analyst
+  duration: January 2008 &mdash; August 2009
+  summary:  <ul class="resume-item-list"><li>Principal technical analyst reporting to the university ISO</li><li>Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel</li><li>Review and approve network firewall policy requests and implementations</li><li>Administer Intrusion Prevention (IPS) hardware and software, along with Network Anomaly Detection system (ADS)</li><li>Conduct exploratory research into emerging security technologies</li></ul>
+
+- position: Network Security Analyst / Programmer
+  duration: August 2004 &mdash; January 2008
+  summary: <ul class="resume-item-list"><li>Define and implement procedures to identify and remediate cyber-security threats utilizing firewalls, IPS, and ADS</li><li>Develop customized software packages to facilitate monitoring, securing, and troubleshooting the network</li><li>Provide technical insight for hardware and policy decisions, including business impact of technology acquisitions, affecting more than 8,000 networked devices</li><li>Coordinate with other groups within the university to identify and resolve IT issues quickly</li><li>Administer departmental Linux servers of a variety of flavors, including Redhat, Gentoo, and Ubuntu, as well as MySQL</li></ul>
+
+# Baylor Adjunct
+- company: <a href=http://www.ecs.baylor.edu>Baylor University - School of Engineering & Computer Science</a>
+  position: Adjunct Professor of Computer Science
+  duration: January 2012 &mdash; December 2012
+  summary: Instructor for Data Structures (<a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_s12>Spring 2012</a>, <a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_12f>Fall 2012</a>)
+
+# LLNL
+- company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
+  position: Senior Cyber Security Specialist
+  duration: August 2009 &mdash; September 2010
+  summary: <ul class="resume-item-list"><li>Liaison between security research groups and security operations teams</li><li>Implement and automate CWSandbox to enhance rapid-response forensic capability of Incident Management Team (IMT)</li><li>Redesign web log analysis capability, including correlation with full-packet capture</li><li>Mentor 6 summer interns working in varying security related fields as part of 2010 CyberDefenders intern program</li><li>Provide in-depth network forensics and cyber security incident response to entire DOE (Work required DOE Q/SCI security clearance with SSBI)</li></ul>
+
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
-
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# - company: Springfield Nuclear Power Plant
+#   position: Safety Inspector
+#   duration: Nov, 1980 &mdash; Present
+#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+#
+# # Windmill Crank Operator
+# - company: Sir Putt-A-Lot's Merrie Olde Fun Centre
+#   position: Safety Inspector
+#   duration:  Jun, 1978 &mdash; Sept, 1979
+#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+#
+#
+# # Front Desk Attendant
+# - company: Simpson Lazer Tag
+#   position: Front Desk Attendant
+#   duration:   Jun, 1975  &mdash; May, 1978
+#   summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
