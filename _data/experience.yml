@@ -3,7 +3,12 @@
 - company: <a href=http://www.nike.com>NIKE Inc.</a>
   position: Director, Information Security Governance and Metrics
   duration: June, 2016 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Accountable for Enterprise-wide information security program aligned with ISO</li><li>Lead delivery of portfolio-wide metrics, utilized at Board & senior leadership levels</li><li>Accountable for ensuring all security programs operate in accordance with Enterprise security policies</li><li>Oversee security exception and risk register processes, providing foundation for risk-driven strategic alignment for the security program</li><li>Serve as a primary GRC liaison to Internal Audit, Legal, and Privacy Counsel</li></ul>
+  summary: >
+    <ul class="resume-item-list"><li>Accountable for Enterprise-wide information security program aligned with ISO</li>
+    <li>Lead delivery of portfolio-wide metrics, utilized at Board & senior leadership levels</li>
+    <li>Accountable for ensuring all security programs operate in accordance with Enterprise security policies</li>
+    <li>Oversee security exception and risk register processes, providing foundation for risk-driven strategic alignment for the security program</li>
+    <li>Serve as a primary GRC liaison to Internal Audit, Legal, and Privacy Counsel</li></ul>
 
 
 - position: Director, Cyber Threat Analytics

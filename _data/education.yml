@@ -1,6 +1,12 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- uni: Springfield College
+  degree: M.Sc., <a href=http://www.ecs.baylor.edu/>Computer Science</a>
+  year: 2009
+  awards: >
+    <ul class=resume-item-list"><li>Graduate GPA: 4.0</li>
+    <li>Thesis: <a href=http://adamsealey.com/papers/adam_sealey_masters.pdf>Solving the F/A-18 Mission Computer Virtual Memory Problem</a></li></ul>
+
+- degree: B.Sc., <a href=http://www.ecs.baylor.edu/>Computer Science</a> (with Honors)
+  year: 2004
+
+  #summary: If you had any meaningful roles at college, feel free to write about them here
