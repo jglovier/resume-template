@@ -1,4 +1,26 @@
 # Jobs
+# NIKE
+- company: <a href=http://www.nike.com>NIKE Inc.</a>
+  position: Director, Information Security Governance and Metrics
+  duration: June, 2016 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Accountable for Enterprise-wide information security program aligned with ISO</li><li>Lead delivery of portfolio-wide metrics, utilized at Board & senior leadership levels</li><li>Accountable for ensuring all security programs operate in accordance with Enterprise security policies</li><li>Oversee security exception and risk register processes, providing foundation for risk-driven strategic alignment for the security program</li><li>Serve as a primary GRC liaison to Internal Audit, Legal, and Privacy Counsel</li></ul>
+
+
+- position: Director, Cyber Threat Analytics
+  duration: April 2014 &mdash; May 2016
+  summary:  <ul class="resume-item-list"><li>Established new analytic team and capability focused on collecting large amounts (> 10TB/day) of security logs and identifying malicious behavior</li
+            </li><li>Leveraged new capability to divest outsourced MSSP, saving over \$500K annually</li><li>Led combination of <a href=http://www.splunk.com>Splunk</a> capability across five Nike groups under one instance, saving over $75M in 3 years</li><li>Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning</li><li>Responsible for management of entire security portfolio finances, totaling over $50M</li></ul>
+
+- position: Senior Information Security Engineer
+  duration: April 2013 &mdash; April 2014
+  summary:  <ul class="resume-item-list"><li>Led strategic direction for threat intelligence and analytics</li><li> Designed and led implementation of security analytics capability leveraging <a href=http://www.splunk.com>Splunk</a></li><li>Led computer forensics capability, in coordination with Legal</li><li>Provided Tier 3 incident response, including mentoring Tier 1 and 2 analysts</li><li>Designed and implemented automation across security function, reducing mean time to resolution by 92%</li></ul>
+
+# Baylor
+- company: <a href=http://www.baylor.edu>Baylor</a>
+  position: Senior Information Security Analyst
+  duration: September 2010 &mdash; April 2013
+  summary: <ul class="resume-item-list"><li>Principal technical analyst reporting to university ISO</li><li>Technical lead for PCI compliance effort including project management of technical implementations.  Member of the Payment Card Oversight committee responsible for payment card usage university wide</li><li>Lead development and operation of technical detection mechanisms for security incidents</li><li>Develop incident response process and lead incident response team</li><li>Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel</li><li>Assist in development of campus-wide security policies and roadmaps, in addition to standard vendor contract reviews and negotiations</li><li>Conduct exploratory research into emerging security technologies</li></ul>
+
 # Springfield Nuclear Power Plant
 - company: Springfield Nuclear Power Plant
   position: Safety Inspector
