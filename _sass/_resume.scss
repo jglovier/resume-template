@@ -101,6 +101,10 @@
       @include transition(all .2s ease);
     }
   }
+
+  .icon {
+    height: 28px;
+  }
 }
 
 .contact-button {
