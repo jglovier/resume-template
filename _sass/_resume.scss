@@ -10,7 +10,7 @@
   h2 {
     @include sans;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1rem;
     letter-spacing: -.05rem;
     margin: 0;
   }
@@ -55,7 +55,7 @@
     .header-title {
       @include sans;
       font-weight: 300;
-      font-size: 1.75rem;
+      font-size: 1.5rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
       text-align: center;
@@ -69,7 +69,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 0.875rem; }
   }
 }
 
@@ -139,13 +139,13 @@
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 1.125rem;
+    font-size: 0.875rem;
     margin: 0 0 .75rem;
     line-height: 1;
 
@@ -215,7 +215,7 @@
     margin: 0 0 1rem;
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
-      font-size: 16px;
+      font-size: 14px;
       line-height: .7em;
     }
 
