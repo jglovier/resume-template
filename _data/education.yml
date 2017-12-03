@@ -1,6 +1,23 @@
-# Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: BASc. Electrical Engineering, BSc Computing Technology
+  uni: University of Ottawa
+  year: 2014 &mdash; Present
+  summary: >
+    Actively involved with the Centre for Entrepreneurship and Engineering Design working on various engineering projects,
+    Most notably team captain of uOttawa Rocketry, an interdisciplinary engineering team competing in the international
+    Spaceport America Cup.
+  list:
+    - Control Systems Specialization
+    - Nortel Networks Scholarship
+    - Dean's Honor List
+    - 2018 Ontario Engineering Programming Competition Director
+
+- degree: International Baccalaureate Diploma
+  uni: Michael Power St. Josephs
+  year: 2010 &mdash; 2014
+  summary: >
+    Specialized in History and Physics in this academically intensive and globally recognized program. Participated in
+    student ventures such as Free The Children, and Duke of Edinburgh Award
+  list:
+    - Completed 3 University Level Courses
+    - Core French Certificate
+    - 4 year Re-elected member of Student Council

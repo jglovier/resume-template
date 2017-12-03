@@ -1,19 +1,45 @@
-# Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Shopify
+  position: Full Stack Developer
+  duration: Jan, 2017 &mdash; Present
+  summary: >
+    Worked on the Services Marketplace Team building a platform to broker agreements between
+    Entrepreneurs and contract professionals. On this high productivity team, I worked on range of project scales.
+    Responsible for collaborating across the company with stakeholders of different disciplines and backgrounds.
+  list:
+    - Built a recommendation system leveraging Apache Kafka
+    - Developed applications using Linux, React, Rails, MySql stack
+    - Contributed to the open source Experiments Framework <a href="https://github.com/shopify/verdict">Verdict</a>
+    - Used operational tools such as ModeAnalytics and Datadog
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Microsemi
+  position: Software Engineer
+  duration:  May, 2016 &mdash; Sept, 2016
+  summary: >
+    Worked alongside the Timing and Synchronization R&D Team developing Microsoft
+    .NET applications to help customers and internal engineers configure embedded
+    timing chips over FTDI.
+  list:
+    - Designed algorithms used for configuring device registers and selecting frequency parameters
+    - Programmed .NET applications in C# and .dll libraries in C++ both from scratch and on top of existing code
+    - Conducted validation of power consumption and signal quality on timing devices
+    - Read and produced circuit schematics and semiconductor datasheets
 
+- company: Sportstats Technology and Timing Ltd.
+  position: Race Timer
+  duration:  Oct, 2014 &mdash; Present
+  summary: >
+    Responsible for timing both high profile events (ex. Toronto Marathon) and local
+    races. Worked under high stress circumstances, and required to perform tasks
+    quickly and consistently without errors
+  list:
+    - Use of RFID timing systems which involved troubleshooting electromagnetic interference, GSM connectivity etc.
+    - Worked with FTP client-server to post live results
+    - Worked with RunScore database system to validate and score results
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Student Academic Success Services
+  position: Engineering Math Mentor
+  duration:  Jan, 2015 &mdash; May, 2017
+  list:
+    - Organized study groups for Linear Algebra and Calculus I & II
+    - Provided one on one counseling for students at academic risk
+    - Pioneered student academic engagement events; Are you Smarter Than a Prof, and Trivia Crack

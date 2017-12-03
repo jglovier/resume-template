@@ -98,6 +98,28 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      {% for group in site.data.skills %}
+      <section class="content-section">
+        <header class="section-header">
+          <h2>{{ group.title }} Skills</h2>
+        </header>
+        <div class="resume-item">
+          {% for skill in group.skills %}
+          <h3 class="resume-item-title" itemprop="name">{{ skill.title }}</h3>
+          <ul class="resume-item-list">
+          {% for item in skill.list %}
+            <li>{{ item }}</li>
+          {% endfor %}
+          </ul>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+      <!-- end Skills -->
+      {% endif %}
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -116,24 +138,6 @@
 
       </section>
       <!-- end Projects -->
-      {% endif %}
-
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
@@ -233,8 +237,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+
       </footer>
 
     </div>

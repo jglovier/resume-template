@@ -1,12 +1,66 @@
-# Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- title: Hardware Engineering
+  skills:
+    - title: Control Systems
+    - list:
+      - Design stable systems using Root Locus Technique, analytically and computationally using Matlab Control Systems Toolbox
+      - Signal filtering techniques such as Frequency, and Kalman filtering
+      - Operational understanding electromechanical devices and required support circuitry
+      - Proficient in VHDL for programming PLCs and FPGA specifically using Altair devices
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+    - title: Communication Systems
+    - list:
+      - Operational understanding of routing in LAN and WAN networks
+      - Designed transmitters and receivers using various multiplexing and modulation techniques
+      - Understand the limitations of various communication mediums and protocols
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+    - title: Simulation Construction
+    - list:
+      - Modeled complex time dependent systems in Matlab using transfer matrix method and Fourier transfer functions
+      - Used Matlab Simulink to solve optimization problems
+      - Used Multisim to analyze performance of circuits
+      - Self-taught FEA, and CFD simulations of basic geometry using both Solidworks and Simscale
+      - Used lab instrumentation to analyze circuits particularly the oscilloscope, logic analyzer, and 5052 spectrum analyzer
+
+    - title: Computer Aided Design & Manufacturing
+    - list:
+      - Designed custom PCB Layouts in Eagle CAD and worked through the process of submitting boards for fabrication
+      - Built 3D models using Solidworks; conducting motion studies on mechanical assemblies
+      - Experienced in the use of rapid prototyping tools, particularly laser cutting and 3D printing
+      - Hands on experience with traditional fabrication techniques, such as lathe, mill, TIG welding and sheet metalworking
+
+- title: Software Engineering
+  skills:
+    - title: Language Literacy
+    - list:
+      - Advanced concepts of C++, specifically smart pointers and implementing buffered communication systems
+      - Ruby in the context of Rails, as well as for general scripting, OOP, and hacking things together
+      - Python for embedded programming, Numpy mathematical modeling, and Tensorflow machine learning
+      - Javascript for front end applications, as well enhancing Google Sheets
+      - Matlab for optimization and simulation problems
+      - Java for Android app development, and general OOP
+      - C# for Microsoft .NET development
+
+    - title: Web Technology
+    - list:
+      - Built applications with Rails and Node.js frameworks
+      - Worked with MySQL and Postgres Databases at various scales
+      - Configured and maintained applications running on GCP, AWS, and Heroku with Kuberneties and Docker containers
+      - Utilized other data services, including Kafka Streaming, Redis, Sidekiq, Memcached, and Sendgrid
+
+    - title: Machine Learning
+    - list:
+      - Built baseball prediction engine based on KNN algorithm
+      - Used Tensorflow to construct and train Random Forest, RNN, and CNN models
+      - Leveraged Beautiful Soup and Pandas to scrape and sanitize datasets from the web
+
+    - title: Linux
+    - list:
+      - Solid understanding of Linux file system, and device tree
+      - Configured Linux systems for both web and embedded operation
+      - Leveraged system features such as Cron an shell scripting
+
+    - title: Embedded and IoT
+    - list:
+      - Build systems using Web Sockets, FTDI, SPI, I2C, UART, and BT interfaces
+      - Controlled devices using register write commands, and higher level REST APIs
+      - Understand principles of IP routing and various network topologies
