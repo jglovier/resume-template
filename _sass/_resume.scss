@@ -69,6 +69,7 @@
   }
 
   .executive-summary {
+    padding: 0 50px 0 50px;
     @include media_larger_than_mobile { font-size: 0.875rem; }
   }
 }

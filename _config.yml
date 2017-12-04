@@ -18,14 +18,15 @@ resume_header_intro: >
   I am a passionate maker and aim to be a swiss army knife of skills.
   I do not claim to know everything; but do claim to be able to learn anything.
   I am a licensed pilot, founder of uOttawa Rocketry and have been a garage tinker'er my entire life.
-  I live with the philosophy <i>--Do what you can't</i>, and wish to work in an environment where
-  people get the license to step out of their comfort zone.
+  I live with the philosophy <i>- Do what you can't</i>, and wish to work in an environment where
+  people get the license to step out of their comfort zone. This resume is a short story of the work
+  I have done, if you would like to hear more I would be happy to chat
 
 # use 'yes' to display the email contact button,
 # 'no' to display an 'I'm not looking for work' message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-# resume_looking_for_work:        'yes'
+resume_looking_for_work:        'yes'
 
 # Decide which sections to use
 # comment out to hide
