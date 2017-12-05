@@ -17,7 +17,7 @@ resume_contact_telephone:       "925-709-4565"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "925-709-4565 | adam.sealey@gmail.com"
 resume_header_intro: "<p>Experienced Information Security and Analytics leader with a demonstrated history of working in retail, government,
-and higher ed. Strong blend of technical capability with a passion for inspiring teams.</p>"
+and higher education. Strong blend of technical capability with a passion for inspiring teams.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -29,12 +29,12 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
+resume_section_projects:        false
+resume_section_skills:          false
 resume_section_recognition:     true
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
