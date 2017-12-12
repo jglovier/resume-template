@@ -1,9 +1,9 @@
 # Degree
 - uni: <a href=http://www.baylor.edu>Baylor University</a>
-  degree: M.Sc., <a href=http://www.ecs.baylor.edu/>Computer Science</a>
+  degree: M.Sc., <a href=http://www.ecs.baylor.edu/>Computer Science</a>, emphasis in Applied Algorithms
   year: 2009
   awards:
-    - award: Thesis <a href=http://hdl.handle.net/2104/5393>Solving the F/A-18 Mission Computer Virtual Memory Problem</a>
+    - award: "Thesis: <a href=http://hdl.handle.net/2104/5393>Solving the F/A-18 Mission Computer Virtual Memory Problem</a>"
 
 - degree: B.Sc., <a href=http://www.ecs.baylor.edu/>Computer Science</a> (with Honors)
   year: 2004
