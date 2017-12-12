@@ -3,21 +3,23 @@
 - company: <a href=http://www.nike.com>NIKE Inc.</a>
   position: Director, Information Security Governance and Metrics
   duration: June, 2016 &mdash; Present
-  summary: Summary of the job
+  summary: "Accountable for Enterprise-wide information security program aligned with ISO, including annual review and execution attestation,
+  and ensuring that all security programs operate within program policies. Lead delivery of portfolio-wide metrics, utilized at Board &
+  senior leadership levels, driving risk-based strategic insight.  Oversee security exception and risk register processes, providing
+  foundation for risk-driven strategic alignment for the security program"
   accomplishments:
-    - item: Accountable for Enterprise-wide information security program aligned with ISO
-    - item: Lead delivery of portfolio-wide metrics, utilized at Board & senior leadership levels
-    - item: Accountable for ensuring all security programs operate in accordance with Enterprise security policies
-    - item: Oversee security exception and risk register processes, providing foundation for risk-driven strategic alignment for the security program
-    - item: Serve as a primary GRC liaison to Internal Audit, Legal, and Privacy Counsel
+    - item: Established Program Governance function, aligning CIS programs with Audit, Governance, and Strategy
+    - item: Remediated 7/7 critical audit findings in the first year, including 2 that were previously behind track
+    - item: Developed and released new Data Classification framework, greatly simplifying end user experience
+    - item: Oversee annual security program review, including 14 policies and over 200 standards
 
 - position: Director, Cyber Threat Analytics
   duration: April 2014 &mdash; May 2016
   summary:  Summary
   accomplishments:
     - item: Established new analytic team and capability focused on collecting large amounts (> 10TB/day) of security logs and identifying malicious behavior
-    - item: Leveraged new capability to divest outsourced MSSP, saving over \$500K annually
-    - item: Led combination of <a href=http://www.splunk.com>Splunk</a> capability across five Nike groups under one instance, saving over $75M in 3 years
+    - item: Leveraged new capability to divest outsourced MSSP, saving over $500K annually
+    - item: 'Led combination of Splunk capability across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxims award: "Be a Sponge" for vision and execution'
     - item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
     - item: Responsible for management of entire security portfolio finances, totaling over $50M
 
@@ -26,7 +28,7 @@
   summary:  Summary
   accomplishments:
     - item: Led strategic direction for threat intelligence and analytics
-    - item: Designed and led implementation of security analytics capability leveraging <a href=http://www.splunk.com>Splunk</a>
+    - item: Designed and led implementation of security analytics capability leveraging Splunk
     - item: Led computer forensics capability in coordination with Legal
     - item: Provided Tier 3 incident response, including mentoring Tier 1 and 2 analysts
     - item: Designed and implemented automation across security function, reducing mean time to resolution by 92%
@@ -69,7 +71,7 @@
 - company: <a href=http://www.ecs.baylor.edu>Baylor University - School of Computer Science</a>
   position: Adjunct Professor of Computer Science
   duration: January 2012 &mdash; December 2012
-  #summary: Instructor for Data Structures (<a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_s12>Spring 2012</a>, <a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_12f>Fall 2012</a>)
+  summary: Instructor for Data Structures (<a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_s12>Spring 2012</a>, <a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_12f>Fall 2012</a>)
 
 # LLNL
 - company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
