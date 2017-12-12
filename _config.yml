@@ -46,7 +46,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/adamsealey/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://www.adamsealey.com/resume"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
