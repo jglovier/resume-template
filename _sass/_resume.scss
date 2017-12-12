@@ -154,6 +154,10 @@
     }
   }
 
+  .resume-item-list {
+    margin: 0 0 0;
+  }
+
   .resume-item-title,
   .resume-item-details,
   .resume-item-copy,
@@ -208,11 +212,11 @@
   }
   .section-header {
     @include section_border_thin;
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
     h2 { font-size: 1.2rem; line-height: 1.5rem; }
   }
   .content-section {
-    margin: 0 0 1rem;
+    margin: 0 0 .5rem;
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
       font-size: 16px;
