@@ -6,26 +6,26 @@
   summary: "Accountable for Enterprise-wide information security program aligned with ISO, including annual review and execution attestation,
   and ensuring that all security programs operate within program policies. Lead delivery of portfolio-wide metrics, utilized at Board &
   senior leadership levels, driving risk-based strategic insight.  Oversee security exception and risk register processes, providing
-  foundation for risk-driven strategic alignment for the security program"
+  foundation for risk-driven strategic alignment across the security portfolio."
   accomplishments:
     - item: Established Program Governance function, aligning CIS programs with Audit, Governance, and Strategy
-    - item: Remediated 7/7 critical audit findings in the first year, including 2 that were previously behind track
-    - item: Developed and released new Data Classification framework, greatly simplifying end user experience
-    - item: Oversee annual security program review, including 14 policies and over 200 standards
+    - item: Remediated 7/7 critical audit findings in the first year, including 2 that were previously behind schedule
+    - item: Developed, released, and socialized new Data Classification framework, greatly simplifying end user experience
+    - item: Led execution & delivery of GRC Quarterly Business Review (QBR), Corporate Strategic Review (CSR), and budget process
 
 - position: Director, Cyber Threat Analytics
   duration: April 2014 &mdash; May 2016
-  summary:  Summary
+  # summary:  Summary
   accomplishments:
     - item: Established new analytic team and capability focused on collecting large amounts (> 10TB/day) of security logs and identifying malicious behavior
     - item: Leveraged new capability to divest outsourced MSSP, saving over $500K annually
-    - item: 'Led combination of Splunk capability across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxims award: "Be a Sponge" for vision and execution'
+    - item: 'Led combination of Splunk capability across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxim award: "Be a Sponge" for vision and execution'
     - item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
     - item: Responsible for management of entire security portfolio finances, totaling over $50M
 
 - position: Senior Information Security Engineer
   duration: April 2013 &mdash; April 2014
-  summary:  Summary
+  # summary:  Summary
   accomplishments:
     - item: Led strategic direction for threat intelligence and analytics
     - item: Designed and led implementation of security analytics capability leveraging Splunk
@@ -37,9 +37,9 @@
 - company: <a href=http://www.baylor.edu>Baylor University</a>
   position: Senior Information Security Analyst
   duration: September 2010 &mdash; April 2013
-  summary: Summary
+  # summary: Summary
   accomplishments:
-    - item: Principal technical analyst reporting to university ISO
+    - item: Principal technical analyst reporting to university Information Security Officer
     - item: Technical lead for PCI compliance effort including project management of technical implementations.  Member of the Payment Card Oversight committee responsible for payment card usage university wide
     - item: Lead development and operation of technical detection mechanisms for security incidents
     - item: Develop incident response process and lead incident response team
@@ -49,23 +49,23 @@
 
 - position: Information Security Analyst
   duration: January 2008 &mdash; August 2009
-  summary: Summary
+  # summary: Summary
   accomplishments:
-    - item: Principal technical analyst reporting to the university ISO
+    - item: Principal technical analyst reporting to the university Information Security Officer
     - item: Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel
     - item: Review and approve network firewall policy requests and implementations
-    - item: Administer Intrusion Prevention (IPS) hardware and software, along with Network Anomaly Detection system (ADS)
+    - item: Administer Intrusion Prevention (IPS) and Network Anomaly Detection system (ADS) hardware and software
     - item: Conduct exploratory research into emerging security technologies
 
 - position: Network Security Analyst / Programmer
   duration: August 2004 &mdash; January 2008
-  summary: Summary
+  # summary: Summary
   accomplishments:
-    - item: Define and implement procedures to identify and remediate cyber-security threats utilizing firewalls, IPS, and ADS
+    - item: Define and implement procedures to identify & remediate cyber-security threats utilizing firewalls, IPS, and ADS
     - item: Develop customized software packages to facilitate monitoring, securing, and troubleshooting the network
     - item: Provide technical insight for hardware and policy decisions, including business impact of technology acquisitions, affecting more than 8,000 networked devices
     - item: Coordinate with other groups within the university to identify and resolve IT issues quickly
-    - item: Administer departmental Linux servers of a variety of flavors, including Redhat, Gentoo, and Ubuntu, as well as MySQL
+    - item: Administer departmental Linux servers of a variety of flavors, including Redhat and Ubuntu, as well as MySQL
 
 # Baylor Adjunct
 - company: <a href=http://www.ecs.baylor.edu>Baylor University - School of Computer Science</a>
@@ -77,7 +77,7 @@
 - company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
   position: Senior Cyber Security Specialist
   duration: August 2009 &mdash; September 2010
-  summary: Summary
+  # summary: Summary
   accomplishments:
     - item: Liaison between security research groups and security operations teams
     - item: Implement and automate CWSandbox to enhance rapid-response forensic capability of Incident Management Team (IMT)
