@@ -34,7 +34,7 @@
     - list:
       - Advanced concepts of C++, specifically smart pointers and implementing buffered communication systems
       - Ruby in the context of Rails, as well as for general scripting, OOP, and hacking things together
-      - Python for embedded programming, Numpy mathematical modeling, and Tensorflow machine learning
+      - Python for embedded programming, Pandas for data processing, and Plotly for charting and dataviz
       - Javascript for front end applications, as well enhancing Google Sheets
       - Matlab for optimization and simulation problems
       - Java for Android app development, and general OOP
@@ -45,13 +45,14 @@
       - Built applications with Rails and Node.js frameworks
       - Worked with MySQL and Postgres Databases at various scales
       - Configured and maintained applications running on GCP, AWS, and Heroku with Kuberneties and Docker containers
-      - Utilized other data services, including Kafka Streaming, Redis, Sidekiq, Memcached, and Sendgrid
+      - Utilized other data services, including Kafka Streaming, Redis, Sidekiq, and Sendgrid
+      - Resolved bugs through investigating logs in splunk and tracing back error messages.
 
-    - title: Machine Learning
+    - title: Data Science
     - list:
       - Built baseball prediction engine based on KNN algorithm
-      - Used Tensorflow to construct and train Random Forest, RNN, and CNN models
       - Leveraged Beautiful Soup and Pandas to scrape and sanitize datasets from the web
+      - Produced stakeholder reports using Mode Analytics
 
     - title: Linux
     - list:

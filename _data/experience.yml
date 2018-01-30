@@ -1,5 +1,5 @@
 - company: Shopify
-  position: Full Stack Developer
+  position: Backend Specialized Developer
   duration: Jan, 2017 &mdash; Present
   summary: >
     Worked on the Services Marketplace Team building a platform to broker agreements between
@@ -9,7 +9,7 @@
     - Built a recommendation system leveraging Apache Kafka
     - Developed applications using Linux, React, Rails, MySql stack
     - Contributed to the open source Experiments Framework <a href="https://github.com/shopify/verdict">Verdict</a>
-    - Used operational tools such as ModeAnalytics and Datadog
+    - Used operational tools such as ModeAnalytics, Splunk and Datadog
 
 - company: Microsemi
   position: Software Engineer
@@ -35,11 +35,3 @@
     - Use of RFID timing systems which involved troubleshooting electromagnetic interference, GSM connectivity etc.
     - Worked with FTP client-server to post live results
     - Worked with RunScore database system to validate and score results
-
-- company: Student Academic Success Services
-  position: Engineering Math Mentor
-  duration:  Jan, 2015 &mdash; May, 2017
-  list:
-    - Organized study groups for Linear Algebra and Calculus I & II
-    - Provided one on one counseling for students at academic risk
-    - Pioneered student academic engagement events; Are you Smarter Than a Prof, and Trivia Crack
