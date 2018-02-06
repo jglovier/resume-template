@@ -221,9 +221,13 @@
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0;
+      margin: 0 0 .75rem;
       line-height: .7em;
       font-style:italic;
+
+      &.award-title {
+        font-size: 11px;
+      }
     }
   }
 }
