@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "A resume template for Jekyll and GitHub Pages sites"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,9 +10,9 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
+resume_name:                    "Miguel R. @mrexojo"
+resume_title:                   "Cloud Autamation Engineer"
+resume_contact_email:           "job@mrexojo.es"
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
@@ -38,13 +38,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_github_url:            "https://github.com/mrexojo"
+  resume_twitter_url:           "http://twitter.com/mrexojo"
   resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/mrexojo"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://mrexojo.es"
 resume_print_social_links:      true
 
 # Design settings
