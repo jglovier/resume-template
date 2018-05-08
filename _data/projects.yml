@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
+# jazznotes.io
+- project: jazznotes.io
   role: Founder & Primary Developer
   duration: 2012 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
+# Springfield Community Outreach Group
+- project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
