@@ -12,6 +12,12 @@
   # url: "#"
   description: <ul class="resume-item-list"><li>Built and deployed a back-end on Amazon Elastic Beanstalk, which extracts and sends back stock information from Alpha Vantage API.</li><li>Built a responsive web app for stock information search</li><li>Designed and developed an Android version of the web app above.</li></ul>
 
+- project: Sentence Ordering
+  role: Developer and Research Assistant
+  duration: Sept, 2016 &mdash; May, 2017
+  # url: "#"
+  description: Implemented a recurrent neural network language model (LSTM unit) that classifies the discourse relation and generates pair-wise order possibility.
+
 - project: Emotion Detector 
   role: Web and Android Developer
   duration: Jun, 2016

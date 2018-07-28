@@ -14,11 +14,6 @@
   duration: Mar, 2016 &mdash; July, 2016
   summary: <ul class="resume-item-list"><li>Refactored manual-collected indoor Point-of-Interest relating module, improved performance and stability.</li><li>Modified the module for mining possible unlabeled Point-of-Interest from the 50 million level map database, improved accuracy and invented new filter strategies.</li><li>Enhanced the weekly competitor analysis with Tencent Map and AMap by modifying data fetching strategies and retrained the word segmentation model.</li></ul>
 
-- company: Natural Language Processing Lab, Tsinghua University
-  position: Research Assistant
-  duration: Sept, 2016 &mdash; May, 2017
-  summary: <ul class="resume-item-list"><li>Researched and studied DeepWalk and SimRank algorithms.</li><li>Implemented a recurrent neural network language model (LSTM unit) that classifies the discourse relation and generates pair-wise possibility that is used for sentence ordering.</li></ul>
-
 - company: Big Data &amp; Artificial Intelligence Lab, Renmin University of China
   position: Research Assistant
   duration: Dec, 2015 &mdash; Sep, 2016
