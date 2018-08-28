@@ -2,14 +2,14 @@
 # VP of Global Communications
 - company: Gabrielino High School
   position: Teacher Assistant
-  duration: Aug, 2014 &mdash; May, 2018
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  duration: Aug, 2017 &mdash; May, 2018
+  summary: Participated in a year-long teacher assistant position for freshman biology my senior year.<ul class="resume-item-list"><li> Graded assignments and tests</li><li>Prepared lab material</li><li>Assisted teachers in course lessons</li></ul>
 
 # Director of Digital Stratgy
-#- company: United Nations Human Rights Council
-#  position: Director of Digital Strategy
-#  duration:  Jun, 2010 &mdash; Sept, 2013
-#  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Self-Employed
+  position: Computer Repair
+  duration: May, 2016 &mdash; Present
+  summary: Simultaneously deploy Windows 7 & 10 on over 20 Dell workstations and laptops while using SCCM. Repair and upgrade varying laptops with experience in under-volting and stress testing using AIDA64.   	
 
 
 # Communications Coordinator
