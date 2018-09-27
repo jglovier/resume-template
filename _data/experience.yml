@@ -2,12 +2,12 @@
   position: Data Engineer
   duration: May, 2018 &mdash; Sept, 2018
   summary: >
-    Worked on the Discovery Team resoponsible for delivering recommendations to customers of various shopify products.
+    Worked on the Discovery Team responsible for delivering recommendations to customers of various Shopify products.
     Specifically focused on matching algorithms to help shop owners find contract professionals.
   list:
     - Deployed a Tensorflow ensemble linear model to produce recommendations based on multiple training signals
     - Debugged and resolved data extraction issues used in our core batch processing pipelines
-    - Resoponsible for building modeled datasets from raw data using Apache Spark
+    - Responsible for building modeled datasets from raw data using Apache Spark
 
 - position: Backend Developer
   duration: Jan, 2017 &mdash; April, 2018
