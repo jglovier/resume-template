@@ -1,6 +1,6 @@
 - company: Shopify
   position: Data Engineer
-  duration: Jan, 2017 &mdash; April, 2018
+  duration: May, 2018 &mdash; Sept, 2018
   summary: >
     Worked on the Discovery Team resoponsible for delivering recommendations to customers of various shopify products.
     Specifically focused on matching algorithms to help shop owners find contract professionals.
@@ -9,8 +9,7 @@
     - Debugged and resolved data extraction issues used in our core batch processing pipelines
     - Resoponsible for building modeled datasets from raw data using Apache Spark
 
-- company: Shopify
-  position: Backend Developer
+- position: Backend Developer
   duration: Jan, 2017 &mdash; April, 2018
   summary: >
     Worked on the Services Marketplace Team building a platform to broker agreements between
