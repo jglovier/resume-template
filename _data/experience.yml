@@ -1,15 +1,26 @@
 - company: Shopify
-  position: Backend Specialized Developer
-  duration: Jan, 2017 &mdash; Present
+  position: Data Engineer
+  duration: Jan, 2017 &mdash; April, 2018
+  summary: >
+    Worked on the Discovery Team resoponsible for delivering recommendations to customers of various shopify products.
+    Specifically focused on matching algorithms to help shop owners find contract professionals.
+  list:
+    - Deployed a Tensorflow ensemble linear model to produce recommendations based on multiple training signals
+    - Debugged and resolved data extraction issues used in our core batch processing pipelines
+    - Resoponsible for building modeled datasets from raw data using Apache Spark
+
+- company: Shopify
+  position: Backend Developer
+  duration: Jan, 2017 &mdash; April, 2018
   summary: >
     Worked on the Services Marketplace Team building a platform to broker agreements between
-    Entrepreneurs and contract professionals. On this high productivity team, I worked on range of project scales.
-    Responsible for collaborating across the company with stakeholders of different disciplines and backgrounds.
+    Entrepreneurs and contract professionals. Built data pipelines focused on delivering recommendations to customers and
+    A/B testing features.
   list:
-    - Built a recommendation system leveraging Apache Kafka
-    - Developed applications using Linux, React, Rails, MySql stack
+    - Built a real-time recommendation system leveraging Apache Kafka, reducing the delivery time of recommendations from hours to minutes
     - Contributed to the open source Experiments Framework <a href="https://github.com/shopify/verdict">Verdict</a>
-    - Used operational tools such as ModeAnalytics, Splunk and Datadog
+    - Developed applications using Linux, React, Rails, MySql stack
+    - Used operational tools such as ModeAnalytics, Splunk and Datadog to generate stakeholder reports
 
 - company: Microsemi
   position: Software Engineer
@@ -19,7 +30,7 @@
     .NET applications to help customers and internal engineers configure embedded
     timing chips over FTDI.
   list:
-    - Designed algorithms used for configuring device registers and selecting frequency parameters
+    - Designed algorithms used for configuring device registers and selecting frequency parameters, in fixed time complexity
     - Programmed .NET applications in C# and .dll libraries in C++ both from scratch and on top of existing code
     - Conducted validation of power consumption and signal quality on timing devices
     - Read and produced circuit schematics and semiconductor datasheets
