@@ -1,16 +1,28 @@
 - project: uOttawa Rocketry Team
   role: Co-Founder & Design Lead
   duration: 2015 &mdash; Present
-  url: uorocketry.github.io
-  description: uOttawa's first aerospace and rocketry team. Built a rocket which utilized a dynamic braking system
-  to precisely carry and 8.8lb payload to 10,000 feet. Started as a small group of sudents experimenting with rockets
-  to a multidisciplinary team of 20+ students.  Competed in 2018 and one of 24 teams selected from 126 competitors to
-  deliver a podium presentation on the technology behind the air braking system.
+  url: http://uorocketry.github.io
+  description:
+    uOttawa's first aerospace and rocketry team. Built a rocket which utilized a dynamic braking system
+    to precisely carry and 8.8lb payload to 10,000 feet. Started as a small group of sudents experimenting with rockets
+    to a multidisciplinary team of 20+ students.  Competed in 2018 and one of 24 teams selected from 126 competitors to
+    deliver a podium presentation on the technology behind the air braking system.
 
 - project: Ontario Engineering Competition
   role: Programming Competition Director
   # duration: 2007 &mdash; Present
-  # url: "#"
-  description: Organized the first "live" programming competition. Built a simulated stock trading environment where prices
-  were simulated using an algorithm based on brownian motion.  During the 8-hour competition teams had to work fast to build
-  and deploy a realtime trading algorithm.
+  url: http://oec-2018.herokuapp.com/
+  description:
+    Organized the first "live" programming competition. Built a simulated stock trading environment where prices
+    were simulated using an algorithm based on brownian motion.  During the 8-hour competition teams had to work fast to build
+    and deploy a realtime trading algorithm.
+
+- project: Dataland
+  role: hacker
+  url: https://github.com/NikhilPeri/data-land
+  duration: May 2018 &mdash; Present
+  description:
+    Personal project to run data services for personal experimentation at hacker scale. Serves as an environment
+    to run scheduled data mining tasks, as well as pipelines for data modeling and transformations.  Complete with data backups
+    log notifications. Currently hosts the <a href="https://github.com/NikhilPeri/proline">Proline Sports Betting</a> project among other
+    smaller data projects.
