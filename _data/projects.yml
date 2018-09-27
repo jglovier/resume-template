@@ -1,16 +1,16 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: uOttawa Rocketry Team
+  role: Co-Founder & Design Lead
+  duration: 2015 &mdash; Present
+  url: uorocketry.github.io
+  description: uOttawa's first aerospace and rocketry team. Built a rocket which utilized a dynamic braking system
+  to precisely carry and 8.8lb payload to 10,000 feet. Started as a small group of sudents experimenting with rockets
+  to a multidisciplinary team of 20+ students.  Competed in 2018 and one of 24 teams selected from 126 competitors to
+  deliver a podium presentation on the technology behind the air braking system.
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Ontario Engineering Competition
+  role: Programming Competition Director
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
-
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Organized the first "live" programming competition. Built a simulated stock trading environment where prices
+  were simulated using an algorithm based on brownian motion.  During the 8-hour competition teams had to work fast to build
+  and deploy a realtime trading algorithm.
