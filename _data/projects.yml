@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: NBC News Search Engine
+  role: Developer
+  duration: Apr 2018
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Crawled 180,000 news pages then computed inverted index and PageRank score.</li><li>Indexed the pages into a Solr core which supports both similarity and PageRank sorting.</li><li>Designed and developed a web page enabling searching on NBC News which sends requests to Solr core and renders the results.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Web & Mobile App - StockSearch 
+  role: Web and Android Developer
+  duration: Nov, 2017
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Built and deployed a back-end on Amazon Elastic Beanstalk, which extracts and sends back stock information from Alpha Vantage API.</li><li>Built a responsive web app for stock information search</li><li>Designed and developed an Android version of the web app above.</li></ul>
+
+- project: Sentence Ordering
+  role: Developer and Research Assistant
+  duration: Sept, 2016 &mdash; May, 2017
+  # url: "#"
+  description: Implemented a recurrent neural network language model (LSTM unit) that classifies the discourse relation and generates pair-wise order possibility.
+
+- project: Emotion Detector 
+  role: Web and Android Developer
+  duration: Jun, 2016
+  description: Implemented an app for detecting user's realtime emotion via image enhancing, facial landmark positioning, local feature extraction and emotion classification.
+
+- project: WiFi-Based Indoor 3D Positioning App
+  role: Team Leader, Android Developer
+  duration: Jun, 2015 & Jun, 2017
+  # url: "#"
+  description: Developed an Android app that position user using indoor WiFi singal status.
