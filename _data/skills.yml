@@ -41,12 +41,14 @@
 - skill: Cloud Computing
   description: <ul class="resume-item-list">
     <li>Microsoft Azure platform;</li>
+    <li>DigitalOcean;</li>
     <li>Amazon AWS.</li>
     </ul>
 
-- skill: Deployment Tools
+- skill: Infrastructure and deploy management
   description: <ul class="resume-item-list">
-    <li>Docker.</li>
+    <li>Docker;</li>
+    <li>Terraform.</li>
     </ul>
 
 - skill: Version Control Systems
