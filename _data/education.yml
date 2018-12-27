@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Computer Science
+  uni: Colorado State University
+  year: 2012 &mdash; 2015
+  summary: At Colorado State I studied classical computer science, with a personal interest and focus on security-related concepts. I also organized, planned, and/or participated in various Capture-the-Flag (CTF) competitions.
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+          - award: First officially recognized treasurer for Hashdump Student Computer and Network Security Organization
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Thompson Valley High School
+  year: 2005
+  summary: Wrote my first computer program (TI-83) in Algebra II. Continued an established tradition of playing bagpipes for Men's Swimming and Diving Team.

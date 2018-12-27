@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Ian S. Cohee"
 resume_title:                   "Software Developer && Hacker"
 
@@ -18,30 +18,30 @@ resume_title:                   "Software Developer && Hacker"
 resume_contact_email:           "ian.cohee@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "970 . 308 . 5984"
+resume_contact_telephone:       "970.3-zero-8.6984"
 resume_contact_address:         "Fort Collins, Colorado"
 
-resume_header_contact_info:     "Fort Collins, Colorado • 308 6984 • ian.cohee@gmail.com"
+resume_header_contact_info:     "Fort Collins, Colorado • 1 970 3-zero-8 6984 • ian [dot] cohee {at} gmail [dot] com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Please be patient, as this page is currently under construction.</p>"
+resume_header_intro: "<p>Greetings! I am a software developer and penetration tester with a personal and professional interest in computer and network security. I live in the gorgeous area of northern Colorado and spend my free time outside, playing with Linux, or my guitars.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-#resume_section_experience:      true
-#resume_section_education:       true
+resume_section_experience:      true
+resume_section_education:       true
 #resume_section_projects:        true
-#resume_section_skills:          true
+resume_section_skills:          true
 #resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -49,9 +49,9 @@ resume_social_links:
   resume_github_url:            "https://github.com/50L1DU5/"
   #resume_twitter_url:           "http://twitter.com/50L1DU5"
   #resume_dribbble_url:          "https://dribbble.com/<username>"
-  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/iancohee"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  #resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://cohee.tech"
   #resume_medium_url:            "https://medium.com/@<username>"
 resume_print_social_links:      true
@@ -59,6 +59,3 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts

@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Revision control
+  description: Proficient with Git and using Git-related tools to organize code and project documentation. I am also skilled with SVN as a revision control system for source code.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Applicable Cryptography
+  description: Proficient using standard cryptography tool sets and technologies. I <em>regularly</em> use these&colon; <ul class="resume-item-list"><li>PGP Encryption (<a href="https://pgp.mit.edu/pks/lookup?search=cohee&op=index">4096R/CF1DA338</a>)</li><li>Self-signed CA x509 certificates</li><li>Yubikey</li></ul> 
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Problem solving and Analytical Skills
+  description: Whether it's a problem in production software, or in an intentionally vulnerable Capture-the-Flag challenge, I thrive to find and explain the logic of programs and applications. Some debugging and reverse engineering tools I use day to day include&colon; <ul class="resume-item-list"><li>GDB</li><li>radare2</li></ul>
+
+# Technical skills
+- skill: Programming Scripting Languages
+  description: As developer and security enthusiast I have acquired skills developing software in both scripted and compiled programming languages. <ul class="resume-item-list"><li>Bash</li><li>C</li><li>Golang</li><li>Java</li><li>Python</li></ul>As a security enthusiast, I have developed some skill using and abusing Web-based programming languages, too. <ul class="resume-item-list"><li>JavaScript</li><li>PHP</li></ul>
