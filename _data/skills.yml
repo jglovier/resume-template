@@ -1,5 +1,20 @@
-- title: Hardware Engineering
+- title: Electrical Engineering
   skills:
+    - title: Simulation Construction
+    - list:
+      - Modeled complex time dependent systems in Matlab using transfer matrix method and Fourier transfer functions
+      - Used Matlab Simulink to solve optimization problems
+      - Used Multisim to analyze performance of circuits
+      - Self-taught FEA, and CFD simulations of basic geometry using both Solidworks and Simscale
+      - Used lab instrumentation to analyze circuits particularly the oscilloscope, logic analyzer, and 5052 spectrum analyzer
+
+    - title: Computer Aided Design & Manufacturing
+    - list:
+      - Built 3D models using Solidworks; conducting motion studies on mechanical assemblies
+      - Designed custom PCB Layouts in Eagle CAD and worked through the process of submitting boards for fabrication
+      - Experienced in the use of rapid prototyping tools, particularly laser cutting and 3D printing
+      - Hands on experience with traditional fabrication techniques, such as lathe, mill, TIG welding and sheet metalworking
+
     - title: Control Systems
     - list:
       - Design stable systems using Root Locus Technique, analytically and computationally using Matlab Control Systems Toolbox
@@ -13,55 +28,39 @@
       - Designed transmitters and receivers using various multiplexing and modulation techniques
       - Understand the limitations of various communication mediums and protocols
 
-    - title: Simulation Construction
-    - list:
-      - Modeled complex time dependent systems in Matlab using transfer matrix method and Fourier transfer functions
-      - Used Matlab Simulink to solve optimization problems
-      - Used Multisim to analyze performance of circuits
-      - Self-taught FEA, and CFD simulations of basic geometry using both Solidworks and Simscale
-      - Used lab instrumentation to analyze circuits particularly the oscilloscope, logic analyzer, and 5052 spectrum analyzer
-
-    - title: Computer Aided Design & Manufacturing
-    - list:
-      - Designed custom PCB Layouts in Eagle CAD and worked through the process of submitting boards for fabrication
-      - Built 3D models using Solidworks; conducting motion studies on mechanical assemblies
-      - Experienced in the use of rapid prototyping tools, particularly laser cutting and 3D printing
-      - Hands on experience with traditional fabrication techniques, such as lathe, mill, TIG welding and sheet metalworking
-
 - title: Software Engineering
   skills:
     - title: Language Literacy
     - list:
-      - Advanced concepts of C++, specifically smart pointers and implementing buffered communication systems
-      - Ruby in the context of Rails, as well as for general scripting, OOP, and hacking things together
-      - Python for embedded programming, Pandas for data processing, and Plotly for charting and dataviz
-      - Javascript for front end applications, as well enhancing Google Sheets
+      - Advanced concepts of C++, specifically use of smart pointers and implementing buffered communication systems
+      - Python for numerically focused projects with extensive use of Scikit, Pandas, Tensorflow and Numpy frameworks
+      - Ruby in the context of Rails and web application development
+      - Javascript for front end applications using the React framework
       - Matlab for optimization and simulation problems
       - Java for Android app development, and general OOP
       - C# for Microsoft .NET development
 
-    - title: Web Technology
-    - list:
-      - Built applications with Rails and Node.js frameworks
-      - Worked with MySQL and Postgres Databases at various scales
-      - Configured and maintained applications running on GCP, AWS, and Heroku with Kuberneties and Docker containers
-      - Utilized other data services, including Kafka Streaming, Redis, Sidekiq, and Sendgrid
-      - Resolved bugs through investigating logs in splunk and tracing back error messages.
-
     - title: Data Science
     - list:
-      - Built baseball prediction engine based on KNN algorithm
+      - Implemented data processing pipelines using Apache Spark
       - Leveraged Beautiful Soup and Pandas to scrape and sanitize datasets from the web
       - Produced stakeholder reports using Mode Analytics
 
-    - title: Linux
+    - title: Web Technology
     - list:
-      - Solid understanding of Linux file system, and device tree
-      - Configured Linux systems for both web and embedded operation
-      - Leveraged system features such as Cron an shell scripting
+      - Worked with MySQL and Postgres Databases at various scales
+      - Configured applications running on GCP, AWS, and Heroku with Kubernetes and Docker containers
+      - Utilized other data services, including Kafka Streaming, Redis, Sidekiq, and Sendgrid
+      - Resolved bugs through investigating logs in splunk and tracing back error messages.
 
     - title: Embedded and IoT
     - list:
       - Build systems using Web Sockets, FTDI, SPI, I2C, UART, and BT interfaces
       - Controlled devices using register write commands, and higher level REST APIs
       - Understand principles of IP routing and various network topologies
+
+    - title: Linux
+    - list:
+      - Solid understanding of Linux file system, and device tree
+      - Configured Linux systems for both web and embedded operation
+      - Leveraged system features such as Cron an shell scripting
