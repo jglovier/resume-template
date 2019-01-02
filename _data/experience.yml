@@ -34,4 +34,3 @@
     - Designed algorithms used for configuring device registers and selecting frequency parameters, in fixed time complexity
     - Programmed .NET applications in C# and .dll libraries in C++ both from scratch and on top of existing code
     - Conducted validation of power consumption and signal quality on timing devices
-    - Read and produced circuit schematics and semiconductor datasheets
