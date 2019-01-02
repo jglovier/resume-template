@@ -2,7 +2,7 @@
   position: Data Engineer
   duration: May, 2018 &mdash; Sept, 2018
   summary: >
-    Worked on the Discovery Team responsible for delivering recommendations to customers of various Shopify products.
+    Worked on the Discovery Algorithms Team responsible for delivering recommendations to customers of various Shopify products.
     Specifically focused on matching algorithms to help shop owners find contract professionals.
   list:
     - Deployed an ensemble linear model to produce recommendations based on multiple positive and negative user behaviour signals

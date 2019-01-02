@@ -14,7 +14,7 @@
   url: http://oec-2018.herokuapp.com/
   description:
     Organized the first "live" programming competition. Built a simulated stock trading environment where prices
-    were simulated using an algorithm based on brownian motion.  During the 8-hour competition teams had to work fast to build
+    are simulated using an algorithm based on brownian motion. During the 8-hour competition teams had to work fast to build
     and deploy a realtime trading algorithm.
 
 - project: Dataland

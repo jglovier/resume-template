@@ -1,33 +1,3 @@
-- title: Electrical Engineering
-  skills:
-    - title: Simulation Construction
-    - list:
-      - Modeled complex time dependent systems in Matlab using transfer matrix method and Fourier transfer functions
-      - Used Matlab Simulink to solve optimization problems
-      - Used Multisim to analyze performance of circuits
-      - Self-taught FEA, and CFD simulations of basic geometry using both Solidworks and Simscale
-      - Used lab instrumentation to analyze circuits particularly the oscilloscope, logic analyzer, and 5052 spectrum analyzer
-
-    - title: Computer Aided Design & Manufacturing
-    - list:
-      - Built 3D models using Solidworks; conducting motion studies on mechanical assemblies
-      - Designed custom PCB Layouts in Eagle CAD and worked through the process of submitting boards for fabrication
-      - Experienced in the use of rapid prototyping tools, particularly laser cutting and 3D printing
-      - Hands on experience with traditional fabrication techniques, such as lathe, mill, TIG welding and sheet metalworking
-
-    - title: Control Systems
-    - list:
-      - Design stable systems using Root Locus Technique, analytically and computationally using Matlab Control Systems Toolbox
-      - Signal filtering techniques such as Frequency, and Kalman filtering
-      - Operational understanding electromechanical devices and required support circuitry
-      - Proficient in VHDL for programming PLCs and FPGA specifically using Altair devices
-
-    - title: Communication Systems
-    - list:
-      - Operational understanding of routing in LAN and WAN networks
-      - Designed transmitters and receivers using various multiplexing and modulation techniques
-      - Understand the limitations of various communication mediums and protocols
-
 - title: Software Engineering
   skills:
     - title: Language Literacy
@@ -61,6 +31,36 @@
 
     - title: Linux
     - list:
+      - Used as primary operating system for 3 years
       - Solid understanding of Linux file system, and device tree
-      - Configured Linux systems for both web and embedded operation
-      - Leveraged system features such as Cron an shell scripting
+      - Leveraged system features such as cron, systemd, an bash scripting
+
+- title: Electrical Engineering
+  skills:
+    - title: Simulation Construction
+    - list:
+      - Modeled complex time dependent systems in Matlab using transfer matrix method and Fourier transfer functions
+      - Used Matlab Simulink to solve optimization problems
+      - Used Multisim to analyze performance of circuits
+      - Self-taught FEA, and CFD simulations of basic geometry using both Solidworks and Simscale
+      - Used lab instrumentation to analyze circuits particularly the oscilloscope, logic analyzer, and 5052 spectrum analyzer
+
+    - title: Computer Aided Design & Manufacturing
+    - list:
+      - Built 3D models using Solidworks; conducting motion studies on mechanical assemblies
+      - Designed custom PCB Layouts in Eagle CAD and worked through the process of submitting boards for fabrication
+      - Experienced in the use of rapid prototyping tools, particularly laser cutting and 3D printing
+      - Hands on experience with traditional fabrication techniques, such as lathe, mill, TIG welding and sheet metalworking
+
+    - title: Control Systems
+    - list:
+      - Designed stable systems using Root Locus Technique, analytically and computationally using Matlab Control Systems Toolbox
+      - Signal filtering techniques such as Frequency, and Kalman filtering
+      - Operational understanding electromechanical devices and required support circuitry
+      - Proficient in VHDL for programming PLCs and FPGA specifically using Altair devices
+
+    - title: Communication Systems
+    - list:
+      - Operational understanding of routing in LAN and WAN networks
+      - Designed transmitters and receivers using various multiplexing and modulation techniques
+      - Understand the limitations of various communication mediums and protocols
