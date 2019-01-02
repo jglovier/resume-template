@@ -31,7 +31,7 @@
 
     - title: Linux
     - list:
-      - Used as primary operating system for 3 years.
+      - Used as primary operating system for 3 years
       - Solid understanding of Linux file system, and device tree
       - Leveraged system features such as cron, systemd, an bash scripting
 
