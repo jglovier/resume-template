@@ -2,32 +2,32 @@
   position: Data Engineer
   duration: May, 2018 &mdash; Sept, 2018
   summary: >
-    Worked on the Discovery Algorithms Team responsible for delivering recommendations to customers of various Shopify products.
-    Specifically focused on matching algorithms to help shop owners find contract professionals.
+    Worked on the Discovery Algorithms Team responsible for delivering recommendations to nearly 500,000 business owners on Shopify.
+    Specifically focused on matching algorithms to help business owners find contract professionals.
   list:
     - Deployed an ensemble linear model to produce recommendations based on multiple positive and negative user behaviour signals
-    - Responsible for building modeled datasets from raw data using Apache Spark
-    - Developed a realtime microservice for querying trained Tensorflow Models with offline and online features
-    - Debugged and resolved data extraction issues used in our core batch processing pipelines
+    - Developed a realtime microservice for querying trained Tensorflow Models to deliver recommendations instantly
+    - Built modeled datasets from raw data utilizing Apache Spark
+    - Debugged and resolved data extraction issues used in core batch processing pipelines
 
 - position: Backend Developer
   duration: Jan, 2017 &mdash; April, 2018
   summary: >
-    Worked on the Services Marketplace Team building a platform to broker agreements between
+    Joined the new Services Marketplace project building a platform to broker agreements between
     Entrepreneurs and contract professionals. Built data pipelines focused on delivering recommendations to customers and
     A/B testing features.
   list:
     - Built a real-time recommendation system leveraging Apache Kafka, reducing the delivery time of recommendations from hours to minutes
     - Contributed to the open source Experiments Framework <a href="https://github.com/shopify/verdict">Verdict</a>
     - Developed applications using Linux, React, Rails, MySql stack
-    - Used operational tools such as ModeAnalytics, Splunk and Datadog to generate stakeholder reports
+    - Used operational tools such as ModeAnalytics, Splunk and Datadog to generate stakeholder reports, and resolve bugs
     - Made it to the final round of internal company Hack Days
 
 - company: Microsemi
   position: Software Engineer
   duration:  May, 2016 &mdash; Sept, 2016
   summary: >
-    Worked alongside the Timing and Synchronization R&D Team developing Microsoft
+    Worked under the Timing and Synchronization R&D Team developing Microsoft
     .NET applications to help customers and internal engineers configure embedded
     timing chips over FTDI.
   list:

@@ -36,12 +36,15 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 1rem 0 2rem;
+    margin: 1rem auto 2rem;
   }
 
   .header-contact-info {
     @include sans;
+    margin-top: auto;
+    margin-bottom: auto;
     text-align: center;
+    width: 10rem;
   }
   .header-contact-info p a {
     color: inherit;
@@ -204,7 +207,8 @@
     .header-name {
       @include sans_bold;
       font-size: 2rem;
-      margin: 0 0 .2rem;
+      margin: 0 auto .2rem;
+      padding-left: 10rem;
     }
   }
   .section-header {

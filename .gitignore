@@ -2,3 +2,5 @@ _site
 .sass-cache
 .DS_Store
 _vendor
+vmock.credentials
+*.pdf

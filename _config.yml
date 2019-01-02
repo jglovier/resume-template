@@ -13,7 +13,8 @@ resume_name:                    'Nikhil Peri'
 resume_title:                   'Electrical Engineer & Computer Scientist'
 resume_contact_email:           'nperi104@uottawa.ca'
 resume_contact_telephone:       '613-265-9279'
-resume_contact_address:         '48 Bridesburg Drive, Toronto Ontario'
+resume_contact_address_1:       '48 Bridesburg Drive'
+resume_contact_address_2:       'Toronto, Canada'
 resume_header_intro: >
   I am a licensed pilot, founder of uOttawa Rocketry and have been a garage tinker'er my entire life.
   I live with the philosophy <i>- Do what you can't</i>, and wish to work in an environment where
@@ -46,7 +47,7 @@ resume_social_links:
   resume_linkedin_url:          'https://www.linkedin.com/in/nikhil-peri-511639109'
   # resume_instagram_url:         'insert your Instagram URL here'
   resume_website_url:           'http://nikhilperi.github.io'
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
