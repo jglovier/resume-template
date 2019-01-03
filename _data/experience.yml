@@ -7,7 +7,7 @@
   list:
     - Deployed an ensemble linear model to produce recommendations based on multiple positive and negative user behaviour signals
     - Developed a realtime microservice for querying trained Tensorflow Models to deliver recommendations instantly
-    - Built modeled datasets from raw data utilizing Apache Spark
+    - Built modeled datasets from raw data utilizing Apache Spark and the Kimball methodology
     - Debugged and resolved data extraction issues used in core batch processing pipelines
 
 - position: Backend Developer
