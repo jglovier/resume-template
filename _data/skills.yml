@@ -50,6 +50,11 @@
     <li>Docker;</li>
     <li>Terraform.</li>
     </ul>
+    
+  - skill: CI/CD
+description: <ul class="resume-item-list">
+  <li>CircleCI;</li>
+  </ul>
 
 - skill: Version Control Systems
   description: <ul class="resume-item-list">
