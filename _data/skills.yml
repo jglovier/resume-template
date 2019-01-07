@@ -3,6 +3,7 @@
     - title: Data Analytics
     - list:
       - Implemented a custom Tensorflow Estimator for multi-task training of a logistic regression model
+      - Evaluated Recommeder System preformance through prediction shift, catalog coverage and other metrics.
       - Constructed data modeling pipelines using Apache Spark and Kimball methodology
       - Performed Survival Analysis study to track conversion rates during A/B tests
       - Conducted feature engineering study to eliminate sparse features from linear model and improve training time
