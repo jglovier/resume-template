@@ -48,7 +48,7 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/doriandinhxuan?tab=repositories"
+  resume_github_url:            "https://github.com/doriandinhxuan"
   resume_twitter_url:           "https://twitter.com/Dorian_dinhxuan"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
