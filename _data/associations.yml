@@ -1,8 +1,6 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: '#'
-  role: Polish - native
-- organization: '#'
-  role: English - intermediate
+- organization: 'Polish - native'
+- organization: 'English - intermediate'
 
