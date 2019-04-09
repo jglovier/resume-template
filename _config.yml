@@ -21,7 +21,7 @@ resume_contact_telephone:       "730 614 237"
 resume_contact_address:         "Poland/Warsaw"
 
 resume_header_contact_info:     "Poland/Warsaw • 730-614-237 • dorian.dinhxuan@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: 
 # "<p>
