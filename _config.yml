@@ -23,7 +23,22 @@ resume_contact_address:         "Poland/Warsaw"
 resume_header_contact_info:     "Poland/Warsaw • 730-614-237 • dorian.dinhxuan@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Cloud DevOps Engineer
+
+- IaaS Tools / Cloud Tools: AWS
+- Provisioning / Configuration Management Tools: Terraform, Ansible, Vagrant, Packer
+- Containerization: Docker, Elastic Container Services (ECS)
+- CI/CD: Jenkins
+- Monitoring / Logging Tools: Grafana, Prometheus, Zabbix
+- Source Control Management: GIT, GitHub, Bitbucket
+- Messaging / Collaboration: Slack, Jira, Trello
+- OS: Linux (Centos, Ubuntu, Amazon Linux 2)
+- Languages: Bash
+
+
+Certificates:
+
+- Chmurowisko: Amazon Web Services - Droga Architekta</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
