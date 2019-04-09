@@ -21,7 +21,7 @@ resume_contact_email:           "dorian.dinhxuan@gmail.com"
 resume_contact_address:         "Poland/Warsaw"
 
 resume_header_contact_info:     "dorian.dinhxuan@gmail.com • Poland/Warsaw"
-display_header_contact_info:    "yes"
+display_header_contact_info:    "true"
 
 resume_header_intro: 
 # "<p>
