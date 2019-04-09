@@ -1,7 +1,6 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- description: New Technology
-- description: Motorcycles
-- description: Bodybuilding/Fitness
-
+- organization: New Technology
+- organization: Motorcycles
+- organization: Bodybuilding/Fitness
