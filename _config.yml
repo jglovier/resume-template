@@ -23,32 +23,10 @@ resume_contact_address:         "Poland/Warsaw"
 resume_header_contact_info:     "Poland/Warsaw • 730-614-237 • dorian.dinhxuan@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>
+resume_header_intro: 
+# "<p>
 
-<h4><b>Cloud DevOps Engineer</b></h4>
-- <b>IaaS Tools/Cloud Tools:</b> AWS
-<br>
-- <b>Provisioning/Configuration Management Tools:</b> Terraform, Ansible, Vagrant, Packer
-<br>
-- <b>Containerization:</b> Docker, Elastic Container Services (ECS)
-<br>
-- <b>CI/CD:</b> Jenkins
-<br>
-- <b>Monitoring/Logging Tools:</b> Grafana, Prometheus, Zabbix
-<br>
-- <b>Source Control Management:</b> GIT, GitHub, Bitbucket
-<br>
-- <b>Messaging/Collaboration:</b> Slack, Jira, Trello
-<br>
-- <b>OS:</b> Linux (Centos, Ubuntu, Amazon Linux 2)
-<br>
-- <b>Languages:</b> Bash
-<br>
-<br>
-
-<b>Certificates:</b>
-<br>
-- <b>Chmurowisko:</b> Amazon Web Services - Droga Architekta</p>"
+# <h4><b>Cloud DevOps Engineer</b></h4></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -60,8 +38,8 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
 resume_section_skills:          true
+resume_section_certificates:        true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true

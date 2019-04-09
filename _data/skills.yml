@@ -1,12 +1,29 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: IaaS Tools / Cloud Tools
+  description: AWS
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+
+- skill: Provisioning / Configuration Management Tools
+  description: Terraform, Ansible, Vagrant, Packer
+
+- skill: Containerization
+  description: Docker, Elastic Container Services (ECS)
+
+- skill: CI/CD
+  description: Jenkins
+
+- skill: Monitoring / Logging Tools
+  description: Grafana, Prometheus, Zabbix
+
+- skill: Source Control Management
+  description: GIT, GitHub, Bitbucket
+
+- skill: Messaging / Collaboration
+  description: Slack, Jira, Trello
+
+- skill: Operatin Systems
+  description: Linux (Centos, Ubuntu, Amazon Linux 2)
+
+- skill: Scripting languages
+  description: Bash
