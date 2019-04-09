@@ -4,7 +4,8 @@
 - company: Webellian, Warsaw, Poland
   position: AWS DevOps Engineer
   duration: March, 2017 &mdash; Present
-  summary: '<p><b>Designing cloud solutions</b></p><ul class="resume-item-list"><li>Building cloud environments in Infrastructure as a Code fashion (Terraform)</li><li>AWS networking and security</li><li>AWS monitoring and maintenance</li><li>Backup and disaster recovery solutions</li><li>Helping with migration into the cloud</li><li>Familiarity with version control tools (BitBucket, GitHub)</li><li>Very good understanding of main AWS services: VPC, EC2, ECS, RDS, VPN, ELB and ALB, Autoscaling, CloudWatch, S3 and many other</li></ul>'
+  summary: '<p><b>Designing cloud solutions</b></p><ul class="resume-item-list"><li>Building cloud environments in Infrastructure as a Code fashion (Terraform)</li><li>AWS networking and security</li><li>AWS monitoring and maintenance</li><li>Backup and disaster recovery solutions</li><li>Helping with migration into the cloud</li><li>Familiarity with version control tools (BitBucket, GitHub)</li><li>Very good understanding of main AWS services: VPC, EC2, ECS, RDS, VPN, ELB and ALB, Autoscaling, CloudWatch, S3 and many other</li><li>Configuring machines via Ansible</li></ul>'
+
 
 # Open Finance SA, Poland, Warsaw
 - company: Open Finance SA, Poland, Warsaw
