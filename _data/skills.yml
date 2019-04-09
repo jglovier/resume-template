@@ -3,7 +3,6 @@
 - skill: IaaS Tools / Cloud Tools
   description: AWS
 
-
 - skill: Provisioning / Configuration Management Tools
   description: Terraform, Ansible, Vagrant, Packer
 
@@ -27,3 +26,6 @@
 
 - skill: Scripting languages
   description: Bash
+
+- skill: Languages
+  description: Polish - native, English - intermediate
