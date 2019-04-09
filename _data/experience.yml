@@ -1,19 +1,13 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# AWS DevOps Engineer at Webellian, Warsaw, Poland
+- company: Webellian, Warsaw, Poland
+  position: AWS DevOps Engineer
+  duration: March, 2017 &mdash; Present
+  summary: '<p><b>Designing cloud solutions</b></p><ul class="resume-item-list"><li>Building cloud environments in Infrastructure as a Code fashion (Terraform)</li><li>AWS networking and security</li><li>AWS monitoring and maintenance</li><li>Backup and disaster recovery solutions</li><li>Helping with migration into the cloud</li><li>Familiarity with version control tools (BitBucket, GitHub)</li><li>Very good understanding of main AWS services: VPC, EC2, ECS, RDS, VPN, ELB and ALB, Autoscaling, CloudWatch, S3 and many other</li></ul>'
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Open Finance SA, Poland, Warsaw
+- company: Open Finance SA, Poland, Warsaw
+  position: Junior PHP developer
+  duration:   November, 2015  &mdash; September, 2016
+  summary: Design and implementation of a model for generating bank documents in the Application. "Credit Applications Generator" in PHP and PostgreSQL.
