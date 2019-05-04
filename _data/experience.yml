@@ -1,19 +1,29 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: The Home Depot, Inc. - Atlanta, Georgia
+  position: Staff Software Engineer
+  duration: April, 2018 &mdash; Present
+  summary:
+    Leading the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
+    <ul>
+      <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
+      <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
+      <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
+    </ul>
+
+- position: Pivotal Labs Engagement
+  duration: November 2018 &mdash; February 2019
+  summary:
+    Worked with Pivotal Labs to reinforce Agile methodologies among our balanced team of 8 engineers, product, and user experience.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: The Home Depot, Inc. - Atlanta, Georgia
+  position: Senior Software Engineer
+  duration:  January 2017 - April 2018
+  summary:
+    Team lead for a small group working on Password Reset application
+    <ul>
+      <li>Handles password resets for all store, distribution center, and corporate associates and contractors.</li>
+      <li>Offload almost 100,000 calls to the IT Helpdesk per year, saving the company over $4m per year in costs to both helpdesk and associates. </li>
+      <li>Cut customer-facing support time from minutes to seconds in the event a password needs to be reset. </li>
+    </ul>
