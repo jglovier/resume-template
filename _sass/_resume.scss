@@ -155,8 +155,16 @@
     }
   }
 
+  .resume-item-section {
+    margin: 0 0 .75rem;
+    font-size: 1.1rem;
+    letter-spacing: -.05rem;
+    line-height: 1;
+  }
+
   .resume-item-title,
   .resume-item-details,
+  .resume-item-section,
   .resume-item-copy,
   .resume-item-list {
     a {

@@ -1,29 +1,56 @@
-# Jobs
-# VP of Global Communications
 - company: The Home Depot, Inc. - Atlanta, Georgia
-  position: Staff Software Engineer
-  duration: April, 2018 &mdash; Present
-  summary:
-    Leading the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
-    <ul>
-      <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
-      <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
-      <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
-    </ul>
+  positions: 
+    - position: Staff Software Engineer
+      duration: April, 2018 &mdash; Present
+      projects: 
+      - project: Tax Commons
+        duration: April, 2018 &mdash; Present
+        summary:
+          Leading the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
+          <ul>
+            <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
+            <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
+            <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
+          </ul>
 
-- position: Pivotal Labs Engagement
-  duration: November 2018 &mdash; February 2019
-  summary:
-    Worked with Pivotal Labs to reinforce Agile methodologies among our balanced team of 8 engineers, product, and user experience.
+      - project: Pivotal Labs Engagement
+        duration: November 2018 &mdash; February 2019
+        summary: 
+          <p>Worked with Pivotal Labs to reinforce Agile methodologies among our balanced team 
+          of 8 engineers, product, and user experience.</p>
+
+    - position: Senior Software Engineer
+      duration: October 2014 &mdash; April 2018
+      projects:
+        - project: Tax Commons Bridge
+          duration: July 2017 &mdash; April 2018
+          summary: 
+            <p>Developed a facade for an existing legacy Tax system that allows the Installed Sales group
+            to charge customers tax on installations of items available on homedepot.com.  This has lifted
+            the hd.com sales by over $100m in 2018.</p>
+
+        - project: Password Reset
+          duration: December 2016 &mdash; July 2017
+          summary: 
+            Team lead for a small group working on Password Reset application
+            <ul>
+              <li>Handles password resets for all store, distribution center, and corporate associates and contractors.</li>
+              <li>Offload almost 100,000 calls to the IT Helpdesk per year, saving the company over $4m per year in costs to both helpdesk and associates.</li>
+              <li>Cut customer-facing support time for minutes to seconds in the event a password needs to be reset. </li>
+            </ul>  
+            
+        - project: Legacy HR Systems
+          duration: October 2009 &mdash; December 2016
+          summary: Led the implementation of Saba Cloud learning management system. 
 
 # Director of Digital Stratgy
-- company: The Home Depot, Inc. - Atlanta, Georgia
-  position: Senior Software Engineer
-  duration:  January 2017 - April 2018
-  summary:
-    Team lead for a small group working on Password Reset application
-    <ul>
-      <li>Handles password resets for all store, distribution center, and corporate associates and contractors.</li>
-      <li>Offload almost 100,000 calls to the IT Helpdesk per year, saving the company over $4m per year in costs to both helpdesk and associates. </li>
-      <li>Cut customer-facing support time from minutes to seconds in the event a password needs to be reset. </li>
-    </ul>
+# - company: The Home Depot, Inc. - Atlanta, Georgia
+#   position: Senior Software Engineer
+#   duration:  January 2017 - April 2018
+#   summary:
+#     Team lead for a small group working on Password Reset application
+#     <ul>
+#       <li>Handles password resets for all store, distribution center, and corporate associates and contractors.</li>
+#       <li>Offload almost 100,000 calls to the IT Helpdesk per year, saving the company over $4m per year in costs to both helpdesk and associates. </li>
+#       <li>Cut customer-facing support time from minutes to seconds in the event a password needs to be reset. </li>
+#     </ul>
