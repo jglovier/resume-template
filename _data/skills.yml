@@ -13,7 +13,7 @@
   description: Jenkins
 
 - skill: Monitoring / Logging Tools
-  description: Grafana, Prometheus, Zabbix
+  description: CloudWatch, Grafana, Prometheus, Zabbix
 
 - skill: Source Control Management
   description: GIT, GitHub, Bitbucket
