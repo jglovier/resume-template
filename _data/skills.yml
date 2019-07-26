@@ -20,7 +20,7 @@
 
 - skill: Monitoring / Logging Tools
   description_1: [CloudWatch]
-  description_2: [AnsiGrafanable]
+  description_2: [Grafana]
   description_3: [Prometheus]
   description_4: [Zabbix]
 
@@ -35,7 +35,9 @@
   description_3: [Trello]
 
 - skill: Operating Systems
-  description_1: [Linux (Centos, Ubuntu, Amazon Linux 2)]
+  description_1: [Linux]
+  description_2: [Ubuntu]
+  description_4: [Amazon Linux 2]
 
 - skill: Scripting languages
   description_1: [Bash]
