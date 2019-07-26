@@ -23,7 +23,7 @@ resume_contact_address:         "Poland/Warsaw"
 resume_header_contact_info:     "dorian.dinhxuan@gmail.com • Poland/Warsaw"
 display_header_contact_info:    "true"
 
-resume_header_intro: 
+resume_header_intro:
 # "<p>
 
 # <h4><b>Cloud DevOps Engineer</b></h4></p>"
@@ -42,7 +42,7 @@ resume_section_education:       true
 resume_section_certificates:    true
 resume_section_recognition:     false
 resume_section_links:           false
-resume_section_associations:    false
+resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
