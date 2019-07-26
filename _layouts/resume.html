@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
@@ -121,14 +121,17 @@
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
-
         <header class="section-header">
           <h2>Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <span class="badge badge-pill badge-dark">{{ skill.description_1 }}</span>
+          <span class="badge badge-pill badge-dark">{{ skill.description_2 }}</span>
+          <span class="badge badge-pill badge-dark">{{ skill.description_3 }}</span>
+          <span class="badge badge-pill badge-dark">{{ skill.description_4 }}</span>
+          <span class="badge badge-pill badge-dark">{{ skill.description_5 }}</span>
         </div>
         {% endfor %}
 
@@ -233,7 +236,7 @@
       {% endif %}
 
       <footer class="page-footer">
-          
+
         <p class="footer-line"><a href="/pdf/doriandinhxuan.pdf" download>Create PDF</a></p>
         <!-- <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p> -->
       </footer>

@@ -1,31 +1,46 @@
 # Skills
 
 - skill: IaaS Tools / Cloud Tools
-  description: AWS
+  description_1: [AWS]
 
 - skill: Provisioning / Configuration Management Tools
-  description: Terraform, Ansible, Vagrant, Packer
+  description_1: [Terraform]
+  description_2: [Ansible]
+  description_3: [Vagrant]
+  description_4: [Packer]
 
 - skill: Containerization
-  description: Docker, Elastic Container Services (ECS)
+  description_1: [Docker]
+  description_2: [Elastic Container Services (ECS)]
+
 
 - skill: CI/CD
-  description: Jenkins
+  description_1: [Jenkins]
+  description_2: [Gitlab]
 
 - skill: Monitoring / Logging Tools
-  description: CloudWatch, Grafana, Prometheus, Zabbix
+  description_1: [CloudWatch]
+  description_2: [AnsiGrafanable]
+  description_3: [Prometheus]
+  description_4: [Zabbix]
 
 - skill: Source Control Management
-  description: GIT, GitHub, Bitbucket
+  description_1: [Git]
+  description_2: [GitHub]
+  description_3: [Bitbucket]
 
 - skill: Messaging / Collaboration
-  description: Slack, Jira, Trello
+  description_1: [Slack]
+  description_2: [Jira]
+  description_3: [Trello]
 
 - skill: Operating Systems
-  description: Linux (Centos, Ubuntu, Amazon Linux 2)
+  description_1: [Linux (Centos, Ubuntu, Amazon Linux 2)]
 
 - skill: Scripting languages
-  description: Bash
+  description_1: [Bash]
+  description_2: [Python]
 
 - skill: Languages
-  description: Polish - native, English - intermediate
+  description_1: [Polish - native]
+  description_2: [English - intermediate]
