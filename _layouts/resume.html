@@ -166,14 +166,15 @@
         <header class="section-header">
           <h2>Languages</h2>
         </header>
-
+        <div class="resume-item">
         {% for association in site.data.associations %}
-        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
          <ul class="resume-item-list">
-          <li class="resume-item-list" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</li>
+          <li class="resume-item-list">{% if association.url %}
+          <a href="{{ association.url }}">{{ association.organization }}</a>
+          {% else %}{{ association.organization }}{% endif %}</li>
         </ul>
-        </div>
         {% endfor %}
+        </div>
 
       </section>
       <!-- end Associations -->
