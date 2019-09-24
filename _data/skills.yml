@@ -14,7 +14,7 @@
   description_2: [Elastic Container Services (ECS)]
   description_3: [Elastic Kubernetes Service (EKS)]
 
-- skill: CI/CD
+- skill: CI / CD
   description_1: [Jenkins]
   description_2: [Gitlab]
 
@@ -25,7 +25,7 @@
   description_4: [ELK]
   description_5: [Zabbix]
 
-- skill: Version/Source Control Management
+- skill: Version / Source Control Management
   description_1: [Git]
   description_2: [GitHub]
   description_3: [Bitbucket]
