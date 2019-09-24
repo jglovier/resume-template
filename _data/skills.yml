@@ -14,7 +14,6 @@
   description_2: [Elastic Container Services (ECS)]
   description_3: [Elastic Kubernetes Service (EKS)]
 
-
 - skill: CI/CD
   description_1: [Jenkins]
   description_2: [Gitlab]
@@ -31,12 +30,6 @@
   description_3: [Bitbucket]
   description_4: [CodeCommit]
 
-
-- skill: Messaging / Collaboration
-  description_1: [Slack]
-  description_2: [Jira]
-  description_3: [Trello]
-
 - skill: Operating Systems
   description_1: [Linux]
   description_2: [Ubuntu]
@@ -45,3 +38,8 @@
 - skill: Scripting languages
   description_1: [Bash]
   description_2: [Python]
+
+- skill: Messaging / Collaboration
+  description_1: [Slack]
+  description_2: [Jira]
+  description_3: [Trello]
