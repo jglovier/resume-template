@@ -22,7 +22,8 @@
   description_1: [CloudWatch]
   description_2: [Grafana]
   description_3: [Prometheus]
-  description_4: [Zabbix]
+  description_4: [ELK]
+  description_5: [Zabbix]
 
 - skill: Source Control Management
   description_1: [Git]
