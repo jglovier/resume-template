@@ -25,7 +25,7 @@
   description_4: [ELK]
   description_5: [Zabbix]
 
-- skill: Source Control Management
+- skill: Version/Source Control Management
   description_1: [Git]
   description_2: [GitHub]
   description_3: [Bitbucket]
