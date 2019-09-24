@@ -1,8 +1,8 @@
 # Jobs
 
-# AWS DevOps Engineer at Webellian, Warsaw, Poland
+# AWS Cloud Engineer at Webellian, Warsaw, Poland
 - company: Webellian, Poland, Warsaw
-  position: AWS DevOps Engineer
+  position: AWS Cloud Engineer
   duration: March, 2017 &mdash; Present
   summary: '<p><b>Designing and deploying cloud solutions in Amazon Web Services.</b></p><ul class="resume-item-list"><li>Building secure, scalable and high availability cloud environments through the tool (Terraform).</li><li>Configuring network and security in Amazon Web Services (VPC, VPN, Subnets, Route Tables, Peering Connections, Internet Gateways, NAT Gateways, Network ACLs, Security Groups).</li><li>Configuring monitoring and logging in Amazon Web Services (Cloudwatch, Grafana, ELK).</li><li>Familiarity with backup and disaster recovery solutions in Amazon Web Services (RDS Multi-AZ, Read Replicas, Snapshots).</li><li>Very good understanding of main AWS services: VPC, VPN, EC2, RDS, S3, IAM, ELB, ALB, ECS, ECR, Route53, CloudWatch, Lambda, Elastic Beanstalk and many other.</li><li>Helping with migration into the cloud.</li><li>Familiarity with version control tools (GIT, BitBucket, GitHub).</li><li>Provision configuration management through Ansible, Packer and Vagrant.</li></ul>'
 
