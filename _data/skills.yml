@@ -12,7 +12,7 @@
 - skill: Containerization
   description_1: [Docker]
   description_2: [Elastic Container Services (ECS)]
-  description_3: [gElastic Kubernetes Service (EKS)]
+  description_3: [Elastic Kubernetes Service (EKS)]
 
 
 - skill: CI/CD
