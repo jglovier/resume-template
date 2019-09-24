@@ -12,6 +12,7 @@
 - skill: Containerization
   description_1: [Docker]
   description_2: [Elastic Container Services (ECS)]
+  description_3: [gElastic Kubernetes Service (EKS)]
 
 
 - skill: CI/CD
@@ -28,6 +29,8 @@
   description_1: [Git]
   description_2: [GitHub]
   description_3: [Bitbucket]
+  description_4: [CodeCommit]
+
 
 - skill: Messaging / Collaboration
   description_1: [Slack]
