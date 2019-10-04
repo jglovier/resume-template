@@ -1,4 +1,14 @@
 # Recognitions
+- award: Finance IT Golden Shovel (Group)
+  organization: The Home Depot
+  year: 2019
+  summary: Team produced a 'Mini Con' based on several IT Transformation and Agile topics and presented to Finance IT in an effort to help educate others on the merits of agile software development.
+
+- award: Finance IT Golden Shovel
+  organization: The Home Depot
+  year: 2019
+  summary: Worked with a vendor to modernize their TLS infrastructure to provide increased security between our data center and their cloud
+
 - award: Best in Technology Award
   organization: The Home Depot
   year: 2018
@@ -7,4 +17,4 @@
 - award: Game of Code Winner
   organization: The Home Depot
   year: 2016
-  summary: Won the 'Game of Code' for delivering a homedepot.com integration for the Rental line of business
+  summary: Won the 'Game of Code' for delivering a homedepot.com concept integration for the Rental line of business

@@ -29,6 +29,14 @@
             to charge customers tax on installations of items available on homedepot.com.  This has lifted
             the hd.com sales by over $100m in 2018.</p>
 
+        - project: Locksmith
+          duration: July 2017
+          summary:
+            <p>Worked with a team composed of Cloud Foundry administrators, change administators and IT audit, 
+            and the software engineering community within The Home Depot to understand and develop software
+            which enabled clear auditable events on PCF. This enabled software engineers to push code without
+            needing to worry about the separation of duties clause in Home Depot's IT controls. </p>
+
         - project: Password Reset
           duration: December 2016 &mdash; July 2017
           summary: 
@@ -41,16 +49,13 @@
             
         - project: Legacy HR Systems
           duration: October 2009 &mdash; December 2016
-          summary: Led the implementation of Saba Cloud learning management system. 
+          summary: 
+            Led the implementation of Saba Cloud learning management system. This system is used by every associate in Home Depot
+            to take required web-based training, such as Lift Truck safety or Data Privacy training.
+            <ul>
+              <li>Designed custom server cluster that would meet Home Depot's needs</li>
+              <li>Installed Saba software on cluster</li>
+              <li>Worked with Oracle DBA to tune a RAC system to work with the Saba software</li>
+              <li>worked with Store Networking to build a prefetch system that populated 2200 Squid caches with learning content nightly.</li>
+            </ul>
 
-# Director of Digital Stratgy
-# - company: The Home Depot, Inc. - Atlanta, Georgia
-#   position: Senior Software Engineer
-#   duration:  January 2017 - April 2018
-#   summary:
-#     Team lead for a small group working on Password Reset application
-#     <ul>
-#       <li>Handles password resets for all store, distribution center, and corporate associates and contractors.</li>
-#       <li>Offload almost 100,000 calls to the IT Helpdesk per year, saving the company over $4m per year in costs to both helpdesk and associates. </li>
-#       <li>Cut customer-facing support time from minutes to seconds in the event a password needs to be reset. </li>
-#     </ul>
