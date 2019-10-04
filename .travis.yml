@@ -9,3 +9,8 @@ install: bundle install
 
 notifications:
   email: false
+
+branches:
+  only:
+    - gh-pages
+    - /.*/
