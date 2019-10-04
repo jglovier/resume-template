@@ -1,4 +1,4 @@
-# Resume template
+# Resume template [![Build Status](https://travis-ci.org/jander99/jeffanderson.dev.svg?branch=gh-pages)](https://travis-ci.org/jander99/jeffanderson.dev)
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
