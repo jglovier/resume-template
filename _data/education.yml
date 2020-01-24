@@ -1,4 +1,4 @@
-# Degree
+--- # Degree
 - degree: Bachelor of Science, Information Technology
   uni: University of Phoenix
   year: 2006
@@ -11,8 +11,8 @@
   award: 
   summary: 
 
-# Certification
-  certs:
+--- # Certification
+certs:
   - cert: Cisco Certified Network Professional Voice
   - cert: Cisco Certified Network Professional
   - cert: Cisco Certified Design Professional
