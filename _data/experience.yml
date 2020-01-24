@@ -1,19 +1,20 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Presidio Networked Solutions
+  position: Senior Engineer, Collaboration
+  duration: April 2015 &mdash; Present
+  summary: Lead engineering of many large projects such with the following technologies<ul class="resume-item-list"><li>Unified Communications</li><li>Security including Palo Alto and ASA deployment</li><li>WAN and LAN Routing</li><li>Switching</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: MetLife
+  position: Senior Network Engineer
+  duration: April 2015 &mdash; April 2014
+  summary: <ul class="resume-item-list"><li>Project lead for Cyprus LAN/WAN redesign, connecting Cyprus up to Frankfurt with VPN and installing new layer 3 switch.</li><li>Project lead for DMVPN solution that provides redundant paths from European sites up to hub locations for email and internet access.</li><li>Network project lead for European Office 365 WAN connections, designed connectivity, sized WAN connections and ordered equipment.</li><li>Project lead to fix DMVPN connecting Colombia, Mexico and NA data centers, removed all static route and implemented EIGRP across the WAN.</li></ul>
+
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Under Armour
+  position: Senior Network Engineer
+  duration:  December 2005  &mdash; April 2014
+  summary: Provided network architecture, operations leadership and capacity planning for Under Armour’s global telecommunications services encompassing data, security and wireless functions supporting 6000+ teammates across 120+ global locations in the areas of retail, manufacturing, distribution, and office operations. Driven to provide scalable network solutions designed specifically to meet Under Armour’s business objectives. •	Primary voice architect responsible for 3 global clusters in Europe, North America and Asia/Pac areas. This includes Unified Communications Manager, Unity Connection, IM and Presence and Unified Contact Center Express version 7 and 9 running on UCS environments with CME/SRST at remote locations. On 5 separate occasions during my career I was project lead for entire cluster upgrades.
