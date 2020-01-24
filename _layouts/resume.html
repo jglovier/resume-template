@@ -90,9 +90,9 @@
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
-        
+
         <h3><ul class="resume-item-list">
-          {% for cert in site.data.education %}
+          {% for cert in education.certs %}
           <li>{{ cert.cert }}</li>
           {% endfor %}
         </ul></h3>
