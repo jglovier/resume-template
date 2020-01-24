@@ -11,10 +11,10 @@
   award: 
   summary: 
 
-- certs:
-  cert: Cisco Certified Network Professional Voice
-  cert: Cisco Certified Network Professional
-  cert: Cisco Certified Design Professional
-  cert: Cisco Meraki CMNA
-  cert: Palo Alto ACE, PCNSE 6
-  cert: F5 Certified BIG-IP Administrator
+  certs:
+    - cert: Cisco Certified Network Professional Voice
+    - cert: Cisco Certified Network Professional
+    - cert: Cisco Certified Design Professional
+    - cert: Cisco Meraki CMNA
+    - cert: Palo Alto ACE, PCNSE 6
+    - cert: F5 Certified BIG-IP Administrator
