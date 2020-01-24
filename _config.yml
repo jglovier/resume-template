@@ -29,7 +29,7 @@ resume_header_intro: "<p>Architect/engineer with 15+ years experience in network
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide

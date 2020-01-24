@@ -87,7 +87,11 @@
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul></h5>
-
+          <h3><ul class="resume-item-list">
+            {% for cert in education.cert %}
+            <li>{{ cert.cert }}</li>
+            {% endfor %}
+          </ul></h3>
 
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
