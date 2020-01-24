@@ -12,7 +12,7 @@
   summary: 
 
 # Certification
-certs:
+- certs:
   - cert: Cisco Certified Network Professional Voice
   - cert: Cisco Certified Network Professional
   - cert: Cisco Certified Design Professional
