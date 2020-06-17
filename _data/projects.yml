@@ -2,15 +2,28 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Project NEPOM
+  role: Developer
+  duration: 2017 &mdash; 2018
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Development of an automation solution in conjunction with NEPOM in Foz do Iguaçu / PR for a boat belonging to PF. The project aimed to grant remote control capability to the boat, and the addition of sensing and telemetry elements to the boat.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Smart PTI
+  role: Developer
+  duration: 2017 &mdash; 2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Smart PTI” platform used to integrate the Park, with sensors for data acquisition of functional areas. The sensors allow the optimization of activities and decision making. The innovative technology used in the project is based on the concept of Smart Cities and Internet of Things (Internet of Things), which involve the intensive use of communication and information technology sensitive to the context of urban management. The project is a joint undertaking by Itaipu Binacional, PTI, Universidade Estadual do Oeste do Paraná (Unioeste) and IFPR.
+
+
+- project: RFID inventory for Itaipu Dam
+  role: Researcher
+  duration: 2017 &mdash; 2017
+  # url: "#"
+  description: SmStudy of factors that could make feasible or impossible to implement a system of Radio Frequency Identification or RFID (Radio-Frequency Identification) in inventory items. Human resources were allocated for research from the Latin American Center for Open Technologies - CELTAB, in agreement with ITAIPU BINACIONAL, where a total of 1 (one) researcher was stipulated in the bibliographic and state of the art technology research phase. RFID. Free technologies are a powerful Research and Development tool and potential generator of solutions to the needs of Itaipu Binacional, as well as an input for the formation of new ventures. The researcher's initial activities were to delimit the scope of the project according to the needs of ITAIPU.
+
+
+- project: System for Connecting Microgenerators to the Electricity Distribution Network to Enable Virtual Power Plants
+  role: Researcher
+  duration: 2015 &mdash; 2017
+  # url: "#"
+  description: Development of a system for monitoring and managing mixed microgeneration plants to provide services in distributed generation systems. The project is in line with the concept of Virtual Power Plants, as it aims to manage the distributed energy resources. It is a partnership between the Renewable Energy Center - CiBiogás, Rondônia Power Plants - CERON and Itaipu Binacional / BR.
