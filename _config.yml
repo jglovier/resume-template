@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "조은지 이력서"
+description: "조은지의 이력서 페이지입니다. (This is Luidy resume page.)"
 
 # Build settings
 markdown: kramdown
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "조은지"
+resume_title:                   "잘 하기 위해 노력하고, 끊임없이 배우는 개발자"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "ejjo321@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>안녕하세요. 소프트웨어 개발 분야 지원자 조은지입니다. 현대 사회의 트랜드 중심에 개발자가 존재한다는 점에서 매력을 느껴 컴퓨터 공학 전공으로 대학을 졸업하였으며 소프트웨어 상위 직무에 대해 궁금증을 느끼고 배우고 싶어 SW분석설계 전공으로 대학원을 졸업했습니다. 저는 새로운 기술을 거부감 없이 검토하고 받아들이는 것에 흥미를 느끼며 맡은 프로젝트에 항상 최선을 다했습니다. 기술력을 인정받고 발전하는 회사의 미래에 저도 함께하고 싶습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/Luidy"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/eun-ji-jo-3a9b2919b/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://luidy.tistory.com/"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
