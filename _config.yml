@@ -20,8 +20,8 @@ resume_contact_email:           "kdh4132@gmail.com"
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+#resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+#display_header_contact_info:    "false"
 
 resume_header_intro: "<p>반갑습니다, 김동혁입니다. 4년차 보안솔루션 운영 및 정보보호 관리 담당자로 일하고 있으며 보안 및 개인정보 보호 관련 스킬에 관심이 많습니다.</p>"
 
@@ -52,7 +52,7 @@ resume_social_links:
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://blog.naver.com/hyuk4132"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
