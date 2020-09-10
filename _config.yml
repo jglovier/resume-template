@@ -46,7 +46,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/tups__/"
   resume_website_url:           "https://mattups.github.io/resume/"
 resume_print_social_links:      true
 
