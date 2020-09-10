@@ -14,12 +14,12 @@ resume_name:                    "Mattia Tupone"
 resume_title:                   "DevOps"
 resume_contact_email:           "tupone.mattia@gmail.com"
 resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
-resume_header_intro: "<p>I'm a young SysAdmin/DevOps based in Italy with the passion for IT systems and coding.
+resume_header_intro: "<p>I'm a young DevOps based in Italy with the passion for IT systems and coding.
 Moving across servers, code, and deployments, I started working as a professional in 2016 gaining and maturing experience
 day-by-day, always looking for new technologies and methods.<br>
-Experienced and certified by VMware on virtualization
-technologies and skilled in Microsoft/Linux environments. <br>
-Looking for a DevOps position.</p>"
+Experienced and certified by VMware on virtualization, by Rancher on Kubernetes clusters management.<br>
+Let's config, deploy and destroy. Give me a shell and I'll be happy with it.<br>
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
