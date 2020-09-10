@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mattia Tupone"
-resume_title:                   "SysAdmin/DevOps"
+resume_title:                   "DevOps"
 resume_contact_email:           "tupone.mattia@gmail.com"
 resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
 resume_header_intro: "<p>I'm a young SysAdmin/DevOps based in Italy with the passion for IT systems and coding.

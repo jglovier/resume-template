@@ -1,8 +1,18 @@
 # Jobs
-# SysAdmin/DevOps
+# DevOps
+- company: Aptargroup, Inc
+  position: DevOps Consultant
+  duration: Jan, 2020 &mdash; Jan 2020
+  summary: DevOps consultant
+# DevOps
+- company: Aesys
+  position: DevOps Consultant
+  duration: Jan, 2020 &mdash; Jan 2020
+  summary: DevOps consultant
+# SysAdmin
 - company: IMM Hydraulics S.p.a
-  position: SysAdmin/DevOps
-  duration: Feb, 2018 &mdash; Present
+  position: SysAdmin
+  duration: Feb, 2018 &mdash; Jan 2020
   summary: VMWare and general infrastructure management, internal systems developer
 
 # SysAdmin/DevOps

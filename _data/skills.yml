@@ -11,7 +11,8 @@
 - skill: Systems Monitoring
   description: <ul class="resume-item-list">
     <li>Zabbix;</li>
-    <li>Netdisco.</li>
+    <li>Netdisco;</li>
+    <li>Prometheus/Grafana</li>
     </ul>
 
 - skill: Networking
@@ -43,30 +44,26 @@
   description: <ul class="resume-item-list">
     <li>Microsoft Azure platform;</li>
     <li>DigitalOcean;</li>
-    <li>Amazon AWS.</li>
+    <li>Amazon AWS;</li>
+    <li>Hetzner.</li>
     </ul>
 
-- skill: Infrastructure and deploy management
+- skill: Infrastructure and deploy
   description: <ul class="resume-item-list">
     <li>Docker;</li>
+    <li>Docker Swarm<;/li>
     <li>Terraform.</li>
     </ul>
     
-  - skill: CI/CD
-description: <ul class="resume-item-list">
-  <li>CircleCI;</li>
-  </ul>
+- skill: CI/CD
+  description: <ul class="resume-item-list">
+    <li>CircleCI;</li>
+    <li>Jenkins.</li>
+    </ul>
 
 - skill: Version Control Systems
   description: <ul class="resume-item-list">
     <li>Git;</li>
     <li>GitHub;</li>
-    <li>SVN.</li>
-    </ul>
-
-- skill: Other
-  description: <ul class="resume-item-list">
-    <li>Proficient with Ubuntu (LTS), Debian, CentOS 7, Windows 7/10, Windows Server 2012 R2;</li>
-    <li>Basic knowledge of Adobe Photoshop, Adobe Illustrator;</li>
-    <li>Basic knowledge of Unity3D graphics engine and Unreal Engine.</li>
+    <li>Azure DevOps.</li>
     </ul>
