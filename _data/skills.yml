@@ -30,7 +30,7 @@
     <li>Python;</li>
     <li>PHP;</li>
     <li>Bootstrap, Wordpress;</li>
-    <li>Bash scripting.</li>
+    <li>Bash and Python scripting.</li>
     <li>Basic knowledge of C, C#, C++;</li>
     </ul>
 
@@ -42,16 +42,20 @@
 
 - skill: Cloud Computing
   description: <ul class="resume-item-list">
-    <li>Microsoft Azure platform;</li>
+    <li>Microsoft Azure;</li>
     <li>DigitalOcean;</li>
     <li>Amazon AWS;</li>
     <li>Hetzner.</li>
     </ul>
 
-- skill: Infrastructure and deploy
+- skill: DevOps
   description: <ul class="resume-item-list">
     <li>Docker;</li>
-    <li>Docker Swarm<;/li>
+    <li>Docker Swarm;</li>
+    <li>Kubernetes;</li>
+    <li>Rancher;</li>
+    <li>AWX (Ansible Tower);</li>
+    <li>GitOps;</li>
     <li>Terraform.</li>
     </ul>
     
@@ -66,4 +70,10 @@
     <li>Git;</li>
     <li>GitHub;</li>
     <li>Azure DevOps.</li>
+    </ul>
+- skill: Various
+  description: <ul class="resume-item-list">
+    <li>Kafka;</li>
+    <li>Sring;</li>
+    <li>Basic SAP knowledge</li>
     </ul>
