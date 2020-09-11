@@ -17,7 +17,11 @@ resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
 resume_header_intro: "<p>I'm a young DevOps based in Italy with the passion for IT systems and coding.
 Moving across servers, code, and deployments, I started working as a professional in 2016 gaining and maturing experience
 day-by-day, always looking for new technologies and methods.<br><br>
+
+
 Experienced and certified by VMware on virtualization, by Rancher on Kubernetes clusters management.<br><br>
+
+
 Let's config, deploy and destroy. Give me a shell and I'll be happy with it.<br>
 </p>"
 
@@ -31,23 +35,23 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-#resume_section_projects:        true
+# resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-#resume_section_links:           true
-#resume_section_associations:    true
+# resume_section_links:           true
+# resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/mattups"
-  # resume_twitter_url:           "https://twitter.com/mattia_tupone"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
-  resume_instagram_url:         "https://www.instagram.com/tups__/"
-  resume_website_url:           "https://mattups.github.io/resume/"
+resume_github_url:            "https://github.com/mattups"
+# resume_twitter_url:           "https://twitter.com/mattia_tupone"
+# resume_dribbble_url:          "https://dribbble.com/jag"
+# resume_facebook_url:          "insert Facebook URL here"
+resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
+resume_instagram_url:         "https://www.instagram.com/tups__/"
+resume_website_url:           "https://mattups.github.io/resume/"
 resume_print_social_links:      true
 
 # Design settings
