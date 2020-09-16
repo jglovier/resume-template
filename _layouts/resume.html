@@ -158,6 +158,26 @@
       <!-- end Recognition -->
       {% endif %}
 
+      {% if site.resume_section_achievements %}
+      <!-- begin Achievements -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2> Achievements </h2>
+        </header>
+
+        {% for achievement in site.data.achievements %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ achievement.event }}</h3>
+          <h4 class="resume-item-details"> {{ achievement.result }} &bull; {{ achievement.year }} </h4>
+          <p class="resume-item-copy">{{ achievement.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
+      {% endif %}
+
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
