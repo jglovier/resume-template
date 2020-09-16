@@ -104,11 +104,14 @@
           <h2>Projects</h2>
         </header>
 
+        <p> I've been learning React and Express framework for about a month, during which time I've built 2 projects. There are still many things can be improved in these 2 projects, such as using Typescript, adding CI/CD pipeline and make them work on mobile browser. </p>
+
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <h3 class="resume-item-title" itemprop="name"> {{ project.project }} </h3>
+          <p> URL: <a href="{{ project.url }}" itemprop="url" target="_blank"> {{ project.url }} </a></p>
+          <p> GitHub: <a href="{{ project.github }}" itemprop="url" target="_blank"> {{ project.github }} </a></p>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
