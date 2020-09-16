@@ -6,9 +6,6 @@
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
-      <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
-
       <header class="page-header">
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
@@ -38,14 +35,6 @@
         <div class="executive-summary" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
-
-        {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
-        {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
-        {% else %}
-        {% endif %}
-
       </header>
 
       {% if site.resume_section_experience %}
