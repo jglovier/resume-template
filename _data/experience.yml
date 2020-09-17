@@ -1,19 +1,22 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Sabbatical leave
+  duration: Feb, 2020 - Present
+  summary: "I use my free time for teaching high school students, exploring things I might be interested in and also practicing my problem-solving skill. I will explain briefly what I've been doing these past months:"
+  teams:
+    - name: February - June
+      description: I practice my problem-solving skill by solving various algorithm or math problems. I really enjoy solving them. All the code I wrote during this period is archived <a href="https://github.com/alvinpiter/competitive-programming"> here</a>.
+    - name: July - Mid August
+      description: I learned Go programming language by building Telegram bot, APIs, and do about half of exercises in <a href="https://gophercises.com/"> gophercises </a>.
+    - name: Mid August - Present
+      description: I learned React framework and decided I'd like to work with React in my next job. During this period I've built 2 projects and I will explain them in Projects section below.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Bukalapak
+  position: Software Engineer (Backend)
+  duration: Nov, 2016 &mdash; Jan, 2020
+  summary: "During my 3 years in Bukalapak I've been involved in 3 different teams. I've also gained experience using following programming languages and technologies: Ruby (with Rails or Sinatra), Elixir, MySQL, MongoDB, Redis, RabbitMQ, Docker, Kubernetes, Gitlab CI. I am now a little bit rusty using those languages and technologies, but willing to re-learn it again if needed. The 3 teams I've been in are:"
+  teams:
+    - name: BukaMobil
+      description: BukaMobil is Bukalapak's product which enable user to purchase cars. I was in charge of developing the backend of admin dashboard.
+    - name: Chat
+      description: During my time in this team, we were partnering with Qiscus to develop a more reliable messaging system. I was in charge of benchmarking current system with the new proposed system. I was also involved in development of automatic message reply.
+    - name: O2O (offline to online) - New Customers
+      description: O2O - New Customers team created a system to attract offline user to convert into registered user. I was the first recruited backend engineer in this team and later appointed as lead engineer (only for a few months prior to my resignation). I was also involved in service migration from on-premise server to Google Cloud Platform.

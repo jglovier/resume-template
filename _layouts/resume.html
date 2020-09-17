@@ -50,6 +50,13 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
+
+          <div style="padding-left: 2em; padding-top: 1em">
+            {% for team in job.teams %}
+              <h5 class="resume-item-details"> {{ team.name }} </h5>
+              <p> {{ team.description }} </p>
+            {% endfor %}
+          </div>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -57,6 +64,46 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_projects %}
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Projects</h2>
+        </header>
+
+        {% for project in site.data.projects %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name"> {{ project.project }} </h3>
+          <p> URL: <a href="{{ project.url }}" itemprop="url" target="_blank"> {{ project.url }} </a></p>
+          <p> GitHub: <a href="{{ project.github }}" itemprop="url" target="_blank"> {{ project.github }} </a></p>
+          <p class="resume-item-copy">{{ project.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Projects -->
+      {% endif %}
+
+      {% if site.resume_section_achievements %}
+      <!-- begin Achievements -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2> Achievements </h2>
+        </header>
+
+        {% for achievement in site.data.achievements %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ achievement.event }}</h3>
+          <h4 class="resume-item-details"> {{ achievement.result }} &bull; {{ achievement.year }} </h4>
+          <p class="resume-item-copy">{{ achievement.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Achievements -->
+      {% endif %}
 
       {% if site.resume_section_education %}
       <!-- begin Education -->
@@ -86,29 +133,6 @@
       {% endif %}
 
 
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Projects</h2>
-        </header>
-
-        <p> I've been learning React and Express framework for about a month, during which time I've built 2 projects. There are still many things can be improved in these 2 projects, such as using Typescript, adding CI/CD pipeline and make them work on mobile browser. </p>
-
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name"> {{ project.project }} </h3>
-          <p> URL: <a href="{{ project.url }}" itemprop="url" target="_blank"> {{ project.url }} </a></p>
-          <p> GitHub: <a href="{{ project.github }}" itemprop="url" target="_blank"> {{ project.github }} </a></p>
-          <p class="resume-item-copy">{{ project.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Projects -->
-      {% endif %}
-
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -125,26 +149,6 @@
 
       </section>
       <!-- end Skills -->
-      {% endif %}
-
-      {% if site.resume_section_achievements %}
-      <!-- begin Achievements -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2> Achievements </h2>
-        </header>
-
-        {% for achievement in site.data.achievements %}
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ achievement.event }}</h3>
-          <h4 class="resume-item-details"> {{ achievement.result }} &bull; {{ achievement.year }} </h4>
-          <p class="resume-item-copy">{{ achievement.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Achievements -->
       {% endif %}
 
       {% if site.resume_section_interests %}
