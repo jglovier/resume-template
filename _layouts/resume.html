@@ -71,6 +71,8 @@
           <h2>Projects</h2>
         </header>
 
+        <p> These 2 projects currently only work on desktop browser. Visit the GitHub link provided if you want to know the details of the features these projects offer. </p>
+
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
@@ -123,15 +125,12 @@
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul></h5>
-
-
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
       </section>
       <!-- end Education -->
       {% endif %}
-
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->

@@ -1,9 +1,9 @@
 - project: Codeforces++
   url: https://cf-pp.herokuapp.com
   github: https://github.com/alvinpiter/codeforces-plus-plus
-  description: Codeforces is one of the largest competitive programming platform in the world. They host weekly programming contest and a collection of algorithmic problems which user can use to practice. Codeforces++ is a tool that extends Codeforces functionality. This app is developed using React framework. Through this project I learned the basic of React framework such as breaking down user interface to small components and aggregating API responses to provide insightful result.
+  description: Codeforces is one of the largest competitive programming platform in the world. They host weekly programming contest and a collection of algorithm problems which user can use to practice. It's quite similar to LeetCode, but Codeforces problem's are generally harder. Codeforces++ is a tool that extends Codeforces functionality. This app is developed using React framework. Through this project I learned the basic of React framework such as breaking down user interface to small components and aggregating API responses to provide insightful result.
 
 - project: JavaScript Online Games
   url: https://jsog.herokuapp.com
   github: https://github.com/alvinpiter/js-online-games
-  description: JSOG (JavaScript Online Games) is a platform where people can play games with their friends. I've implemented 3 games in JSOG, they are Tic-Tac-Toe, Reversi, Multiplayer Sudoku. The client side of JSOG is developed using React framework, while the server side is developed using Express and Socket.IO. Through this project I learned how to use <u> Jest </u> for writing unit tests.
+  description: JSOG (JavaScript Online Games) is a platform where people can play games with their friends. I've implemented 3 games in JSOG, Tic-Tac-Toe, Reversi, and Multiplayer Sudoku. The client side of JSOG is developed using React framework, while the server side is developed using Express framework. Through this project I learned how to use Jest for writing unit tests.

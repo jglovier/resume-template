@@ -1,22 +1,22 @@
 - company: Sabbatical leave
   duration: Feb, 2020 - Present
-  summary: "I use my free time for teaching high school students, exploring things I might be interested in and also practicing my problem-solving skill. I will explain briefly what I've been doing these past months:"
+  summary: "I mostly use my free time for teaching algorithm and data structures to high school students, exploring new things I might be interested in and also practicing my problem-solving skill. I will explain briefly what I've been doing these past months:"
   teams:
     - name: February - June
-      description: I practice my problem-solving skill by solving various algorithm or math problems. I really enjoy solving them. All the code I wrote during this period is archived <a href="https://github.com/alvinpiter/competitive-programming"> here</a>.
+      description: I practiced my problem-solving skill by solving various algorithm or math problems. I really enjoy solving them. All the code I wrote during this period is archived <a href="https://github.com/alvinpiter/competitive-programming"> here</a>.
     - name: July - Mid August
       description: I learned Go programming language by building Telegram bot, APIs, and do about half of exercises in <a href="https://gophercises.com/"> gophercises </a>.
     - name: Mid August - Present
-      description: I learned React framework and decided I'd like to work with React in my next job. During this period I've built 2 projects and I will explain them in Projects section below.
+      description: I learned React framework and decided I'd like to work with React in my next job. During this period I've built 2 projects which I explain in Projects section below.
 
 - company: Bukalapak
   position: Software Engineer (Backend)
   duration: Nov, 2016 &mdash; Jan, 2020
-  summary: "During my 3 years in Bukalapak I've been involved in 3 different teams. I've also gained experience using following programming languages and technologies: Ruby (with Rails or Sinatra), Elixir, MySQL, MongoDB, Redis, RabbitMQ, Docker, Kubernetes, Gitlab CI. I am now a little bit rusty using those languages and technologies, but willing to re-learn it again if needed. The 3 teams I've been in are:"
+  summary: "During my 3 years in Bukalapak I've been a member of 3 teams. I've gained experience using following programming languages and technologies: Ruby (with Rails or Sinatra), Elixir, MySQL, MongoDB, Redis, RabbitMQ, Docker, Kubernetes, Gitlab CI. I am now a little bit rusty using those languages and technologies, but willing to re-learn it if needed. The 3 teams I've been a member of:"
   teams:
     - name: BukaMobil
       description: BukaMobil is Bukalapak's product which enable user to purchase cars. I was in charge of developing the backend of admin dashboard.
     - name: Chat
       description: During my time in this team, we were partnering with Qiscus to develop a more reliable messaging system. I was in charge of benchmarking current system with the new proposed system. I was also involved in development of automatic message reply.
     - name: O2O (offline to online) - New Customers
-      description: O2O - New Customers team created a system to attract offline user to convert into registered user. I was the first recruited backend engineer in this team and later appointed as lead engineer (only for a few months prior to my resignation). I was also involved in service migration from on-premise server to Google Cloud Platform.
+      description: O2O - New Customers team created a system to attract offline user to convert into registered user. I was the first recruited backend engineer in this team and later appointed as lead engineer. I was also involved in service migration from on-premise server to Google Cloud Platform.
