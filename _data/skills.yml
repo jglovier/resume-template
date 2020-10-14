@@ -1,79 +1,83 @@
 # Skills
 - skill: Systems
   description: <ul class="resume-item-list">
-    <li>Configuration and installation of hardware/software systems;</li>
-    <li>Maintenance, support, backup strategies and restore;</li>
-    <li>Log analysis, troubleshooting;</li>
-    <li>In-depth knowledge of Microsoft Windows system applications and operating systems;</li>
-    <li>In-depth knowledge of Linux/UNIX system applications and operating systems.</li>
-    </ul>
-
-- skill: Systems Monitoring
-  description: <ul class="resume-item-list">
-    <li>Zabbix;</li>
-    <li>Netdisco;</li>
-    <li>Prometheus/Grafana.</li>
+    <li>Configuration and installation of hardware/software systems</li>
+    <li>Maintenance, support, backup strategies and restore</li>
+    <li>Log analysis, troubleshooting</li>
+    <li>In-depth knowledge of Microsoft Windows system applications and operating systems</li>
+    <li>In-depth knowledge of Linux/UNIX system applications and operating systems</li>
     </ul>
 
 - skill: Networking
   description: <ul class="resume-item-list">
-    <li>Understanding and configuration of a network;</li>
-    <li>Knowledge, configuration and maintenance of the hardware components of a network;</li>
-    <li>Configuration and administration of Fortinet systems (FortiGate, FortiClient);</li>
-    <li>Set up and manage SSL VPN systems.</li>
+    <li>Understanding and configuration of a network</li>
+    <li>Knowledge, configuration and maintenance of the hardware components of a network</li>
+    <li>Configuration and administration of Fortinet systems (FortiGate, FortiClient)</li>
+    <li>Set up and manage SSL VPN systems</li>
     </ul>
 
 - skill: Programming
   description: <ul class="resume-item-list">
-    <li>HTML/CSS;</li>
-    <li>JavaScript, TypeScript;</li>
-    <li>Python;</li>
-    <li>PHP;</li>
-    <li>Bootstrap, Wordpress;</li>
-    <li>Bash and Python scripting;</li>
-    <li>Basic knowledge of C, C#, C++.</li>
+    <li>HTML/CSS</li>
+    <li>JavaScript, TypeScript</li>
+    <li>Python</li>
+    <li>PHP</li>
+    <li>Bash and Python scripting</li>
+    <li>Basic knowledge of C, C#, C++</li>
     </ul>
 
 - skill: Databases
   description: <ul class="resume-item-list">
-    <li>MySQL;</li>
-    <li>SQL Server 2012/2014.</li>
+    <li>MySQL</li>
+    <li>SQL Server 2012/2014</li>
+    <li>PostgreSQL</li>
     </ul>
 
-- skill: Cloud Computing
+- skill: Cloud Platforms
   description: <ul class="resume-item-list">
-    <li>Microsoft Azure;</li>
-    <li>DigitalOcean;</li>
-    <li>Amazon AWS;</li>
-    <li>Hetzner.</li>
+    <li>Microsoft Azure</li>
+    <li>DigitalOcean</li>
+    <li>Amazon AWS</li>
+    <li>Hetzner</li>
     </ul>
 
 - skill: DevOps
   description: <ul class="resume-item-list">
-    <li>Docker;</li>
-    <li>Docker Swarm;</li>
-    <li>Kubernetes;</li>
-    <li>Rancher;</li>
-    <li>AWX (Ansible Tower);</li>
-    <li>GitOps;</li>
-    <li>Terraform.</li>
+    <li>Docker</li>
+    <li>Docker Swarm</li>
+    <li>Kubernetes</li>
+    <li>Rancher</li>
+    <li>AWX (Ansible Tower)</li>
+    <li>GitOps</li>
+    <li>Terraform</li>
+    </ul>
+
+- skill: Monitoring
+  description: <ul class="resume-item-list">
+    <li>Zabbix</li>
+    <li>Netdisco</li>
+    <li>Prometheus</li>
+    <li>ELK stack</li>
+    <li>APM Server</li>
     </ul>
     
 - skill: CI/CD
   description: <ul class="resume-item-list">
-    <li>CircleCI;</li>
-    <li>Jenkins.</li>
+    <li>CircleCI</li>
+    <li>Jenkins</li>
     </ul>
 
 - skill: Version Control Systems
   description: <ul class="resume-item-list">
-    <li>Git;</li>
-    <li>GitHub;</li>
-    <li>Azure DevOps.</li>
+    <li>Git</li>
+    <li>GitHub</li>
+    <li>GitLab</li>
+    <li>Azure DevOps</li>
     </ul>
+
 - skill: Various
   description: <ul class="resume-item-list">
-    <li>Kafka;</li>
-    <li>Sring;</li>
-    <li>Basic SAP knowledge.</li>
+    <li>Kafka</li>
+    <li>Spring</li>
+    <li>Basic SAP knowledge</li>
     </ul>
