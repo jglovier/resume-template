@@ -210,6 +210,13 @@
       font-size: 2rem;
       margin: 0 0 .2rem;
     }
+
+    .executive-summary {
+      @include serif_regular;
+      line-height: 1.1rem;
+      letter-spacing: .03rem;
+      //margin: 0 0 .2rem;
+    }
   }
   .section-header {
     @include section_border_thin;
