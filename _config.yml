@@ -11,13 +11,26 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Adam Sealey"
-resume_title:                   "Senior Director, Office of Cybersecurity & Chief of Staff"
+#resume_title:                   "Senior Director, Office of Cybersecurity & Chief of Staff"
+resume_title:                   "Senior Director, Cybersecurity Strategy & Chief of Staff"
+#resume_title:                   "Cybersecurity Executive with emphasis on strategic development, organizational transformation, and data-driven execution."
 resume_contact_email:           "adam.sealey@gmail.com"
 resume_contact_telephone:       "925-709-4565"
 resume_contact_address:         "Portland, Oregon"
 resume_header_contact_info: "925-709-4565 | adam.sealey@gmail.com"
-resume_header_intro: "<p>Seasoned Cybersecurity Executive experienced in building
-highly effective, data driven security programs and leading transformational change.</p>"
+resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 15+ years' experience
+across multiple industries, including Retail (Nike), Higher Education, and Government.  A results-oriented leader with
+a proven track record of results in risk-driven strategic development, organizational transformation,
+data-driven executive reporting, and talent management.</p>"
+
+
+# Intro Snips
+#building highly effective, data driven security programs and leading transformational change.</p>"
+#resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 15+ years' experience in
+#risk-driven strategic development, organizational transformation,  data-driven executive reporting, and
+#talent management.</p>"
+
+# Old (Pre-2020)
 #resume_header_intro: "<p>Experienced Information Security and Analytics leader with a demonstrated history of working in retail, government,
 #and higher education. Strong blend of technical capability with a passion for inspiring teams.</p>"
 
