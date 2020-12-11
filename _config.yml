@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "김태준"
-resume_title:                   "자기소개"
+resume_title:                   "Programming skill"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lagmon@naver.com"
@@ -23,7 +23,12 @@ resume_contact_address:         "Sasang-gu, Busan "
 resume_header_contact_info:     "Sasang-gu, Busan • 010-2128-0303 • lagmon@naver.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>C/C++\n
+Java\n
+Go\n
+SQL\n
+Python\n
+JavaScript</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
