@@ -50,7 +50,7 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/sp0nd"
+  resume_github_url:            "https://github.com/sp0nd?tab=repositories"
 resume_print_social_links:      true
 
 # Design settings
