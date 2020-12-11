@@ -1,4 +1,11 @@
 # Degree
+- degree: 수료예정
+  uni: 부산대학교 4차 산업혁명 선도인력 양성 훈련(블록체인 개발자 양성과정)
+  year: 2020.06.29 &mdash; 2020.12.29
+  awards: 블록체인 아이디어 공모전 원장상
+  summary: 하이퍼레저 패브릭 기술을 이용한 신용평가로 정보의 무결성과 신뢰성을 확보해 
+  자영업자들의 신용도를 더 정확하게 평가하고 외부 환경 악화로인한 성장 가능성이 있는 자영업자들의 고사 위기를 이겨내는 것을 목적으로 생각해냈습니다.
+  
 - degree: 중퇴
   uni: 부산외국어 대학
   year: 2013 &mdash; 2014
@@ -9,4 +16,5 @@
   uni: 사상고등학교
   year: 20010 &mdash; 2013
   award: 전국 창의력 올림피아드 우수상
-  summary: You can choose to have either a single or multiple awards
+  
+  summary: 
