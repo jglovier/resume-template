@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "김태준"
-resume_title:                   ""
+resume_title:                   "자기소개"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lagmon@naver.com"
