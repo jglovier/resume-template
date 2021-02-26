@@ -2,18 +2,18 @@
 - skill: DevOps
   description: <ul class="resume-item-list">
     <li>Docker/Docker Swarm</li>
-    <li>Kubernetes</li>
-    <li>Rancher</li>
+    <li>Kubernetes (RKE, k3s)</li>
+    <li>Rancher UI</li>
     <li>AWX (Ansible Tower)</li>
     <li>Terraform</li>
     </ul>
 
 - skill: Cloud Platforms
   description: <ul class="resume-item-list">
-    <li>Microsoft Azure</li>
-    <li>DigitalOcean</li>
     <li>Amazon AWS</li>
     <li>Hetzner</li>
+    <li>DigitalOcean</li>
+    <li>Basic knowledge of Microsoft Azure</li>
     </ul>
 
 - skill: Monitoring
@@ -26,9 +26,9 @@
     
 - skill: CI/CD
   description: <ul class="resume-item-list">
-    <li>CircleCI</li>
     <li>Jenkins</li>
     <li>GitLab CI/CD</li>
+    <li>CircleCI</li>
     </ul>
 
 - skill: Systems
@@ -65,11 +65,8 @@
 
 - skill: Programming
   description: <ul class="resume-item-list">
-    <li>HTML/CSS</li>
-    <li>JavaScript, TypeScript</li>
-    <li>PHP</li>
     <li>Bash, PowerShell and Python scripting</li>
-    <li>Basic knowledge of C, C#, C++</li>
+    <li>Basic knowledge on Node.js, Angular, TypeScript</li>
     </ul>
 
 - skill: Various

@@ -3,20 +3,20 @@
 - company: Aptargroup, Inc
   position: DevOps Consultant
   duration: Jan, 2020 &mdash; Present
-  summary: CI/CD, legacy and actual software and codebase management/deploy, Kubernetes infrastructure, application monitoring, DevOps tool and method research & development.
+  summary: CI/CD strategies, legacy and actual software and codebase management/deploy, Kubernetes infrastructure, Raspberry infrastructure with k3s, application monitoring, DevOps tools and methods, research & development.
 # DevOps
 - company: Aesys
   position: DevOps Consultant
   duration: Jan, 2020 &mdash; Present
-  summary: DevOps consultant
+  summary: DevOps consultant.
 # SysAdmin
 - company: IMM Hydraulics S.p.a
   position: SysAdmin
   duration: Feb, 2018 &mdash; Jan, 2020
-  summary: VMWare and general infrastructure management, internal systems developer
+  summary: VMWare and general infrastructure management, internal systems developer.
 
 # SysAdmin/DevOps
 - company: CIS - Consorzio Italia Servizi
-  position: SysAdmin/DevOps
+  position: IT Technician/SysAdmin
   duration: Feb, 2016 &mdash; Feb, 2018
   summary: Management, implementation, maintenance and updating of corporate IT infrastructures and in separate location.
