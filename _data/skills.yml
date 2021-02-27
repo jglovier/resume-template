@@ -1,4 +1,14 @@
 # Skills
+- skill: Soft Skills
+  description: <ul class="resume-item-list">
+    <li>Empathy and personal/team communication skills/li>
+    <li>Continuous technical and personal improvement</li>
+    <li>Creative thinking and open-mindedness</li>
+    <li>Adaptability</li>
+    <li>Curiosity, analysis and lateral/logical reasoning</li>
+    <li>Troubleshooting and problem-solving</li>
+    </ul>
+    
 - skill: DevOps
   description: <ul class="resume-item-list">
     <li>Docker/Docker Swarm</li>
