@@ -76,11 +76,11 @@
 - skill: Programming
   description: <ul class="resume-item-list">
     <li>Bash, PowerShell and Python scripting</li>
-    <li>Basic knowledge on Node.js, Angular, TypeScript</li>
+    <li>Knowledge of Node.js, Angular, TypeScript</li>
     </ul>
 
 - skill: Various
   description: <ul class="resume-item-list">
-    <li>Kafka</li>
+    <li>Apache Kafka</li>
     <li>Basic SAP knowledge</li>
     </ul>
