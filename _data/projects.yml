@@ -1,12 +1,8 @@
 # Projects
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
-
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# Beam Mobility 
+- project: Beam Mobility
+  role: Cloud and DevOps Architect
+  duration: 2020 &mdash; Present
+  description: "Beam is a community-based approach for sustainable mobility. The project has already won the following awards:
+- Best Pitch of 2019 @Imperial College of London.
+- Top 30 Projects 2020 @ESA (European Space agency) MyGalileoSolution - In the Top 3 finals for 2021."

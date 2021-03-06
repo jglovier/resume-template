@@ -9,13 +9,14 @@
     <li>Troubleshooting and problem-solving</li>
     </ul>
     
-- skill: DevOps
+- skill: DevSecOps
   description: <ul class="resume-item-list">
-    <li>Docker/Docker Swarm</li>
     <li>Kubernetes (RKE, k3s)</li>
+    <li>Docker/Docker Swarm</li>
     <li>Rancher UI</li>
     <li>AWX (Ansible Tower)</li>
     <li>Terraform</li>
+    <li>Security practices, attention t</li>
     </ul>
 
 - skill: Cloud Platforms
@@ -41,21 +42,16 @@
     <li>CircleCI</li>
     </ul>
 
-- skill: Systems
+- skill: Systems, Security, Networking
   description: <ul class="resume-item-list">
-    <li>Configuration and installation of hardware/software systems</li>
+    <li>Configuration and maintenance of hardware/software systems</li>
     <li>Maintenance, support, backup strategies and restore</li>
     <li>Log analysis, troubleshooting</li>
-    <li>In-depth knowledge of Microsoft Windows system applications and operating systems</li>
-    <li>In-depth knowledge of Linux/UNIX system applications and operating systems</li>
-    </ul>
-
-- skill: Networking
-  description: <ul class="resume-item-list">
-    <li>Understanding and configuration of a network</li>
-    <li>Knowledge, configuration and maintenance of the hardware components of a network</li>
-    <li>Configuration and administration of Fortinet systems (FortiGate, FortiClient)</li>
-    <li>Set up and manage SSL VPN systems</li>
+    <li>In-depth knowledge of Linux/UNIX and Microsoft Windows system applications and operating systems</li>
+    <li>Experience in managing firewall and security policies, networking subnetting and VLANs</li>
+    <li>Experience with reverse proxy configuration and load balancers secured with TLS/SSL</li>
+    <li>Experience with HTTPS, SSH and most common security-based protocols</li>
+    <li>Experience with configuration and maintenance of SSL and IPsec VPN systems</li>
     </ul>
 
 - skill: Databases
