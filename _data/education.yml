@@ -6,6 +6,20 @@
     - award: Summa Cumme Laude graduate
   summary: If you had any meaningful roles at college, feel free to write about them here
 
+- degree: Master of Science (M.Sc.), Social, Cognitive, and Affective Neuroscience
+  uni: Free University of Berlin
+  year: 2015 &mdash; 2017
+  awards:
+    - award: Thesis: Value modulates memory encoding for objects and scenes in the medial temporal lobe
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bachelor of Arts, Psychology & Philosophy (double major)
+  uni: Sungkyunkwan University
+  year: 2010 &mdash; 2015
+  awards:
+    - award: Thesis: Ho-ron Moral Modularity: The Neo-Confucian Approach to Morality
+ # summary: If you had any meaningful roles at college, feel free to write about them here
+
 - degree: High School Diploma
   uni: Springfield High School
   year: 2004
