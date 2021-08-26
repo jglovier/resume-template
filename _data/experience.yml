@@ -5,18 +5,18 @@
       projects: 
       - project: Tax Commons
         duration: April, 2018 &mdash; Present
+        technology: Java 11, Spring Boot, Micronaut, Concourse CI/CD, CloudFoundry, Docker, Kubernetes, Google PubSub, Google Compute Engine, Linux
         summary:
           Leading the design, development, evolution, and support of a sales tax service used by all major selling systems within Home Depot.
           <ul>
-            <li>Process over $7 billion worth of sales, rental, and use tax from multiple selling channels.</li>
-            <li>Ensure selling systems are able to better book taxes to jurisdictions for audit and remittance purposes</li>
-            <li>Ensure products are taxed as accurately as possible based on state and local laws</li>
+            <li>Build scalable APIs deployed to Pivotal Cloud Foundry to handle the processing of over $8.5 billion worth of sales, rental, and use tax from multiple selling channels</li>
+            <li>Ensure resiliency of our applications by proactively monitoring applications with New Relic APM and Wavefront metrics generated directly from our APIs</li>
+            <li>Increase frequency of deployments to Production by building CI/CD pipelines that pass all Finance IT standards for change control</li>
+            <li>Enable the SAP S4/Hana teams to calculate Use Tax using the Tax Commons vendor by wrapping a vendor's application in a Docker container and deploying it to Google Cloud Compute Engine</li>
+            <li>Work with the Tax Commons vendor to build and test their applications in a Docker environment and on Google Kubernetes Engine</li>
           </ul>
-
-      - project: Pivotal Labs Engagement
-        duration: November 2018 &mdash; February 2019
-        summary: 
-          <p>Worked with Pivotal Labs to reinforce Agile methodologies among our balanced team 
+          <p><b>Pivotal Labs Engagement, November 2018 &mdash; February 2019</b><br/>
+          Worked with Pivotal Labs to reinforce Agile methodologies among our balanced team 
           of 8 engineers, product, and user experience.</p>
 
     - position: Senior Software Engineer
@@ -24,21 +24,25 @@
       projects:
         - project: Tax Commons Bridge
           duration: July 2017 &mdash; April 2018
+          technology: Java 8, Spring Boot, Jenkins, CloudFoundry
           summary: 
             <p>Developed a facade for an existing legacy Tax system that allows the Installed Sales group
             to charge customers tax on installations of items available on homedepot.com.  This has lifted
-            the hd.com sales by over $100m in 2018.</p>
+            the hd.com sales by over $100m in 2018. This work was the precursor to the current Tax Commons 
+            product at Home Depot</p>
 
         - project: Locksmith
           duration: July 2017
+          technology: Golang, CloudFoundry, Python
           summary:
-            <p>Worked with a team composed of Cloud Foundry administrators, change administators and IT audit, 
-            and the software engineering community within The Home Depot to understand and develop software
-            which enabled clear auditable events on PCF. This enabled software engineers to push code without
-            needing to worry about the separation of duties clause in Home Depot's IT controls. </p>
+            <p>Worked with a team composed of CloudFoundry administrators, IT Change Administators and internal audit, 
+            and the software engineering community within The Home Depot to understand and develop software that tied 
+            deployment events on PCF to a Change Record in Service Now. This enabled software engineers to push code 
+            while maintaining compliance with The Home Depot's IT controls.</p>
 
         - project: Password Reset
           duration: December 2016 &mdash; July 2017
+          technology: Java 8, Spring Boot, Angular 1.4, CloudFoundry
           summary: 
             Team lead for a small group working on Password Reset application
             <ul>
@@ -47,8 +51,9 @@
               <li>Cut customer-facing support time for minutes to seconds in the event a password needs to be reset. </li>
             </ul>  
             
-        - project: Legacy HR Systems
-          duration: October 2009 &mdash; December 2016
+        - project: Knowledge Depot 
+          duration: October 2014 &mdash; December 2016
+          technology: Java 8, JBossAS, Apache httpd, Linux
           summary: 
             Led the implementation of Saba Cloud learning management system. This system is used by every associate in Home Depot
             to take required web-based training, such as Lift Truck safety or Data Privacy training.
@@ -58,4 +63,3 @@
               <li>Worked with Oracle DBA to tune a RAC system to work with the Saba software</li>
               <li>worked with Store Networking to build a prefetch system that populated 2200 Squid caches with learning content nightly.</li>
             </ul>
-

@@ -1,6 +1,6 @@
 # Site settings
-title: "Jeff Anderson's Work-In-Progress Resume"
-description: "Jeff Anderson's Work-In-Progress Resume"
+title: "Jeff Anderson's Resume"
+description: "Jeff Anderson's Resume"
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This resume is an <i>MVP</i>.</p>"
+resume_header_intro: "<p>Skilled software engineer with more than 12 years of experience building software and systems in an enterprise environment. Ability to collaborate over several teams and stakeholders to drive results. Passion for clean, maintainable code.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,13 +46,13 @@ resume_section_recognition:     true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/jander99"
-  resume_twitter_url:           "http://twitter.com/jander99"
+  # resume_twitter_url:           "http://twitter.com/jander99"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/jander99"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://jeffanderson.dev"
-  resume_medium_url:            "https://medium.com/@jander99"
+  # resume_medium_url:            "https://medium.com/@jander99"
 resume_print_social_links:      true
 
 # Design settings

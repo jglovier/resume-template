@@ -5,7 +5,7 @@
 
 .section-header {
   @include section_border;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 
   h2 {
     @include sans;
@@ -18,7 +18,7 @@
 
 // page header styles
 
-.page-header { padding: 1.5rem 0;
+.page-header { padding: 1.5rem 0 0 0;
 
   .avatar {
     width: 95px;
@@ -139,7 +139,7 @@
 
   .resume-item-title {
     @include sans_bold;
-    margin: 0 0 .75rem;
+    margin: 0 0 .50rem;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     line-height: 1;
@@ -156,7 +156,7 @@
   }
 
   .resume-item-section {
-    margin: 0 0 .75rem;
+    margin: 0 0 .50rem;
     font-size: 1.1rem;
     letter-spacing: -.05rem;
     line-height: 1;
@@ -180,6 +180,8 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+
+  .resume-item-tech { margin: 0 0 0 0; }
 }
 
 // footer styles

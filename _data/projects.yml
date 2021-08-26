@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# - project: jazznotes.io
+#   role: Founder & Primary Developer
+#   duration: 2012 &mdash; Present
+#   # url: "#"
+#   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.

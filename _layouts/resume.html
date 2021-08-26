@@ -64,6 +64,9 @@
           <h4 class="resume-item-details" itemprop="description">{{ position.position }} &bull; {{ position.duration }}</h4>
             {% for project in position.projects %}
             <h5 class="resume-item-section" itemprop="">{{ project.project }} &bull; {{ project.duration }}</h5>
+            {% if project.technology %}
+            <p class="resume-item-tech"><b>Technology:</b> {{ project.technology }}</p>
+            {% endif %}
             <p class="resume-item-copy">{{ project.summary }}</p>
             {% endfor %}
           </div>
