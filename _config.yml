@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Nick Becker"
-resume_title:                   "Senior Engineer, Collaboration"
+resume_title:                   "Senior Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nick_the_engineer@atomictinker.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "4309 Samantha Dr, Raleigh, NC"
 resume_header_contact_info:     "Raleigh, NC • +14105416232 • nick_the_engineer@atomictinker.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Architect/engineer with 15+ years experience in network, collaboration and software development space. A strong problem solver recognized for dedication and attention to detail to complete projects on time and deliver effective goal oriented results.</p>"
+resume_header_intro: "<p>Architect/engineer with 16+ years experience in the network, security, collaboration and software development space. A strong problem solver recognized for dedication and attention to detail to complete projects on time and deliver effective goal oriented results.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
