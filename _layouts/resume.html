@@ -81,7 +81,7 @@
           <li>{{ cert.cert }}</li>
           {% endfor %}
         </ul></h4>
-        {% endfor %}
+
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
@@ -96,7 +96,7 @@
             </ul></h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
-        
+        {% endfor %}
       </section>
       <!-- end Education -->
       {% endif %}
