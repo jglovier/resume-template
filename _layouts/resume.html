@@ -89,14 +89,14 @@
             </ul></h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
-        {% endfor %}
 
         <h4><ul class="resume-item-list">
           {% for cert in education.certs %}
           <li>{{ cert.cert }}</li>
           {% endfor %}
         </ul></h4>
-        
+        {% endfor %}
+
       </section>
       <!-- end Education -->
       {% endif %}
