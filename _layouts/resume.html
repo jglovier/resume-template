@@ -73,15 +73,10 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Certification and Education</h2>
+          <h2>Education and Certification</h2>
         </header>
 
         {% for education in site.data.education %}
-        <h4><ul class="resume-item-list">
-          {% for cert in education.certs %}
-          <li>{{ cert.cert }}</li>
-          {% endfor %}
-        </ul></h4>
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
@@ -94,6 +89,12 @@
             </ul></h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
+
+        <h4><ul class="resume-item-list">
+          {% for cert in education.certs %}
+          <li>{{ cert.cert }}</li>
+          {% endfor %}
+        </ul></h4>
         {% endfor %}
 
       </section>
