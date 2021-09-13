@@ -11,7 +11,7 @@
     
 - skill: DevSecOps
   description: <ul class="resume-item-list">
-    <li>Kubernetes (RKE, k3s)</li>
+    <li>Kubernetes (Vanilla, RKE, k3s)</li>
     <li>Docker/Docker Swarm</li>
     <li>Rancher UI</li>
     <li>AWX (Ansible Tower)</li>
@@ -27,7 +27,7 @@
     <li>Basic knowledge of Microsoft Azure</li>
     </ul>
 
-- skill: Monitoring
+- skill: Monitoring & Observability
   description: <ul class="resume-item-list">
     <li>Zabbix</li>
     <li>Prometheus/Grafana stack</li>
@@ -35,11 +35,12 @@
     <li>APM Server</li>
     </ul>
     
-- skill: CI/CD
+- skill: VCS & CI/CD
   description: <ul class="resume-item-list">
+    <li>GitHub</li>
+    <li>GitLab with CI/CD</li>
+    <li>Azure DevOps</li>
     <li>Jenkins</li>
-    <li>GitLab CI/CD</li>
-    <li>CircleCI</li>
     </ul>
 
 - skill: Systems, Security, Networking
@@ -59,14 +60,6 @@
     <li>MySQL</li>
     <li>SQL Server 2012/2014</li>
     <li>PostgreSQL</li>
-    </ul>
-
-- skill: Version Control Systems
-  description: <ul class="resume-item-list">
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>GitLab</li>
-    <li>Azure DevOps</li>
     </ul>
 
 - skill: Programming
