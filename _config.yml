@@ -23,7 +23,7 @@ resume_contact_address:         "1223 E Cherry Street Seattle, WA"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, my name is Mari Kwee. I am a computer science major and data science minor at Seattle University. I expect to graduate in June 2023.</p>"
+resume_header_intro: "<p>Hi, my name is Mari Kwee. I am a computer science major and data science minor at Seattle University. I expect to graduate in June 2023. Please feel free to contact me at kweemari@seattleu.edu below.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
