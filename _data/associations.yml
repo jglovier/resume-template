@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
+- organization: Hawaii Club
+  role: Member
+  year: 2019 &mdash; Present
   url: https://www.peta.org/
   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
+- organization: Society of Women Engineers
+  role: Member
+  year: 2021 &mdash; Present
   url: http://campuspress.yale.edu/amnesty/
   summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
