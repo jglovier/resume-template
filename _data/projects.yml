@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Seocho AI Flowers
+- project: Seocho AI Flowers
+  role: Project Manager, Developer
+  duration: Aug.2021 &mdash; Sep.2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Web Service that dectect flower varieties using YOLO. Also provide prices and markets data can lead to payment serive by Kakao API. (Software Used; python, YOLO, Flask, API, GCP, MySQL)
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Graduation project
+- project: Graduation project
+  role: Project Manager, Back-End Developer
+  duration: Mar.2021 &mdash; Jun.2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Service that get a data about air condition from Rasberry Pi and alert alarm by pusing message and email when it over the thresholds. (Software Used; python, influxDB, Grafana, docker etc) 
+
+# Like Lion Hackerthon
+- project: Like Lion Hackathon
+  role: Front-End Developer
+  duration: Jun.2017 &mdash; Aug.2017
+  # url: "#"
+  description: Web Service that count price of the hair by inputing several options and recommend near by hair salon. (Software Used; ruby on rails, c9, aws s3)
