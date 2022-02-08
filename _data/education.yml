@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.A, in Political Scinece and Diplomacy
+  degree2: B.S, in Integrated Software
+  uni: Dongguk University
+  year: Mar.2016 &mdash; Feb.2022
+  # awards:
+  #   - award: , in French Major
+  # summary: , in French Major
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Seoul Foreign Language High School
+  year: Mar. 2013 &mdash; Feb. 2016
+  awards:
+    - award: , in French Major
+  summary: , in French Major
