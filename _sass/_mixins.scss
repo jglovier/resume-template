@@ -64,6 +64,11 @@
   font-weight: 400;
 }
 
+@mixin sans_medium {
+  @include sans;
+  font-weight: 600;
+}
+
 @mixin sans_bold {
   @include sans;
   font-weight: 700;
@@ -81,6 +86,11 @@
 @mixin serif_regular {
   @include serif;
   font-weight: 400;
+}
+
+@mixin serif_medium {
+  @include serif;
+  font-weight: 500;
 }
 
 @mixin serif_bold {

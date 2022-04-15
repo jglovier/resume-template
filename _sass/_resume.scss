@@ -9,7 +9,7 @@
 
   h2 {
     @include sans;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
@@ -32,7 +32,7 @@
   .header-name {
     @include sans;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: 700;
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
@@ -55,7 +55,7 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
+      font-weight: 600;
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
@@ -117,7 +117,7 @@
   margin: 1.5rem auto;
   width: 220px;
   font-size: 1.375rem;
-  @include sans_light;
+  @include sans_regular;
   color: #333;
   line-height: 55px;
   @include transition(all .2s ease);
