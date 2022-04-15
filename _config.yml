@@ -12,18 +12,26 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Mattia Tupone"
 resume_title:                   "DevOps"
+
+# used for the contact button in _layouts/resume.html
 resume_contact_email:           "tupone.mattia@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "555-7334"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
+
 resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
+display_header_contact_info:    "true"
+
 resume_header_intro: "<p>I'm a young DevOps based in Italy with the passion for IT systems and coding.
 Moving across servers, code, and deployments, I started working as a professional in 2016 gaining and maturing experience
 day-by-day, always looking for new technologies and methods.<br><br>
 
-Experienced and certified by VMware on virtualization, by Rancher on Kubernetes clusters management.<br><br>
+Experienced and willing to learn new ways to destr... deploy new solutions!<br><br>
 
-In love with Kubernetes, automation, infrastructures and... Raspberry Pi.<br><br>
+In love with automation, scripts, Kubernetes, infrastructures and... Raspberry Pi.<br><br>
 
 Let's config, deploy and destroy. Give me a shell and I'll be happy with it.
-Hey, find me on <a href='https://medium.com/@tupone.mattia'>Medium</a> too.<br>
 </p>"
 
 # use "yes" to display the email contact button,
@@ -46,13 +54,14 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-resume_github_url:            "https://github.com/mattups"
-# resume_twitter_url:           "https://twitter.com/mattia_tupone"
-# resume_dribbble_url:          "https://dribbble.com/jag"
-# resume_facebook_url:          "insert Facebook URL here"
-resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
-resume_instagram_url:         "https://www.instagram.com/tups__/"
-resume_website_url:           "https://mattups.github.io/resume/"
+  resume_github_url:            "https://github.com/mattups"
+  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/mattia-tupone-660450a6/"
+  resume_instagram_url:         "https://www.instagram.com/tups__/"
+  resume_website_url:           "https://mattups.github.io/resume/"
+  resume_medium_url:            "https://medium.com/@tupone.mattia"
 resume_print_social_links:      true
 
 # Design settings
