@@ -36,7 +36,7 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 0;
   }
 
   .header-contact-info {
@@ -49,6 +49,7 @@
 
   .title-bar {
     @include section_border;
+    margin-top: 2rem;
     padding: .4rem 0;
     @include clearfix;
 
@@ -100,6 +101,10 @@
       fill: #333;
       @include transition(all .2s ease);
     }
+  }
+
+  .icon {
+    height: 28px;
   }
 }
 
@@ -217,9 +222,13 @@
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0;
+      margin: 0 0 .75rem;
       line-height: .7em;
       font-style:italic;
+
+      &.award-title {
+        font-size: 11px;
+      }
     }
   }
 }
