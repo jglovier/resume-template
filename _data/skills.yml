@@ -6,41 +6,21 @@
     <li>Creative thinking and open-mindedness</li>
     <li>Adaptability</li>
     <li>Curiosity, analysis and lateral/logical reasoning</li>
-    <li>Troubleshooting and problem-solving</li>
+    <li>Strong troubleshooting and problem-solving skills</li>
     </ul>
     
 - skill: DevSecOps
   description: <ul class="resume-item-list">
-    <li>Kubernetes (Vanilla, RKE, k3s)</li>
-    <li>Docker/Docker Swarm</li>
-    <li>Rancher UI</li>
-    <li>AWX (Ansible Tower)</li>
-    <li>Terraform</li>
-    <li>Security practices</li>
-    </ul>
-
-- skill: Cloud Platforms
-  description: <ul class="resume-item-list">
-    <li>Amazon AWS</li>
-    <li>Hetzner</li>
-    <li>DigitalOcean</li>
-    <li>Basic knowledge of Microsoft Azure</li>
-    </ul>
-
-- skill: Monitoring & Observability
-  description: <ul class="resume-item-list">
-    <li>Zabbix</li>
-    <li>Prometheus/Grafana stack</li>
-    <li>ELK stack</li>
-    <li>APM Server</li>
-    </ul>
-    
-- skill: VCS & CI/CD
-  description: <ul class="resume-item-list">
-    <li>GitHub</li>
-    <li>GitLab with CI/CD</li>
-    <li>Azure DevOps</li>
-    <li>Jenkins</li>
+    <li>Building and deploying solutions on AWS, Azure, DigitalOcean, Hetzner</li>
+    <li>Container orchestration and management with Kubernetes (Vanilla, RKE, k3s), Docker/Docker Swarm</li>
+    <li>Managed Kubernetes experience with Rancher, AKS and EKS clusters</li>
+    <li>Infrastucture provisioning with HashiCorp Packer and Terraform, Ansible and AWX</li>
+    <li>Building pipelines with GitLab CI/CD, GitHub Actions and Jenkins</li>
+    <li>Managing and versioning codebases with GitLab and GitHub</li>
+    <li>Writing automation scripts in Bash, Python and PowerShell</li>
+    <li>Monitoring infrastructure with Prometheus and Grafana stack</li>
+    <li>Building observability solutions with ELK (Elasticsearch, Logstash, Kibana)</li>
+    <li>Building and deploying solutions on AWS, Azure, DigitalOcean, Hetzner</li>
     </ul>
 
 - skill: Systems, Security, Networking
@@ -50,7 +30,7 @@
     <li>Log analysis, troubleshooting</li>
     <li>In-depth knowledge of Linux/UNIX and Microsoft Windows system applications and operating systems</li>
     <li>Experience in managing firewall and security policies, networking subnetting and VLANs</li>
-    <li>Experience with reverse proxy configuration and load balancers secured with TLS/SSL</li>
+    <li>Experience with reverse proxy configuration and load balancers secured with up-to-date security best practices</li>
     <li>Experience with HTTPS, SSH and most common security-based protocols</li>
     <li>Experience with configuration and maintenance of SSL and IPsec VPN systems</li>
     </ul>
@@ -60,12 +40,6 @@
     <li>MySQL</li>
     <li>SQL Server 2012/2014</li>
     <li>PostgreSQL</li>
-    </ul>
-
-- skill: Programming
-  description: <ul class="resume-item-list">
-    <li>Bash, PowerShell and Python scripting</li>
-    <li>Knowledge of Node.js, Angular, TypeScript</li>
     </ul>
 
 - skill: Various
