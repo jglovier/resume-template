@@ -8,7 +8,7 @@
     <li>Curiosity, analysis and lateral/logical reasoning</li>
     <li>Strong troubleshooting and problem-solving skills</li>
     </ul>
-    
+
 - skill: DevSecOps
   description: <ul class="resume-item-list">
     <li>Building and deploying solutions on AWS, Azure, DigitalOcean, Hetzner</li>
@@ -36,3 +36,4 @@
     <li>Experience with HTTPS, SSH and most common security-based protocols</li>
     <li>Experience with configuration and maintenance of SSL and IPsec VPN systems</li>
     </ul>
+
