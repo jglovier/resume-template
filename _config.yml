@@ -23,7 +23,13 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "Lanciano (CH), Italy | tupone.mattia@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "Patterns before tools"
+resume_header_intro: "<p><i>Patterns before tools.</i><br><br>
+  I'm a DevOps Engineer based in Italy with a strong passion for automation and operations.
+  Self-motivated and quick learner with experience in Devops and Systems Engineering/Design area.
+  <br><br>
+
+  Constantly evolving to embrace the next challenge, give me a shell and I'll be happy with it.
+  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

@@ -13,6 +13,7 @@
   description: <ul class="resume-item-list">
     <li>Building and deploying solutions on AWS, Azure, DigitalOcean, Hetzner</li>
     <li>Container orchestration and management with Kubernetes (Vanilla, RKE, k3s), Docker/Docker Swarm</li>
+    <li>Managing GitOps patterns for deployment also with Fleet</li>
     <li>Managed Kubernetes experience with Rancher, AKS and EKS clusters</li>
     <li>Infrastucture provisioning with HashiCorp Packer and Terraform, Ansible and AWX</li>
     <li>Building pipelines with GitLab CI/CD, GitHub Actions and Jenkins</li>
