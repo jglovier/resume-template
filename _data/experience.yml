@@ -1,9 +1,4 @@
 # Jobs
-# DevOps Architect
-- company: Beam Mobility
-  position: Cloud and DevOps Architect
-  duration: Nov, 2020 &mdash; Present
-  summary: DevOps strategies and cloud infrastructure based on AWS.
 # DevOps
 - company: Aptargroup, Inc
   position: DevOps Engineer, IS Software Engineering
@@ -12,6 +7,11 @@
     CI/CD strategies, legacy and actual software and codebase management/deploy,
     Kubernetes infrastructure, Raspberry infrastructure with k3s, application monitoring,
     DevOps tools and methods, research & development.
+# DevOps Architect
+- company: Beam Mobility
+  position: Cloud and DevOps Architect
+  duration: Nov, 2020 &mdash; Mar 2022
+  summary: DevOps strategies and cloud infrastructure based on AWS.
 # DevOps
 - company: Aesys
   position: DevOps Consultant
