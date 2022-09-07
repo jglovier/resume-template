@@ -30,7 +30,13 @@ First, you'll want to fork the repo to your own account. Then clone it locally a
 
 Most of the basic customization will take place in the [`/_config.yml`](_config.yml) file. Here is a list of customizations available via `/_config.yml`:
 
-[...write these out...]
+* Avatar
+* Name
+* Title
+* Contact information: email, telephone, & address
+* Introduction
+* Social media links
+* Show/ hide sections: experience, education, projects, skills, recognition, links, associations, interests
 
 #### Editing content
 
