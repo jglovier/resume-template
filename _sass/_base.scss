@@ -7,7 +7,7 @@
 }
 
 html {
-  background: $white;
+  background: $background-white;
 }
 
 body{
@@ -36,11 +36,11 @@ body{
 
 ::-moz-selection {
     background: rgba(51,51,51,.8);
-    color: #fff;
+    color: $white;
     text-shadow: none;
 }
 ::selection {
     background: rgba(51,51,51,.8);
-    color: #fff;
+    color: $white;
     text-shadow: none;
 }
