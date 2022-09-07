@@ -8,6 +8,7 @@ $grid-gutter:     10px !default;
 $white:             #fff;
 $black:             #333;
 $background-white:  #fcfaf6;
+$button:            darken($background-white, 20%);
 
 // Styles
 $text_color:        $black;

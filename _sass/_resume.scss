@@ -110,7 +110,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: $button;
   text-decoration: none;
   text-align: center;
   display: block;
