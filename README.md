@@ -28,13 +28,13 @@ First, you'll want to fork the repo to your own account. Then clone it locally a
 
 #### Options / configuration
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+Most of the basic customization will take place in the [`/_config.yml`](_config.yml) file. Here is a list of customizations available via `/_config.yml`:
 
 [...write these out...]
 
 #### Editing content
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly.
+Most of the content configuration will take place in the [`/_layouts/resume.html`](_layouts/resume.html) file. Simply edit the markup there accordingly.
 
 ### Publishing to GitHub Pages for free
 
