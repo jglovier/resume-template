@@ -98,7 +98,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: $black
+      fill: $black;
       @include transition(all .2s ease);
     }
   }
@@ -118,12 +118,12 @@
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
-  color: $black
+  color: $black;
   line-height: 55px;
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: $black
+    background-color: $black;
     color: $white
   }
 
@@ -160,7 +160,7 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: $black
+      color: $black;
       text-decoration: none;
       border-bottom: 1px solid;
 
@@ -189,7 +189,7 @@
 
     > a {
       font-weight: 700;
-      color: $black
+      color: $black;
     }
   }
 }
