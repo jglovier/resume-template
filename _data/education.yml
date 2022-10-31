@@ -5,12 +5,6 @@
   awards:
   summary: 
 
-- degree: High School Diploma
-  uni: Mount Saint Joseph High School
-  year: 1995
-  award: 
-  summary: 
-
   certs:
     - cert: AWS Certified Solutions Architect - Associate
     - cert: Cradlepoint Certified Network Professional

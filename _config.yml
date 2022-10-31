@@ -14,16 +14,16 @@ resume_name:                    "Nick Becker"
 resume_title:                   "Senior Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "recruit_nick@atomictinker.com"
+resume_contact_email:           "nick_the_engineer@atomictinker.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "410-541-6232"
 resume_contact_address:         "4309 Samantha Dr, Raleigh, NC"
 
-resume_header_contact_info:     "Raleigh, NC • +14105416232 • recruit_nick@atomictinker.com"
+resume_header_contact_info:     "Raleigh, NC • +14105416232 • nick_the_engineer@atomictinker.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Architect/engineer with 17+ years of experience in network automation, devops, cloud, security, collaboration, and software development. A strong problem solver recognized for dedication and attention to detail to complete projects on time and deliver effective goal-oriented results.</p>"
+resume_header_intro: "<p>Architect/engineer with 17+ years of experience in network automation, devops, cloud, security, collaboration, and software development. A strong problem solver and fast learner recognized for dedication and attention to detail to complete projects on time and deliver effective goal-oriented results. Currently located in Raleigh, NC but looking to relocate to the Burlington, VT area next year.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -49,7 +49,7 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/nicbecker"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/nick-becker-339411255/"
   resume_instagram_url:         "https://www.instagram.com/aeon_sumo"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
