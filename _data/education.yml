@@ -8,9 +8,9 @@
   certs:
     - cert: AWS Certified Solutions Architect - Associate
     - cert: Cradlepoint Certified Network Professional
-    - cert: Cisco Meraki CMNA
-    - cert: Cisco Certified Network Professional Voice
-    - cert: Cisco Certified Network Professional
-    - cert: Cisco Certified Design Professional
-    - cert: Palo Alto ACE, PCNSE 6
+    - cert: Meraki Certified Meraki Network Associate (CMNA)
+    - cert: Cisco Certified Network Professional Voice (CCNP)
+    - cert: Cisco Certified Network Professional (CCNP)
+    - cert: Cisco Certified Design Professional (CCDP)
+    - cert: Palo Alto Networks Certified Network Security Engineer (PCNSE)
     - cert: F5 Certified BIG-IP Administrator
