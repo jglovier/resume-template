@@ -5,15 +5,13 @@
   duration: August 2022 &mdash; Present
   summary: Cloud Architect and Engineering, DevOps, Network Automation and Software Development<ul class="resume-item-list"><li>Now on the DevOps/Cloud Engineering team I have built Ansible playbooks using Jinja to update network equipment and utilized Python and JavaScript to make MACD in Cisco CallManager and Unity.</li><li>Utilized Postman to make API calls to Meraki.</li><li>Created AWS EC2 multi-AZ redundant instances running nginx and used security groups and application load balancers to host the web server securely using SSL.</li><li>Created simple CRUD APIs using API gateway, Lambda and DynamoDB.</li><li>Deployed an S3 hosted website with a custom DNS name using CloudFormation.</li><li>Created a MongoDb and Mongo-Express container in docker using docker-compose and use Python to do CRUD operations.</li><li>Utilized Jenkins to perform CI/CD tasks for incremental changes and UAT.</li></ul>
 
-
-  # Senior Collaboration Engineer at Presidio
+# Senior Collaboration Engineer at Presidio
 - company: Presidio
   position: Senior Collaboration Engineer
   duration: September 2019 &mdash; August 2022
   summary: Unified Communications and Paging<ul class="resume-item-list"><li>In 2021 I was working on the NC AOC eCourts upgrade where I utilized skills in Cisco DNA center, vManage, CUCM, CME, Unity, CUE, XMedius, InformaCast, analog voice and racking/stacking hardware. I developed code that increased the efficiency of the team, reducing hours and costs on the 40 million dollar project.</li><li>I was involved in several UC upgrades to 12.X that involve large voice clusters comprised of CUCM, Unity, UCCX, CUBE, and Attendant Console for City of Durham, Santee Cooper, NC DHHS, South Piedmont CC, Carolina Biological and Lion Oil, a new Jabber implementation for NC DHHS, a migration to SIP/Oracle SBC for PPL Electric and a SIP migration for Michelin.</li></ul>
 
-
-  # Senior Network Engineer at Presidio
+# Senior Network Engineer at Presidio
 - company: Presidio
   position: Senior Network Engineer
   duration: April 2015 &mdash; September 2019
@@ -25,13 +23,11 @@
   duration: April 2014 &mdash; April 2015
   summary: Network architect and project manager working to convert Metlife's discontiguous network to a seamless enterprise.<ul class="resume-item-list"><li>Project lead for Cyprus LAN/WAN redesign, connecting Cyprus up to Frankfurt with VPN and installing new layer 3 switch.</li><li>Project lead for DMVPN solution that provides redundant paths from European sites up to hub locations for email and internet access.</li><li>Network project lead for European Office 365 WAN connections, designed connectivity, sized WAN connections and ordered equipment.</li><li>Project lead to fix DMVPN connecting Colombia, Mexico and NA data centers, removed all static route and implemented EIGRP across the WAN.</li></ul>
 
-
 # Senior Network Engineer at Under Armour
 - company: Under Armour
   position: Senior Network Engineer
   duration:  May 2009  &mdash; April 2014
   summary: Principal network and voice architect and engineer<ul class="resume-item-list"><li>Lead voice architect responsible for 3 global CUCM, Unity and UCCX clusters for several cluster upgrades and daily operations.</li><li>Architect and team lead for Internet redundancy project changing our WAN infrastructure at HQ and DR sites from Static routes to EIGRP to edge and BGP on to Internet with redistribution. I acquired a /24 from ARIN and re-IP addressed all Internet facing applications.</li><li>Architect and team lead for network installation at new Toronto warehouse where I managed cable vendors, supplied statement of work documents, drawings for wireless access point deployment, MDF/IDF installations, fiber runs and network drops.</li></ul>
-
 
 # Network Engineer at Under Armour
 - company: Under Armour
