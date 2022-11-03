@@ -9,8 +9,6 @@
       <li>Created AWS EC2 multi-AZ redundant instances running nginx and used security groups and application load balancers to host the web server securely using SSL.</li>
       <li>Created simple CRUD APIs using API gateway, Lambda and DynamoDB.</li>
       <li>Deployed an S3 hosted website with a custom DNS name using CloudFormation.</li>
-      <li>Created a MongoDb and Mongo-Express container in Docker using docker-compose and use Python to do CRUD operations.</li>
-      <li>Utilized Jenkins to perform CI/CD tasks for incremental changes and UAT.</li>
     </ul>
 
 # Senior Collaboration Engineer at Presidio
@@ -27,14 +25,11 @@
   position: Senior Network Engineer
   duration: April 2015 &mdash; September 2019
   summary: Design and Implementation of Routing, Switching, Palo Alto and Cisco ASA Firewalls<ul class="resume-item-list">
-      <li>Worked with Envision Healthcare to migrate 30+ VPN connections from their Netscreen and Juniper firewalls to Palo Alto. w/Panorama management.</li>
       <li>Engineered NC DHHS Morganton Hospital network using 6800-XL cores w/VSS multiple VRFs, 2 ASA 5585’s with HA, multi-context and FirePower IPS and a pair 4451-X edge routers using BGP to peer state service provider and redistributing into internal EIGRP.</li>
-      <li>Engineered core Cisco 6807-XL in 2 VSS pairs for Elizabeth City State University. I implemented an EIGRP solution with 4 VRFs cores that connect to existing core redistributing OSPF and EIGRP.</li>
       <li>Installed and configured 2 Palo Alto VMs for CREE in Azure to secure their cloud infrastructure and configured management in Panorama.</li>
       <li>Designed and implemented City of Winston Salem fiber ring w/OSPF over MPLS routing 20 sites w/Cisco ASR routers back to HQ Nexus 7k.</li>
-      <li>Engineered a Active/Active datacenter Palo Alto 5060 managed w/Panorama between Nexus 7k and Nexus 9k for Meadowbrook Insurance Group. Deployed 2 remote site Palo Alto 5020's for edge security.</li>
-      <li>Migrated Pfeiffer University campus network consisting of Meraki MS350 switches, MR53 APs and MX600 firewalls and connecting back to old Cisco DC switches using OSPF and LACP.</li>
-      <li>Converted Highwoods Properties remote office connectivity to IWAN for 9 sites using Cisco CSR 1000V routers and a combination of MPLS and Internet circuits.</li>
+      <li>Engineered a Active/Active datacenter Palo Alto 5060 managed w/Panorama between Nexus 7k and Nexus 9k for Meadowbrook Insurance.</li>
+      <li>Migrated Pfeiffer University campus to Meraki MS350 switches, MR53 APs and MX600 firewalls connecting back to old Cisco DC switches using OSPF and LACP.</li>
     </ul>
 
 
