@@ -1,0 +1,7 @@
+Engineered NC DHHS Morganton Hospital network using 6800-XL cores w/VSS multiple VRFs, 2 ASA 5585’s with HA, multi-context and FirePower IPS and a pair 4451-X edge routers using BGP to peer state service provider and redistributing into internal EIGRP.
+
+Provided operational leadership and capacity planning for data, security, unified communications, contact center, and wireless functions supporting 6000+ teammates across Europe, North America and Asia/Pac in the areas of retail, manufacturing, distribution, and office operations.
+
+Responsible for LAN/WAN routing connecting internal office and external partners globally using 3 MPLS clouds, EIGRP on the LAN and BGP in the MPLS clouds with redistribution and summarization between the protocols and VPN connections for redundancy.
+
+new 2 LAN/core and WAN blocks that connect to the  with firewalls and IPS for 
