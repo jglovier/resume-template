@@ -1,9 +1,9 @@
 # Jobs
 # Cloud / DevOps Engineer at Presidio
 - company: Presidio
-  positionone: Cloud / DevOps Engineer
-  durationone: August 2022 &mdash; Present
-  summaryone: Cloud Architect and Engineering, DevOps and Network Automation<ul class="resume-item-list">
+  position: Cloud / DevOps Engineer
+  duration: August 2022 &mdash; Present
+  summary: Cloud Architect and Engineering, DevOps and Network Automation<ul class="resume-item-list">
       <li>Now on the DevOps/Cloud Engineering team I have built Ansible playbooks using Jinja to update network equipment and utilized Python and JavaScript to make MACD in Cisco CallManager and Unity.</li>
       <li>Utilized Postman to make API calls to Meraki.</li>
       <li>Created AWS EC2 multi-AZ redundant instances running nginx and used security groups and application load balancers to host the web server securely using SSL.</li>
@@ -14,17 +14,19 @@
     </ul>
 
 # Senior Collaboration Engineer at Presidio
-  positiontwo: Senior Collaboration Engineer
-  durationtwo: September 2019 &mdash; August 2022
-  summarytwo: Unified Communications and Paging<ul class="resume-item-list">
+- company-continued: Presidio
+  position: Senior Collaboration Engineer
+  duration: September 2019 &mdash; August 2022
+  summary: Unified Communications and Paging<ul class="resume-item-list">
       <li>In 2021 I was working on the NC AOC eCourts upgrade where I utilized skills in Cisco DNA center, vManage, CUCM, CME, Unity, CUE, XMedius, InformaCast, analog voice and racking/stacking hardware. I developed code that increased the efficiency of the team, reducing hours and costs on the 40 million dollar project.</li>
       <li>I was involved in several UC upgrades to 12.X that involve large voice clusters comprised of CUCM, Unity, UCCX, CUBE, and Attendant Console for City of Durham, Santee Cooper, NC DHHS, South Piedmont CC, Carolina Biological and Lion Oil, a new Jabber implementation for NC DHHS, a migration to SIP/Oracle SBC for PPL Electric and a SIP migration for Michelin.</li>
     </ul>
 
 # Senior Network Engineer at Presidio
-  position3: Senior Network Engineer
-  duration3: April 2015 &mdash; September 2019
-  summary3: Design and Implementation of Routing, Switching, Palo Alto and Cisco ASA Firewalls<ul class="resume-item-list">
+- company-continued: Presidio
+  position: Senior Network Engineer
+  duration: April 2015 &mdash; September 2019
+  summary: Design and Implementation of Routing, Switching, Palo Alto and Cisco ASA Firewalls<ul class="resume-item-list">
       <li>Worked with Envision Healthcare to migrate 30+ VPN connections from their Netscreen and Juniper firewalls to Palo Alto. w/Panorama management.</li>
       <li>Engineered NC DHHS Morganton Hospital network using 6800-XL cores w/VSS multiple VRFs, 2 ASA 5585’s with HA, multi-context and FirePower IPS and a pair 4451-X edge routers using BGP to peer state service provider and redistributing into internal EIGRP.</li>
       <li>Engineered core Cisco 6807-XL in 2 VSS pairs for Elizabeth City State University. I implemented an EIGRP solution with 4 VRFs cores that connect to existing core redistributing OSPF and EIGRP.</li>
@@ -50,18 +52,19 @@
 
 # Senior Network Engineer at Under Armour
 - company: Under Armour
-  positionone: Senior Network Engineer
-  durationone:  May 2009  &mdash; April 2014
-  summaryone: Principal network and voice architect and engineer<ul class="resume-item-list">
+  position: Senior Network Engineer
+  duration:  May 2009  &mdash; April 2014
+  summary: Principal network and voice architect and engineer<ul class="resume-item-list">
       <li>Lead voice architect responsible for 3 global CUCM, Unity and UCCX clusters for several cluster upgrades and daily operations.</li>
       <li>Architect and team lead for Internet redundancy project changing our WAN infrastructure at HQ and DR sites from Static routes to EIGRP to edge and BGP on to Internet with redistribution. I acquired a /24 from ARIN and re-IP addressed all Internet facing applications.</li>
       <li>Architect and team lead for network installation at new Toronto warehouse where I managed cable vendors, supplied statement of work documents, drawings for wireless AP deployment, MDF/IDF installations, fiber runs and network drops.</li>
     </ul>
 
 # Network Engineer at Under Armour
-  positiontwo: Network Engineer
-  durationtwo:  December 2005  &mdash; May 2009
-  summarytwo: Started out on the ground floor of Under Armour’s global telecommunications services<ul class="resume-item-list">
+- company-continued: Under Armour
+  position: Network Engineer
+  duration:  December 2005  &mdash; May 2009
+  summary: Started out on the ground floor of Under Armour’s global telecommunications services<ul class="resume-item-list">
       <li>Supported unified communications and contact center operations.</li>
       <li>Supported 3 MPLS clouds, EIGRP on the LAN and BGP in the MPLS clouds with redistribution and summarization between the protocols and VPN connections for redundancy.</li>
       <li>Engineered Riverbed Steelhead appliances for compression and TCP optimization across the WAN. Developed QoS strategy reducing latency for voice and business network traffic using CBWFQ.</li>
