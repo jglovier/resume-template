@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Diploma di Scuola di Specializzazione in Beni Storico Artistici.
+  uni: Sapienza Università di Roma
+  year: 2014
+  Thesis: Manga Style. L'immaginario giapponese e i giovani artisti di oggi.
+  awards: 
+    - award: 70 &#47; 70 con lode
+  summary: Approfondita analisi inerente le influenze del background pop e lowbrow sull'immaginario e sulle creazioni degli artisti contemporanei.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Laurea specialistica in storia dell’arte contemporanea, Facoltà di Lettere e Filosofia.
+  uni: Sapienza Università di Roma
+  year: 2010
+  Thesis: Luigi Ontani. Esoterismo e materia.
+  awards: 
+      - award: 110 &#47; 110 con lode
+  summary: Approfondita analisi sulla vita e l'opera dell'artista Luigi Ontani, a partire dagli esordi fino alle influenze esoteriche delle religioni orientali, ad oggi.
+
+- degree: Diploma di maturità scientifica
+  uni: I.T.I.S. Giovanni Giorgi
+  year: 2002 &mdash; 2003

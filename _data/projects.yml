@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Associazione Culturale OrbitArte
+- project: OrbitArte - Associazione culturale senza scopo di lucro che si occupa di proporre tours, attivita e visite guidate per italiani e non
+  role: Co-fondatrice e presidente
+  duration: 2016 &mdash; ancora in corso
+  # url: "https://orbitarte.it"
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# RAW - Rome Art Week
+- project: RAW Rome Art Week - Partecipazione in veste curatoriale
+  role: Curatrice e organizzatrice
+  duration: 2018 &mdash; ancora in corso
+  # url: "https://romeartweek.com"
+  description: Progetto pluriennale volto alla sponsorizzazione e del patrimonio artistico contemporaneo di Roma
+
+# PiuVolume
+- project: PiuVolume - Associazione che insieme all'associazione Bluecheese, si occupa di organizzare eventi ed esposizioni volti alla riqualificazione del territorio romano
+  role: Redattrice e curatrice
+  duration: 2015 &mdash; ancora in corso
+  # url: "https://piuvolume.com"

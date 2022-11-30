@@ -40,7 +40,7 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contattami</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
@@ -53,7 +53,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Esperienze</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -61,6 +61,7 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
+          <p class="resume-item-copy"><a href="{{ job.url }}" itemprop="url">{{ job.url }}</a></p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -73,20 +74,21 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2>Educazione</h2>
         </header>
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+          <h3 class="resume-item-title" itemprop="name">{{ education.Thesis }}</h3>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for award in education.awards %}
               <li>{{ award.award }}</li>
               {% endfor %}
-            </ul>
+            </ul></h5>
 
 
           <p class="resume-item-copy">{{ education.summary }}</p>
@@ -101,7 +103,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Progetti</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -122,7 +124,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Competenze</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -160,7 +162,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Associazioni</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -200,7 +202,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Links</h2>
         </header>
 
         <div class="resume-item">
@@ -231,10 +233,6 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 
