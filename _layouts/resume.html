@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar.png" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -23,6 +23,9 @@
         {% if site.display_header_contact_info == 'true' %}
         <div class="header-contact-info">
           <p>{{ site.resume_header_contact_info }}</p>
+          <p>{{ site.resume_header_contact_info_suffix }}</p>
+          <p>{{ site.resume_header_contact_telephone }}</p>
+          <p>{{ site.resume_header_contact_address }}</p>
         </div>
         {% endif %}
 
@@ -53,7 +56,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>職務経歴</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -73,7 +76,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2>学歴</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -122,7 +125,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>スキルシート</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -232,8 +235,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Made by <a href="syota.sasaki@earthsea-wizard.com">Syota Sasaki</a>. Fork on <a href="https://github.com/jglovier/resume-template">GitHub repository</a> made by <a href="http://twitter.com/jglovier">@jglovier</a>.</p>
       </footer>
 
     </div>
