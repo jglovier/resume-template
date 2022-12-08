@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "アースシーウィザード代表　佐々木 翔太 Resume"
+# description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,23 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "佐々木 翔太"
+resume_title:                   "ソフトウェア開発事業　アースシーウィザード 代表"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "syota.sasaki@earthsea-wizard.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "070-8587-8274"
+resume_contact_address:         "東京都新宿区在住"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:        "syota.sasaki★earthsea-wizard.com"
+resume_header_contact_info_suffix: "'★'マークを'@'に置き換えてください"
+resume_header_contact_telephone:   "070-8587-8274"
+resume_header_contact_address:     "東京都新宿区在住"
+display_header_contact_info:       "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>アースシーウィザード代表の佐々木は<ul><li>画像処理、画像解析、画像認識</li><li>点群データ解析</li><li>地理情報システム</li></ul>に関する技術分野で課題を抱えたお客さまへの技術協力を行うソフトウェアエンジニアとして活動を行っています。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,24 +38,24 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/meg-ssk"
+  resume_twitter_url:           "https://twitter.com/SaMeGiraffe_VRC"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://s-sasaki-earthsea-wizard.github.io/earthsea-wizard-hp.github.io/"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings

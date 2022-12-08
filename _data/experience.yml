@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# independent business
+- company: アースシーウィザード
+  position: 個人事業主として開業
+  duration: 2022年11月 &mdash; 現在に至る
+  summary: 
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Toshiba
+- company: 東芝エネルギーシステムズ株式会社
+  position: エネルギーシステム技術開発センター
+  duration:  2022年6月 &mdash; 2022年10月
+  summary: <ul class="resume-item-list"><li>360度カメラの画像の超解像技術の開発、性能評価</li><li>動画から被写体の3次元構造の再構成、点群生成</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Ariehmer
+- company: Arithmer株式会社
+  position: 研究開発本部
+  duration:   2019年8月  &mdash; 2022年5月
+  summary: <ul class="resume-item-list"><li>ドライブレコーダーの動画から危険運転シーンを抽出するソフトウェアの開発</li><li>テーブルの高さや段差するiOSアプリの開発、性能評価</li><li>360度カメラの動画のバーチャルツアーの開発 <a href="https://www.arithmer.co.jp/post/20220405" target="_blank">(link)</a></li></ul>
+
+# Yamaguchi University
+- company: 山口大学工学部
+  position: 社会建設工学科　学術研究員
+  duration: 2016年4月  &mdash; May, 2019年3月
+  summary: <ul class="resume-item-list"><li>人工衛星の画像から河川の河道内で植生が繁茂している領域の推定 <a href="https://www.jstage.jst.go.jp/article/jscejer/73/5/73_I_303/_article/-char/ja/" target="_blank">(link)</a></li><li>人工衛星の画像から泥炭地の土砂崩れの検出と、土砂崩れの発生と降雨量や風速などの気象データとの関係の分析</li><li>水面下の地形を写真測量するためのアルゴリズムの理論的研究</li></ul>
