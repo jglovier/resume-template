@@ -1,5 +1,27 @@
 # Skills
 # Organizational leadership
-- skill: under construction
-  description: under construction
+- skill: 主な開発言語　Python, Javascript, Mathematica
 
+- skill: OpenCV, Pillow, scikit-image
+  description: これらの代表的な画像処理ライブラリを用い、画像データの前処理などの開発経験があります
+
+- skill: PyTorch, TendorFlow
+  description: 物体検出や超解像などのニューラルネットワークを利用する機械学習モデルの実装のため、これらの機械学習ライブラリを用いた開発の経験があります
+
+- skill: scikit-learn
+  description: 統計分析や検定、深層学習を用いない機械学習モデルの分析のために利用の経験があります
+
+- skill: GDAL, GeoPandas, Fiona, shapely, QGIS
+  description: 地理情報や人工衛星画像、地形測量データなどの解析のため、地理情報システムを扱うためのライブラリを用いた開発経験があります
+
+- skill: Open3D
+  description: フォトグラメトリーで得られた点群データの解析や、depthカメラの画像の点群データ化のため、これらの3Dデータを扱うライブラリを用いた開発経験があります
+
+- skill: Flask, Three.js
+  description: 360度カメラの画像の取得や編集をした後、ブラウザでの表示をするwebアプリの開発のために、これらのPythonとJavascriptのライブラリを使い、両者を連携させた開発の実績があります
+
+- skill: Docker, AWS EC2
+  description: 開発環境の構築のため、コンテナやクラウドサービスを用いた開発を行っています
+
+- skill: 微分方程式の数値解の計算
+  description: Runge–Kutta法やCrank–Nicolson法などの代表的なアルゴリズムを用いて、常微分方程式、偏微分方程式の数値計算を研究のために実装した経験があります
