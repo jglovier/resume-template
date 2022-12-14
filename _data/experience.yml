@@ -62,6 +62,6 @@
   summary: Started out on the ground floor of Under Armour’s global telecommunications services<ul class="resume-item-list">
       <li>Supported 3 MPLS clouds, EIGRP on the LAN and BGP in the MPLS clouds with redistribution and summarization between the protocols and VPN connections for redundancy.</li>
       <li>Engineered Riverbed Steelhead appliances for compression and TCP optimization across the WAN. Developed QoS strategy reducing latency for voice and business network traffic using CBWFQ.</li>
-      <li>Migrated Cisco VPN for corperate remote users to Juniper Secure Connect SSLVPN.</li>
+      <li>Migrated Cisco VPN for corporate remote users to Juniper Secure Connect SSLVPN.</li>
       <li>Migrated analog voice T1 circuits to Level3 SIP service for local and toll free services.</li>
     </ul>
