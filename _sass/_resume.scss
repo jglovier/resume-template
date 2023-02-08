@@ -11,20 +11,21 @@
     @include sans;
     font-weight: 900;
     font-size: 1.75rem;
-    letter-spacing: -.05rem;
+    letter-spacing: -0.05rem;
     margin: 0;
   }
 }
 
 // page header styles
 
-.page-header { padding: 1.5rem 0;
+.page-header {
+  padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 150px;
     max-width: 100%;
     overflow: hidden;
-    @include border-radius(100px);
+    @include border-radius(150px);
     margin: 0 auto;
     display: block;
   }
@@ -34,7 +35,7 @@
     font-size: 3rem;
     font-weight: 900;
     text-align: center;
-    letter-spacing: -.15rem;
+    letter-spacing: -0.15rem;
     line-height: 1;
     margin: 1rem 0 0;
   }
@@ -50,7 +51,7 @@
   .title-bar {
     @include section_border;
     margin-top: 2rem;
-    padding: .4rem 0;
+    padding: 0.4rem 0;
     @include clearfix;
 
     .header-title {
@@ -58,9 +59,9 @@
       font-weight: 300;
       font-size: 1.75rem;
       line-height: 2rem;
-      letter-spacing: -.05rem;
+      letter-spacing: -0.05rem;
       text-align: center;
-      margin: 0 0 .5rem;
+      margin: 0 0 0.5rem;
 
       @include media_larger_than_mobile {
         float: left;
@@ -70,7 +71,9 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile {
+      font-size: 1.125rem;
+    }
   }
 }
 
@@ -82,7 +85,7 @@
   top: 4px;
   text-align: center;
   border-top: 2px solid #c7c7c7;
-  padding-top: .4rem;
+  padding-top: 0.4rem;
 
   @include media_larger_than_mobile {
     float: right;
@@ -95,11 +98,12 @@
     margin-left: 5px;
   }
 
-  .icon-link { display: inline-block;
+  .icon-link {
+    display: inline-block;
 
     &:hover .icon path {
       fill: #333;
-      @include transition(all .2s ease);
+      @include transition(all 0.2s ease);
     }
   }
 
@@ -120,14 +124,16 @@
   @include sans_light;
   color: #333;
   line-height: 55px;
-  @include transition(all .2s ease);
+  @include transition(all 0.2s ease);
 
   &:hover {
     background-color: #333;
     color: #fff;
   }
 
-  &.not-looking { width: 400px; }
+  &.not-looking {
+    width: 400px;
+  }
 }
 
 // resume content styles
@@ -135,19 +141,21 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item {
+    margin-bottom: 2rem;
+  }
 
   .resume-item-title {
     @include sans_bold;
-    margin: 0 0 .75rem;
+    margin: 0 0 0.75rem;
     font-size: 1.5rem;
-    letter-spacing: -.05rem;
+    letter-spacing: -0.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
     font-size: 1.125rem;
-    margin: 0 0 .75rem;
+    margin: 0 0 0.75rem;
     line-height: 1;
 
     &.award-title {
@@ -171,7 +179,9 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy {
+    margin: 0.75rem 0 0;
+  }
 }
 
 // footer styles
@@ -184,7 +194,7 @@
 
   .footer-line {
     margin: 0;
-    font-size: .875rem;
+    font-size: 0.875rem;
     color: #999;
 
     > a {
@@ -194,37 +204,52 @@
   }
 }
 
-.print-only { display: none !important }
+.print-only {
+  display: none !important;
+}
 
 @media print {
-  .no-print { display: none !important }
-  .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
-  .page-header { padding: 1rem 0 .2rem;
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  body {
+    font-size: 12px;
+    line-height: 1rem;
+  }
+  .page-header {
+    padding: 1rem 0 0.2rem;
     .header-name {
       @include sans_bold;
       font-size: 2rem;
-      margin: 0 0 .2rem;
+      margin: 0 0 0.2rem;
     }
   }
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+    h2 {
+      font-size: 1.2rem;
+      line-height: 1.5rem;
+    }
   }
   .content-section {
     margin: 0 0 1rem;
-    .resume-item { margin-bottom: 1rem; }
+    .resume-item {
+      margin-bottom: 1rem;
+    }
     .resume-item-title {
       font-size: 16px;
-      line-height: .7em;
+      line-height: 0.7em;
     }
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0 0 .75rem;
-      line-height: .7em;
-      font-style:italic;
+      margin: 0 0 0.75rem;
+      line-height: 0.7em;
+      font-style: italic;
 
       &.award-title {
         font-size: 11px;
