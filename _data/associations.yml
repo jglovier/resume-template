@@ -1,15 +1,22 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: LSAC Iasi
+  role: IT Department Volunteer
+  year: 2020 &mdash; Present
+  url: https://www.lsaciasi.ro/
+  summary: I'm one of the four students that are in charge of the League's website. We're adding functionality before events, as needed. I've worked with map APIs and PHP on the older websides. We're developing the new ones in React and Nodejs. We've made website for all our events: ITMarathon, DevMe summer camp, LAN Party etc.
 
-- organization: PETA
+- organization: Tineri de Succes
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2018 &mdash; 2019
+  url: https://www
+  summary: During my stay as a volunteer in this association I made multiple public speeches and worked with my colleagues to organize the tech-side of the events held. They focus on teaching students about leadership and starting businesses in Romania
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Moldavia
+  role: Volunteer
+  year: 2018 &mdash; 2019
+  url: https://www.facebook.com/asociatiamoldavia/
+  summary: I was mainly tasked with the back-end, preparing the events sound-wise and dealing with the problems that arose during them, this is where I've found my problem solving passion that helped me power through the bugs and errors in my code
+
+
