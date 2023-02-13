@@ -1,13 +1,37 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Computer Science and Automatic Control
+  uni: >
+      "Gheorghe Asachi" Technical University of Iasi
+  year: 2020 &mdash; 2024
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    # - award: License [ Soon ]
+    - award: Programming a 5G module for tracking tower information, GPS and signal strength within Iasi
+    - award: >
+      Learning about operating and programming Fanuc Robots
+  summary: >
+      During my university studies I pursued a range of coursework and hands-on experiences 
+      that helped me build a diverse skill set. I was particularly interested in topics like controlling 
+      and programming Fanuc Robots, programming languages like Java and C++, which built on the foundation
+      I had from high school. I gained a comprehensive understanding of computer systems, including hands-on 
+      experience with logic gates and microcontrollers. I consistently challenged myself by taking mathematics 
+      coursework each semester, which proved to be a difficult but rewarding experience. Through these subjects, 
+      I developed a passion for understanding how computers work and how mathematics plays a crucial role in this field."
 
-- degree: IT Certificate
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: High School Diplima in Computer Science
+  uni: "Grigore Moisil" Technical High School
+  year: 2016 &mdash; 2020
+  awards: 
+    - award: IT Certificate
+    - award: Oracle Database Design Course Certificate
+    - award: Data Structures and Algorithms
+    - award: > 
+      Object Oriented Programming using C++
+    - award: >
+      Building multiple small projects with my teachers
+      for different competitions and 
+    - award: 
+  summary: >
+      Throughout high school, I actively pursued opportunities to expand my knowledge and skills, 
+      from collaborating with peers to create game engines, to assisting teachers with various projects. 
+      These experiences greatly contributed to my professional growth and honed my problem-solving abilities, 
+      particularly when debugging complex C++ code with my computer science teacher and developing small projects with my team
