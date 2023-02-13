@@ -1,12 +1,12 @@
 # Degree
 - degree: Bachelor of Science, Computer Science and Automatic Control
   uni: >
-      "Gheorghe Asachi" Technical University of Iasi
+    "Gheorghe Asachi" Technical University of Iasi
   year: 2020 &mdash; 2024
   awards:
     - award: Programming a 5G module for tracking tower information, GPS and signal strength within Iasi
     - award: Learning about operating and programming Fanuc Robots
-  summary: > 
+  summary: >
     During my university studies I pursued a range of coursework and hands-on experiences 
     that helped me build a diverse skill set. I was particularly interested in topics like controlling 
     and programming Fanuc Robots, programming languages like Java and C++, which built on the foundation
@@ -15,19 +15,16 @@
     coursework each semester, which proved to be a difficult but rewarding experience. Through these subjects, 
     I developed a passion for understanding how computers work and how mathematics plays a crucial role in this field.
 
-- degree: High School Diplima in Computer Science
-  uni: "Grigore Moisil" Technical High School
+- degree: High School Diploma, in Computer Science
+  uni: >
+    "Grigore Moisil" Technical High School
   year: 2016 &mdash; 2020
-  awards: 
+  awards:
     - award: IT Certificate
     - award: Oracle Database Design Course Certificate
     - award: Data Structures and Algorithms
-    - award: > 
-      Object Oriented Programming using C++
-    - award: >
-      Building multiple small projects with my teachers
-      for different competitions and 
-    - award: 
+    - award: Object Oriented Programming using C++
+    - award: Building multiple small projects with my teachers for different competitions and
   summary: >
     Throughout high school, I actively pursued opportunities to expand my knowledge and skills, 
     from collaborating with peers to create game engines, to assisting teachers with various projects. 
