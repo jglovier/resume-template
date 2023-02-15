@@ -8,7 +8,7 @@
     - award: Learning about operating and programming Fanuc Robots
   summary: >
     During my university studies I pursued a range of coursework and hands-on experiences 
-    that helped me build a diverse skill set. I was particularly interested in topics like controlling 
+    that helped me build a diverse skill set. I was particularly interested ins topics like controlling 
     and programming Fanuc Robots, programming languages like Java and C++, which built on the foundation
     I had from high school. I gained a comprehensive understanding of computer systems, including hands-on 
     experience with logic gates and microcontrollers. I consistently challenged myself by taking mathematics 
@@ -24,9 +24,14 @@
     - award: Oracle Database Design Course Certificate
     - award: Data Structures and Algorithms
     - award: Object Oriented Programming using C++
-    - award: Building multiple small projects with my teachers for different competitions and
+    - award: Building multiple small projects with my teachers for different competitions
   summary: >
-    Throughout high school, I actively pursued opportunities to expand my knowledge and skills, 
-    from collaborating with peers to create game engines, to assisting teachers with various projects. 
-    These experiences greatly contributed to my professional growth and honed my problem-solving abilities, 
-    particularly when debugging complex C++ code with my computer science teacher and developing small projects with my team
+    While in Highschool I had time to experiment with many technologies( Unity, Blender, Arduino and among various other miniprojects). By far the most significant was when I developed and maintained an educational platform at my Highschool for an ISJ programme called "The school for Authentic Values". The web app was built using Laravel 5, bootstrap 3 and a lot of hard work from me and a collegue of mine. The teachers could upload photos and documents as proof of events that they held. Events were ordered by month and year.
+
+- degree: The Odin Project
+  uni: Open Sources Fullstack Course
+  year: Jul, 2021 &mdash; , 2022
+  awards:
+    - award: Project based learning
+    - award: React, Nodejs, MongoDB, Firebase & others
+  summary: I've found this open source curriculum in my searches of becoming a better dev. It took around a year to complete, but I've learnt enough to get my first job and do some cool projects while doing it.

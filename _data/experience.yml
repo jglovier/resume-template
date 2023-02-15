@@ -16,15 +16,3 @@
   position: Communications Coordinator
   duration: Jul, 2022  &mdash; Jul, 2022
   summary: I entered a summer bootcamp at AMD where I learned the basics of Verilog programming. I managed to find out that lower level programming isn't for me and I kept searching for something that I enjoy doing.
-
-# The Odin Project
-- company: The Odin Project
-  position: Intern
-  duration: Jul, 2021 &mdash; , 2022
-  sumary: I've found this open source curriculum in my searches of becoming a better dev. It took around a year to complete it, but I learnt enough to get my first job and do some cool projects while doint it.
-
-# Freelance
-- company: Freelance
-  position: Software Developer
-  duration: Jun, 2018  &mdash; May, 2020
-  summary: While in Highschool I had time to experiment with many technologies( Unity, Blender, Arduino and among various other miniprojects). By far the most significant was when I developed and maintened an educational platform at my Highschool for an ISJ programme called "The school for Authentic Values". The web app was built using Laravel 5, bootstrap 3 and a lot of hard work from me and a collegue of mine. The teachers could upload photos and documents as proof of events that they held. Events were ordered by month and year.

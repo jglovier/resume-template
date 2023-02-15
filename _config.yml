@@ -20,8 +20,8 @@ resume_contact_email: "petrila.paulcosmin@gmail.com"
 resume_contact_telephone: "0751851229"
 resume_contact_address: ""
 
-resume_header_contact_info: "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info: "false"
+resume_header_contact_info: "petrila.paulcosmin@gmail.com"
+display_header_contact_info: "true"
 
 resume_header_intro: "<p>Computer science high-school graduate and present 3rd year Computer Engineering student, highly interested in technology and programming, I'm doing my best to take in as much information and learn as much as possible in the fields I'm interested in, so far I've jumped from one domain to another, trying to see what works best for me and building up my skill set.</p>"
 
@@ -36,16 +36,16 @@ resume_looking_for_work: "yes"
 resume_section_experience: true
 resume_section_education: true
 resume_section_projects: true
-resume_section_skills: true
-resume_section_recognition: true
-resume_section_links: true
+# resume_section_skills:   true
+# resume_section_recognition: true
+# resume_section_links: true
 resume_section_associations: true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url: "https://github.com/jglovier/resume-template"
+  resume_github_url: "https://github.com/Pauwul/resume-template/"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url: "https://www.facebook.com/paulcosmin.petrila"
