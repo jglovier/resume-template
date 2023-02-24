@@ -10,23 +10,23 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "佐々木 翔太"
-resume_title:                   "ソフトウェア開発事業　アースシーウィザード 代表"
+resume_name:                    "佐々木 翔太 / Syota Sasaki"
+resume_title:                   "ソフトウェア開発事業　アースシーウィザード 代表 <br> Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "syota.sasaki@earthsea-wizard.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "070-8587-8274"
-resume_contact_address:         "東京都新宿区在住"
+resume_contact_address:         "東京都新宿区在住 / Shinjuku-ku, Tokyo"
 
 resume_header_contact_info:        "syota.sasaki★earthsea-wizard.com"
-resume_header_contact_info_suffix: "'★'マークを'@'に置き換えてください"
+resume_header_contact_info_suffix: "'★'マークを'@'に置き換えてください / Replace '★' into '@'."
 resume_header_contact_telephone:   "070-8587-8274"
-resume_header_contact_address:     "東京都新宿区在住"
+resume_header_contact_address:     "東京都新宿区在住 / Shinjuku-ku, Tokyo"
 display_header_contact_info:       "true"
 
-resume_header_intro: "<p>アースシーウィザード代表の佐々木は<ul><li>画像処理、画像解析、画像認識</li><li>点群データ解析</li><li>地理情報システム</li></ul>に関する技術分野で課題を抱えたお客さまへの技術協力を行うソフトウェアエンジニアとして活動を行っています。</p>"
+resume_header_intro: "<p>アースシーウィザード代表の佐々木は<ul><li>画像処理、画像解析、画像認識</li><li>点群データ解析</li><li>地理情報システム</li></ul>に関する技術分野で課題を抱えたお客さまへの技術協力を行うソフトウェアエンジニアとして活動を行っています。<br>I am working as freelance software engineer in image processing, point cloud data analysis, geographic information system.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
