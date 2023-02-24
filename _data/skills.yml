@@ -1,27 +1,27 @@
 # Skills
 # Organizational leadership
-- skill: 主な開発言語　Python, Javascript, Mathematica
+- skill: 主な開発言語(Programming languages)　Python, Javascript, Mathematica
 
 - skill: OpenCV, Pillow, scikit-image
-  description: これらの代表的な画像処理ライブラリを用い、画像データの前処理などの開発経験があります
+  description: これらの代表的な画像処理ライブラリを用い、画像データの前処理などの開発経験があります<br>Image processing
 
 - skill: PyTorch, TendorFlow
-  description: 物体検出や超解像などのニューラルネットワークを利用する機械学習モデルの実装のため、これらの機械学習ライブラリを用いた開発の経験があります
+  description: 物体検出や超解像などのニューラルネットワークを利用する機械学習モデルの実装のため、これらの機械学習ライブラリを用いた開発の経験があります<br>Deep learning
 
 - skill: scikit-learn
-  description: 統計分析や検定、深層学習を用いない機械学習モデルの分析のために利用の経験があります
+  description: 統計分析や検定、深層学習を用いない機械学習モデルの分析のために利用の経験があります<br>Machine learning, statistical analysis
 
 - skill: GDAL, GeoPandas, Fiona, shapely, QGIS
-  description: 地理情報や人工衛星画像、地形測量データなどの解析のため、地理情報システムを扱うためのライブラリを用いた開発経験があります
+  description: 地理情報や人工衛星画像、地形測量データなどの解析のため、地理情報システムを扱うためのライブラリを用いた開発経験があります<br>Geographic Information System (GIS)
 
 - skill: Open3D
-  description: フォトグラメトリーで得られた点群データの解析や、depthカメラの画像の点群データ化のため、これらの3Dデータを扱うライブラリを用いた開発経験があります
+  description: フォトグラメトリーで得られた点群データの解析や、depthカメラの画像の点群データ化のため、これらの3Dデータを扱うライブラリを用いた開発経験があります<br>Point cloud data analysis
 
 - skill: Flask, Three.js
-  description: 360度カメラの画像の取得や編集をした後、ブラウザでの表示をするwebアプリの開発のために、これらのPythonとJavascriptのライブラリを使い、両者を連携させた開発の実績があります
+  description: 360度カメラの画像の取得や編集をした後、ブラウザでの表示をするwebアプリの開発のために、これらのPythonとJavascriptのライブラリを使い、両者を連携させた開発の実績があります<br>Web app
 
 - skill: Docker, AWS EC2
-  description: 開発環境の構築のため、コンテナやクラウドサービスを用いた開発を行っています
+  description: 開発環境の構築のため、コンテナやクラウドサービスを用いた開発を行っています<br>Containerisation and Cloud computing
 
 - skill: 微分方程式の数値解の計算
-  description: Runge–Kutta法やCrank–Nicolson法などの代表的なアルゴリズムを用いて、常微分方程式、偏微分方程式の数値計算を研究のために実装した経験があります
+  description: Runge–Kutta法やCrank–Nicolson法などの代表的なアルゴリズムを用いて、常微分方程式、偏微分方程式の数値計算を研究のために実装した経験があります<br>Numerical analysis of differential equations
