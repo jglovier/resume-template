@@ -1,15 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
-
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: mebo (Link)
+  role: 佐々木のプロフィールを反映した会話AIです。いつまでも調整中 / Conversation AI reflecting Sasaki's profile. Forever under construction.<br>
+  year: Operational from Feb. 28, 2023.
+  url: https://mebo.work/voiceChat/623d5aed-cab4-497e-9bc8-9e667a8ae56c186933d1a9f380?name=%E4%BD%90%E3%80%85%E6%9C%A8%20%E7%BF%94%E5%A4%AA
+  summary: 会話AIを簡単に作れるサービス"mebo (ミーボ)"に自分のプロフィールを登録してみました！まだうまく会話できないかもしれませんが、よかったら遊んでみてください！<br><br> I've registered my profile on mebo, a service that makes it easy to create a conversational AI! He (or I?) may not be able to have a good conversation yet, but if you like, you can play with it!

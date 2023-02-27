@@ -7,7 +7,7 @@
 
 # Toshiba
 - company: 東芝エネルギーシステムズ株式会社 <br>Toshiba Energy Systems & Solutions Corporation
-  position: エネルギーシステム技術開発センター
+  position: エネルギーシステム技術開発センター / Energy Systems R&D center
   duration:  Jun. 2022 &mdash; Oct. 2022
   summary: <ul class="resume-item-list"><li>360度カメラの画像の超解像技術の開発、性能評価</li><li>動画から被写体の3次元構造の再構成、点群生成</li><li>I worked on the development of super-resolution and simultaneous localization and mapping (SLAM).</li></ul>
 
@@ -19,7 +19,7 @@
   summary: <ul class="resume-item-list"><li>ドライブレコーダーの動画から危険運転シーンを抽出するソフトウェアの開発</li><li>テーブルの高さや段差するiOSアプリの開発、性能評価</li><li>360度カメラの動画のバーチャルツアーの開発 <a href="https://www.arithmer.co.jp/post/20220405" target="_blank">(link)</a></li><li>Video analysis of drive recorders by object detection., development iOS app to measuere length of target objects with AR frame work, and development of virtual tours using omni-directional camera video.</li></ul>
 
 # Yamaguchi University
-- company: 山口大学工学部 <Yamaguchi University>
-  position: 社会建設工学科　学術研究員 (Post-doctoral researcher)
+- company: 山口大学工学部 <br> Yamaguchi University
+  position: 社会建設工学科 学術研究員 / Post-doctoral researcher
   duration: 2016年4月  &mdash; 2019年3月
   summary: <ul class="resume-item-list"><li>人工衛星の画像から河川の河道内で植生が繁茂している領域の推定 <a href="https://www.jstage.jst.go.jp/article/jscejer/73/5/73_I_303/_article/-char/ja/" target="_blank">(link)</a></li><li>人工衛星の画像から泥炭地の土砂崩れの検出と、土砂崩れの発生と降雨量や風速などの気象データとの関係の分析</li><li>水面下の地形を写真測量するためのアルゴリズムの理論的研究</li><li>Analysis of satellite imagery for detection of land slide disaster, research on algorithms for 3D photogrammetry.</li></ul>
