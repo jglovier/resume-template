@@ -1,12 +1,18 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# # Skills
+# # Organizational leadership
+# - skill: Organizational leadership
+#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# # Communications strategy
+# - skill: Communications strategy
+#   description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# # Digital content development and creation
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Developing APIs and Microservices
+  description: Be it at University, at work or in my spare time, I developed quite a few APIs in a lot of languages. Enough to nail the basics.
+- skill: Using Devops tools and Cloud hosting
+  description: In March I went to Levi9's Cloud Development FIIPractic course. We deployed multiple APIs using AWS to learn about concepts like IaC and the differences between SaaS, PaaS and IaaS.
+- skill: Deploying my own websites
+  description: Be it serverless with Vercel or static with Github Pages. I also went to FIIPractic courses about Cloud Development and <i>on-premise Devops</i>.

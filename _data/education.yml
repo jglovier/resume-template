@@ -6,14 +6,14 @@
   awards:
     - award: Programming a 5G module for tracking tower information, GPS and signal strength within Iasi
     - award: Learning about operating and programming Fanuc Robots
-  summary: >
-    During my university studies I pursued a range of coursework and hands-on experiences 
-    that helped me build a diverse skill set. I was particularly interested ins topics like controlling 
-    and programming Fanuc Robots, programming languages like Java and C++, which built on the foundation
-    I had from high school. I gained a comprehensive understanding of computer systems, including hands-on 
-    experience with logic gates and microcontrollers. I consistently challenged myself by taking mathematics 
-    coursework each semester, which proved to be a difficult but rewarding experience. Through these subjects, 
-    I developed a passion for understanding how computers work and how mathematics plays a crucial role in this field.
+  # summary: >
+  # During my university studies I pursued a range of coursework and hands-on experiences
+  # that helped me build a diverse skill set. I was particularly interested ins topics like controlling
+  # and programming Fanuc Robots, programming languages like Java and C++, which built on the foundation
+  # I had from high school. I gained a comprehensive understanding of computer systems, including hands-on
+  # experience with logic gates and microcontrollers. I consistently challenged myself by taking mathematics
+  # coursework each semester, which proved to be a difficult but rewarding experience. Through these subjects,
+  # I developed a passion for understanding how computers work and how mathematics plays a crucial role in this field.
 
 - degree: High School Diploma, in Computer Science
   uni: >
@@ -25,8 +25,8 @@
     - award: Data Structures and Algorithms
     - award: Object Oriented Programming using C++
     - award: Building multiple small projects with my teachers for different competitions
-  summary: >
-    While in Highschool I had time to experiment with many technologies( Unity, Blender, Arduino and among various other miniprojects). By far the most significant was when I developed and maintained an educational platform at my Highschool for an ISJ programme called "The school for Authentic Values". The web app was built using Laravel 5, bootstrap 3 and a lot of hard work from me and a collegue of mine. The teachers could upload photos and documents as proof of events that they held. Events were ordered by month and year.
+  # summary: >
+  # While in Highschool I had time to experiment with many technologies( Unity, Blender, Arduino and among various other miniprojects). By far the most significant was when I developed and maintained an educational platform at my Highschool for an ISJ programme called "The school for Authentic Values". The web app was built using Laravel 5, bootstrap 3 and a lot of hard work from me and a collegue of mine. The teachers could upload photos and documents as proof of events that they held. Events were ordered by month and year.
 
 - degree: The Odin Project
   uni: Open Sources Fullstack Course
@@ -34,4 +34,4 @@
   awards:
     - award: Project based learning
     - award: React, Nodejs, MongoDB, Firebase & others
-  summary: I've found this open source curriculum in my searches of becoming a better dev. It took around a year to complete, but I've learnt enough to get my first job and do some cool projects while doing it.
+  # summary: I've found this open source curriculum in my searches of becoming a better dev. It took around a year to complete, but I've learnt enough to get my first job and do some cool projects while doing it.

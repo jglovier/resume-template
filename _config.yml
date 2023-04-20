@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Petrila Paul-Cosmin"
-resume_title: "Software developer"
+resume_title: "Software engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "petrila.paulcosmin@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "0751851229"
+resume_contact_telephone: ""
 resume_contact_address: ""
 
 resume_header_contact_info: "petrila.paulcosmin@gmail.com"
 display_header_contact_info: "true"
 
-resume_header_intro: "<p>Computer science high-school graduate and present 3rd year Computer Engineering student, highly interested in technology and programming, I'm doing my best to take in as much information and learn as much as possible in the fields I'm interested in, so far I've jumped from one domain to another, trying to see what works best for me and building up my skill set.</p>"
+resume_header_intro: I'm just a guy who's looking to craft really <mark><i>awesome</i></mark> software and to have fun while doing it.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work: "yes"
 resume_section_experience: true
 resume_section_education: true
 resume_section_projects: true
-# resume_section_skills:   true
+resume_section_skills: true
 # resume_section_recognition: true
 # resume_section_links: true
 resume_section_associations: true
@@ -51,7 +51,7 @@ resume_social_links:
   resume_facebook_url: "https://www.facebook.com/paulcosmin.petrila"
   resume_linkedin_url: "https://www.linkedin.com/in/paul-cosmin/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url: "https://cv.paulpetrila.com/"
+  resume_website_url: "https://paulpetrila.com/"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links: true
 

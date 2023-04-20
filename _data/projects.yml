@@ -2,28 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Paul omul
-- project: Paul Omul
+- project: paulpetrila.com
   role: Founder & Primary Developer
   duration: 2023 &mdash; Present
-  url: "omul.paulpetrila.com"
-  description: A website to keep track of my best poems and writings.
+  url: "https://paulpetrila.com"
+  description: Personal website.
 
 # cooking.paulpetrila.com
-- project: Cooking blog
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Personal blog
+  role: Blogger
+  duration: 2023 &mdash; Present
+  url: "https://blog.paulpetrila.com"
+  description: Cooking, poetry and playing chess (and obviously programming). It uses a CMS to ease the development of posts.
 # poketcats.paulpetrila.com
 - project: Pocket Cats
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Paulbook
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  role: Tech lead
+  duration: March, 2023 &mdash; June, 2023
+  url: "https://github.com/Pauwul/PocketCats"
+  description: An app that let's you share cats and rate them by who's the roundest. It's a University project where we got to play around with Java and Nextjs

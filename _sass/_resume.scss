@@ -22,11 +22,13 @@
   padding: 1.5rem 0;
 
   .avatar {
-    width: 150px;
+    width: 100px;
+    height: 100px;
     max-width: 100%;
     overflow: hidden;
-    @include border-radius(150px);
+    @include border-radius(100px);
     margin: 0 auto;
+
     display: block;
   }
 
@@ -256,4 +258,14 @@
       }
     }
   }
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 1rem;
 }
