@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Applied Science (M.A.Sc.), Mechanical Engineering
+  uni: McMaster University
+  year: 2020
+  #awards:
+    #- award: Summa Cumme Laude graduate
+  summary: Awarded the NSERC-CANRIMT Scholarship in Mechanical Engineering for showcasing great academic performance and extracurricular involvement
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Engineering (B.Eng.), Mechanical Engineering
+  uni: Pontifícia Universidade Católica do Paraná
+  year: 2018
+  #award: Most likely to succeed
+  summary: Development of 4 Scientific Research projects with founding by CNPq and PUCPR.
