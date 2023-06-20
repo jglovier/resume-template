@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Sepcialization
+  Field of study: Computer Science in Software Practice
+  uni: University of Alberta
+  year: 2020 &mdash; Present 
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: First Class Standing for 4 terms (Dean's Roll)
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# - degree: High School Diploma
+#   uni: Springfield High School
+#   year: 2004
+#   award: Most likely to succeed
+#   summary: You can choose to have either a single or multiple awards

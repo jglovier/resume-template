@@ -1,19 +1,33 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: JD.com, Inc.
+  position: Backend Java Developer Intern
+  duration:   May, 2023  &mdash; Present
+  summary: <ul class="resume-item-list">
+          <li>Participate in developing a Hospital Information System (HIS) with the government institution.</li>
+          <li>Focus on the functionalities of the Doctor Center, Monitor Center and Equipment Management System and actively participate in a collaborative dialogue with the hospital’s personnel to deliberate on the interfacing of medical equipment for the purpose of data transfer with our established hospital information system.</li>
+          <li>Utilize Java, Spring Boot, Spring Cloud and Feign in the backend development process to construct robust and efficient RESTful APIs and integrate the Vue.js frontend framework to create dynamic and responsive UI.</li>
+          <li>Involve in debugging & optimizing the Medical Managing models to improve performance and efficiency.</li>
+          <li>Practice MySQL for data storage and management; Employing Nacos for dynamic naming and configuration.</li>
+          <li>Engage in code review and contributed to the overall improvement of the system’s quality and stability.</li>
+          <li>Apply the combination of OOD principles & OOP techniques throughout the entire developing process.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+- company: Yuan Universe Technology Innovation Industry Development Co., Ltd.
+  position: Software Engineer Intern
+  duration:  May, 2022 &mdash; Jan, 2023
+  summary: <ul class="resume-item-list">
+          <li>Developed a Social Networking website for users to share their blogs and daily life stories.</li>
+          <li>Applied HTML, CSS and JavaScript with React.js for front-end development; Applied Node.js & Express.js & Django REST frameworks for back-end API and data storage.</li>
+          <li>Used HTML and CSS to design the website’s structure and styling for its user-friendly User Interface.</li>
+          <li>Utilized JavaScript and React.js to enhance website functionalities, including the integration with external servers to support post sharing in various formats such as images, plain text, GIFs, and markdown.</li></ul>
+ 
+- company: Shandong Normal University
+  position: Software Developer Intern
+  duration: Oct, 2020 &mdash; Mar, 2021
+  summary: <ul class="resume-item-list">
+          <li>Developed an Android Mobile Application for Meal Planner named Cook4U, which allows school dining halls to publish daily meals as default options and enables students to access detailed meal information, with the use of Android Studio, Java, diagrams.net and crcmaker.</li>
+          <li>Utilized UML & CRC Cards to build the Object-Oriented Design, while employing Figma & XML for UI/UX.</li>
+          <li>Applied Firestore Cloud Database & Storage & Authentication for data storage and user authentication.</li>
+          <li>Implemented Unit Testing with 100+ Back-end JUnit test cases and 100+ Front-end UI test cases.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

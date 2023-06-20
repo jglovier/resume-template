@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Scripting languages / High-Level Languages
+  # description: 
+  - Python: Often used for web and software development, data analysis, machine learning, artificial intelligence projects.
+  - JavaScript: used for enhancing web interactivity and for building web applications.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Markup / Styling languages
+  # description: Content and marketing strategy,
+  - HTML5: used for structuring content on the web.
+  - CSS3: A style-sheet language used for describing the look and formatting of a document written in HTML.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Compiled/Statically Typed Languages
+  # description: Copy writing, graphic design, web design, front-end web development, print design
+  - Java: An object-oriented language that is platform-independent, predominantly used for building enterprise-scale applications.
+  - C: A procedural language widely used for system programming, including implementing operating systems and embedded system applications.
+  - C++: An extension of C, this language supports object-oriented, procedural, and generic programming paradigms.
+
+- skill: Functional Languages
+  - Lisp: A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. It is used in artificial intelligence research and teaching.
+
+- skill: Logic Programming Languages
+  - Prolog: Primarily associated with artificial intelligence and computational linguistics, this language is based on formal logic.
+
+- skill: Database Management Systems
+  - MySQL: An open-source relational database management system (RDBMS) that uses Structured Query Language (SQL), the most popular language for adding, accessing, and managing content in a database.
+  - MongoDB: A cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+
+- skill: Libraries & Frameworks
+  description: Node.js, React.js, Django, Android SDK, PyGame, NumPy, Vue.js, Spring Boot, Spring Cloud, Feign
+
+- skill: Project Management 
+  description: Git, GitHub, Jira, Scrum Management, Agile Development Methodologies

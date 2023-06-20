@@ -1,16 +1,33 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: https://adamva.github.io/CMPUT302-emotion-tracker/
+  role: developer for the frontend & UI designer 
+  duration: Mar, 2023 &mdash; Apr, 2023
+  url: "https://www.figma.com/file/VMppaKTVgFpJoraWywzHSo/302-prototypes---medium-fidelity?type=design&node-id=90%3A744&t=ZIYasThdTYGYxjVf-1"
+  description: 
+  <ul class="resume-item-list">
+  <li>Developed an Android Mobile Application for emotion detection called Feelz, which allows students to track their emotional states when they are performing learning, with the use of Android Studio, Java and diagrams.net.</li>
+  <li>Built the Objected-Oriented Design using CRC Cards & UML. Used Figma and XML to design UI & UX.</li>
+  <li>Applied Firestore Cloud Database & Storage & Authentication for data storage and user authentication.</li>
+  <li>Applied Agile & Scrum methodologies & Jira and developed best practices to enhance the app.</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: 24/7 MD - Hackathon Project
+  role: Backend Developer & UI Designer
+  duration: 24 hours
+  url: "https://github.com/xuclaire0234/24_7_MD"
+  description: 
+  <ul class="resume-item-list">
+  <li>Built a Software Project for Alberta’s largest student-run hackathon - HackED 2023 developed in under 20 hours. An Android Mobile App for searching corresponding common diseases and symptoms by specific body parts.</li>
+  <li>Used Java and Android Studio to build the app’s main functionalities, which allows the user to click on any body part of the human model and easily access the related shown disease info.</li>
+  <li>Applied Firebase Firestore Cloud Database to store and retrieve every disease and its related detailed information.</li></ul>
+
+
+- project: Optimizing Patient Flow in Emergency Departments - SSC case study
+  role: Data Analyst & Poster Designer
+  duration: May, 2023 &mdash; May, 2023
+  description:
+  <ul class="resume-item-list">
+  <li>Data Source as a random sample of de-identified admission records from 16 busiest EDs in Alberta over a span of three years, provided by Alberta Health Services.</li>
+  <li>Utilized Decision Tree, Bagging, Random Forest as Prediction Models to reduce ED waiting time to enhance patient satisfaction and improve quality of service.</li></ul>
