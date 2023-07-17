@@ -8,5 +8,5 @@
   description: <ul class="resume-item-list"><li>1.熟悉Docker、Linux常用命令，Dockerfile的编写，镜像优化</li><li>2.熟悉Redis，实现延时队列、消息队列，常用数据类型</li><li>3.掌握MySOL关系型数据库，事务，索引</li><li>4.熟练Nginx配置反向代理和负载均衡</li></ul>
   
 # Digital content development and creation
-- skill: 前端
+- skill: Frontend
   description: <ul class="resume-item-list"><li>1.熟练掌握HTML、HTML5、CSS、CSS3、JavaScript、jquery、Ajax等前端开发技术</li><li>2.熟悉微信小程序和uniapp项目开发</li><li>3.熟练掌握Vue2、Vuex、Vue-Router</li><li>4.熟悉ES6语法，熟练使用Promise进行数据异步处理，了解ES6的新特性</li><li>5.熟悉第三方UI插件:Bootstrap、Element-UI、uView、uv-ui</li></ul>
