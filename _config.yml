@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "个人简历"
+description: "一个个人简历网址."
 
 # Build settings
 markdown: kramdown
@@ -10,17 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
+resume_name:                    "苏盼盼"
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "supanpan199919@163.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+86 188 8806 0737"
+resume_contact_address:         "NanJing,JiangSu"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "NanJing,JiangSu • +86 188 8806 0737 • supanpan199919@163.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
@@ -38,7 +38,7 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    true
 # resume_section_interests:       true
 
@@ -53,7 +53,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
   resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
