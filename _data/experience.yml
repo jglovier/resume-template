@@ -1,12 +1,15 @@
 # Jobs
 # DevOps
 - company: Aptargroup, Inc
-  position: DevOps Engineer, IS Software Engineering
+  position: Senior DevOps Engineer, IS Customer Engagement Team
   duration: Jan, 2020 &mdash; Present
   summary:
-    CI/CD strategies, legacy and actual software and codebase management/deploy,
-    Kubernetes infrastructure, Raspberry infrastructure with k3s, application monitoring,
-    DevOps tools and methods, research & development.
+    Management of Kubernetes infrastructure, Kafka systems and ArgoCD deployment for Customer Platform Portal<br><br>
+    Replatformed the whole MES Kubernetes infrastructure from 30 manually managed clusters on Rancher v2.5.0 to ~40 dynamic Kubernetes cluster with Rancher v2.7.1 and vSphere.<br><br>
+    Automated the provisioning of bundled apps (cert-manager, metallb, nginx-ingress and so on) on Kubernetes with Fleet at provisioning time, shipping business applications with ArgoCD.<br><br>
+    Reworked the monitoring infrastructure from a single Prometheus server with Grafana to having Prometheus on every new cluster, and all metrics aggregated via Thanos to monitor everything at once.<br><br>
+    Successfully replatformed our Raspberry Pis from using Docker Swarm and manual YAML updates for software deployment to k3s Rancher managed clusters with Gitlab CI/CD for software deployments.<br><br>
+    Previously DevOps Engineer in IS MES Delivery Team, successively DevOps Engineer in IS Software Engineering Team.<br><br>
 # DevOps Architect
 - company: Beam Mobility
   position: Cloud and DevOps Architect
@@ -16,7 +19,7 @@
 - company: Aesys
   position: DevOps Consultant
   duration: Jan, 2020 &mdash; Jun, 2021
-  summary: DevOps consultant.
+  summary: DevOps consultant. Working primarly for Aptargroup, Inc.
 # SysAdmin
 - company: IMM Hydraulics S.p.a
   position: SysAdmin

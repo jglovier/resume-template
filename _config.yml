@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Mattia Tupone"
-resume_title: "DevOps Engineer"
+resume_title: "Senior DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "tupone.mattia@gmail.com"
@@ -56,7 +56,7 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url: "https://www.linkedin.com/in/mattia-tupone-660450a6/"
-  resume_instagram_url: "https://www.instagram.com/tups__/"
+  #resume_instagram_url: "https://www.instagram.com/tups__/"
   #resume_website_url:           "https://mattups.github.io/resume/"
   resume_medium_url: "https://medium.com/@tupone.mattia"
 resume_print_social_links: true
