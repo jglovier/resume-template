@@ -6,7 +6,7 @@
   role: Founder & Primary Developer
   duration: 2023.3 &mdash; 2023.7
   # url: "#"
-  description: 该小程序使用uniapp编写，Vue全家桶实现管理系统前台，SSM实现管理系统后端。 使用该小程序使得用户对设备报修更加便捷！</br>本文档提供了关于实现小程序的技术说明和使用指南。我们将使用以下技术栈进行开发</br>前端：UniApp、微信小程序、Vue全家桶、Element-Plus</br>后端：Spring Boot、MyBatis Plus、Spring Security + JWT、HttpClient、XSS防注入
+  description: 该小程序使用uniapp编写，Vue全家桶实现管理系统前台，SSM实现管理系统后端。 </br>使用该小程序使得用户对设备报修更加便捷！</br>前端：UniApp、微信小程序、Vue全家桶、Element-Plus</br>后端：Spring Boot、MyBatis Plus、Spring Security + JWT、HttpClient、XSS防注入
 
 # Springfield Community Outreach Group
 - project: 通用权限管理系统
