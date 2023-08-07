@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: 校园报修小程序
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2023.3 &mdash; 2023.7
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 该小程序使用uniapp编写，Vue全家桶实现管理系统前台，SSM实现管理系统后端。 </br>使用该小程序使得用户对设备报修更加便捷！</br>前端：UniApp、微信小程序、Vue全家桶、Element-Plus</br>后端：Spring Boot、MyBatis Plus、Spring Security + JWT、HttpClient、XSS防注入
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: 通用权限管理系统
+  role: Founder & Primary Developer
+  duration: 2020 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 开箱即用的SpringBoot+Vue通用权限管理系统，使用Spring Security + JWT实现用户鉴权

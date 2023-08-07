@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Java & Spring
+  description: <ul class="resume-item-list"><li>1.掌握Java的集合、抽象类、枚举类、泛型、注解等</li><li>2.熟悉Mybatis、Mybatis Plus、Spring、Spring MVC、Shiro、SpringBoot、Spring Cloud、Spring Security主流开发框架</li><li>3.熟悉GC常用算法，熟悉常见垃圾收集器</li><li>4.了解微服务相关中间件:Nacos、Ribbon、Gateway、Feign、ElasticSearch、Eureka、 Sentinel 的应用</li><li>5.掌握常用设计模式:模板方法、策略模式、工厂模式等</li><li>6.熟练使用Spring Boot自定义starter组件实现自动配置</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
+- skill: Linux & Docker & SQL & Nginx
+  description: <ul class="resume-item-list"><li>1.熟悉Docker、Linux常用命令，Dockerfile的编写，镜像优化</li><li>2.熟悉Redis，实现延时队列、消息队列，常用数据类型</li><li>3.掌握MySOL关系型数据库，事务，索引</li><li>4.熟练Nginx配置反向代理和负载均衡</li></ul>
+  
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Frontend
+  description: <ul class="resume-item-list"><li>1.熟练掌握HTML、HTML5、CSS、CSS3、JavaScript、jquery、Ajax等前端开发技术</li><li>2.熟悉微信小程序和uniapp项目开发</li><li>3.熟练掌握Vue2、Vuex、Vue-Router</li><li>4.熟悉ES6语法，熟练使用Promise进行数据异步处理，了解ES6的新特性</li><li>5.熟悉第三方UI插件:Bootstrap、Element-UI、uView、uv-ui</li></ul>
