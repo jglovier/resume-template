@@ -18,12 +18,12 @@ resume_contact_email:           "nick_the_engineer@atomictinker.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "410-541-6232"
-resume_contact_address:         "4309 Samantha Dr, Raleigh, NC"
+resume_contact_address:         "518 Hampshire Hill Rd, Worcester, VT 05682"
 
-resume_header_contact_info:     "Raleigh, NC • +14105416232 • nick_the_engineer@atomictinker.com"
+resume_header_contact_info:     "Worcester, VT • +14105416232 • nick_the_engineer@atomictinker.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Architect/engineer with 17+ years of experience in network automation, devops, cloud, security, collaboration, and software development. A strong problem solver and fast learner recognized for dedication and attention to detail to complete projects on time and deliver effective goal-oriented results. Currently located in Raleigh, NC but looking to relocate to the Burlington, VT area next year.</p>"
+resume_header_intro: "<p>Architect/engineer with 17+ years of experience in network automation, devops, cloud, security, collaboration, and software development. A strong problem solver and fast learner recognized for dedication and attention to detail to complete projects on time and deliver effective goal-oriented results.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
