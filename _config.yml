@@ -23,7 +23,10 @@ resume_contact_address:         "Bursa, Turkey"
 resume_header_contact_info:     "Bursa, Turkey • kaankarahasan@yahoo.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a third-year Computer Engineering student with a passion for mobile development and software architecture. I build user-friendly applications using modern technologies and aim to gain international experience in the tech industry. I am currently seeking opportunities to contribute to impactful projects.</p>"
+resume_header_intro: "|
+  <p>I’m a Computer Engineering student with a strong interest in mobile development, user-centric software design, and cloud-based systems. I focus on building cross-platform solutions using modern technologies such as React Native and Firebase. I value not just functional code, but also clean, maintainable, and high-performance solutions.
+  
+  I'm motivated by solving real-world problems through software, continuously learning new technologies, and improving my problem-solving skills. I’m a developer who thrives in collaborative environments, takes initiative, and is always eager to grow professionally.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
