@@ -1,5 +1,5 @@
 # Site settings
-title: "Kaan Karahasan Resume"
+title: "Kaan Karahasan"
 description: "A resume website for Kaan Karahasan – Computer Engineer and Mobile Developer"
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kaan KARAHASAN"
-resume_title:                   "Junior Mobile Developer"
+resume_title:                   "Junior Software Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kaankarahasan@yahoo.com"

@@ -11,6 +11,19 @@
 
       <header class="page-header">
 
+        <style>
+          .avatar {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto 1rem auto;
+          }
+        </style>
+
+        {% if site.resume_header_image %}
+
         {% if site.resume_avatar == 'true' %}
         <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
