@@ -10,7 +10,7 @@
 - company: Innosa Software Technologies Inc.
   position: Software Development Intern
   duration:   June, 2025  &mdash; July, 2025
-  summary: |
+  summary:  |
     During this internship, I gained comprehensive experience in developing cross-platform mobile applications using React Native and Expo. I built a app from scratch that allows users to create accounts, add products, update their profiles, follow others, and manage privacy settings.
     
     The project integrated multiple Firebase services including Firebase Authentication, Firestore (NoSQL real-time database), Firebase Storage, and Expo Push Notifications. I worked extensively with Firestore queries, async/await operations, and modular component structures to ensure scalable and maintainable architecture.
