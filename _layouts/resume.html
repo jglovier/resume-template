@@ -23,10 +23,12 @@
         </style>
 
         {% if site.resume_header_image %}
+        
+          {% if site.resume_avatar == 'true' %}
+          <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+          {% endif %}
 
-        {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
-        {% endif %}
+        {% endif %} <!-- Bu endif eksikti, EKLENDİ -->
 
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
