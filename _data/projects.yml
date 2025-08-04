@@ -1,16 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Art Market
+- project: Art Market
+  role: App Developer & Product Owner
+  duration: 2025 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: I’m currently developing a mobile marketplace app tailored for artists, designed to let users showcase and sell their artwork, connect with other creatives, and build a digital presence. Built with Expo and React Native, the app integrates Firebase services (Authentication, Firestore, Storage, Notifications) to enable secure and real-time interactions.

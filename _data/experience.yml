@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Information Technology Intern
+- company: Dr. Oetker Foods Inc.
+  position: Information Technology Intern
+  duration:  July, 2025 &mdash; August, 2025
+  # summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Software Development Intern
+- company: Innosa Software Technologies Inc.
+  position: Software Development Intern
+  duration:   June, 2025  &mdash; July, 2025
+  summary:
+    <p>During this internship, I gained comprehensive experience in developing cross-platform mobile applications using React Native and Expo. I built a app from scratch that allows users to create accounts, add products, update their profiles, follow others, and manage privacy settings.</p>
+    
+    <p>The project integrated multiple Firebase services including Firebase Authentication, Firestore (NoSQL real-time database), Firebase Storage, and Expo Push Notifications. I worked extensively with Firestore queries, async/await operations, and modular component structures to ensure scalable and maintainable architecture.</p>
+    
+    <p>Throughout the project, I focused on key features such as real-time messaging using Firestore listeners, secure user authentication with persistent sessions, media upload (images) to Firebase Storage, and conditional UI updates based on user actions. I implemented dynamic navigation flows using React Navigation (Stack, Tab, and Modal navigators) and managed state using useState, useEffect, useFocusEffect, and custom hooks.</p>
+    
+    <p>For user interaction, I integrated features like followers/following logic, product listings with FlatList, real-time comment systems, and user-defined privacy preferences (e.g., who can follow or comment). I handled edge cases like empty fields, failed fetches, and restricted access by designing fallback mechanisms and permission-based logic.</p>
+    
+    <p>The app followed a clean architecture approach with reusable components and Firebase abstraction layers for scalability. I also ensured performance optimization by minimizing unnecessary renders and loading operations.</p>
+    
+    <p>This experience helped me strengthen my practical knowledge of mobile development and enhanced my ability to work independently, write clean code, troubleshoot efficiently, and design user-focused features from the ground up.</p>
