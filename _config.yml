@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kaan KARAHASAN"
-resume_title:                   "Mobile Developer & Computer Engineer"
+resume_title:                   "Junior Mobile Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kaankarahasan@yahoo.com"
@@ -38,7 +38,7 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 # resume_section_recognition:     true
-resume_section_links:           true
+# resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
 
