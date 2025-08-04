@@ -3,18 +3,6 @@
 
   {% include head.html %}
 
-  <style>
-    /* Avatar fotoğrafını yuvarlak yapmak için */
-    .avatar {
-      border-radius: 50%;
-      width: 150px;       /* İstersen boyutunu ayarla */
-      height: 150px;
-      object-fit: cover;  /* Kırpma ve görünümü düzgün yapar */
-      display: block;     /* İsteğe bağlı: alt boşluklar için */
-      margin-bottom: 1rem; /* İsteğe bağlı boşluk */
-    }
-  </style>
-
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
