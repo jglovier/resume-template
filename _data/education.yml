@@ -1,13 +1,16 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Uni
+uni: Test Automation University
+year: Jun 2020 - Mar 2022
+Grade: #10 in Top 100Grade: #10 in Top 100
+link: https://testautomationu.applitools.com/me.html#Aleksandar-Djokic
+Skills: Test Planning · SpecFlow · Test Automation · Selenium · API Testing · C# · Quality Assurance · Jira
+summary: Finished all 62 courses, Quality Assurance - Test AutomationFinished all 62 courses, Quality Assurance - Test Automation
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+uni: Univerzitet Metropolitan - Information Technology
+year: Jan 2018 - Aug 2018
+Grade: 9
+Skills: Succesful Completion Certificate in IT training in Java, 260 classes
+
+uni: University of Niš - Graduate Pharmacist
+year: 2002 -  2008
+Grade: 8.5

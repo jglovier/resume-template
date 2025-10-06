@@ -1,19 +1,91 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Paycor
+  position: Senior Software Engineer in Test
+  duration: Oct 2022 — Present
+  location: Serbia
+  summary: Leading test automation initiatives using Selenium and .NET Framework. Responsible for designing and executing test plans, API testing, and integrating QA processes into Azure DevOps pipelines.
+  skills:
+    - Selenium
+    - Azure DevOps
+    - Manual Testing
+    - API Testing
+    - C#
+    - SpecFlow
+    - Test Planning
+    - Test Automation
+    - Software Testing
+    - .NET Framework
 
+- company: Paycor
+  position: Scrum Master
+  duration: Nov 2022 — Apr 2025
+  location: Remote
+  summary: Facilitated Agile ceremonies and coached teams on Scrum practices to improve delivery and collaboration.
+  skills:
+    - Scrum
+    - Agile Methodologies
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Naissus Technologies
+  position: Test Manager
+  duration: Jan 2022 — Sep 2022
+  location: Niš, Serbia
+  summary: Managed QA teams and testing strategies for web and enterprise applications. Oversaw BDD implementation and test automation frameworks.
+  skills:
+    - WebDriver
+    - Selenium
+    - Azure DevOps
+    - Manual Testing
+    - API Testing
+    - C#
+    - Jira
+    - SpecFlow
+    - Test Planning
+    - Test Automation
+    - Software Testing
+    - .NET Framework
+
+- company: Naissus Technologies
+  position: Test Team Lead
+  duration: Jan 2020 — May 2022
+  location: Niš, Serbia
+  summary: Led a team of QA engineers, coordinated test efforts, and contributed to automation framework development.
+  skills:
+    - WebDriver
+    - Selenium
+    - Manual Testing
+    - API Testing
+    - C#
+    - Jira
+    - Test Planning
+    - Test Automation
+    - Software Testing
+    - .NET Framework
+
+- company: Naissus Technologies
+  position: QA Specialist
+  duration: Feb 2019 — Jan 2020
+  location: Niš, Serbia
+  summary: Executed manual and automated tests, maintained test scripts, and ensured software quality across releases.
+  skills:
+    - WebDriver
+    - Selenium
+    - Manual Testing
+    - API Testing
+    - C#
+    - Jira
+    - Test Automation
+    - Software Testing
+    - .NET Framework
+
+- company: Self-employed
+  position: Java Software Engineer
+  duration: Jul 2018 — Jan 2020
+  location: Niš, Serbia
+  summary: Developed Java-based applications and provided freelance software engineering services.
+
+- company: BetaPharm
+  position: Pharmacist
+  duration: Dec 2016 — Mar 2017
+  location: Niš, Serbia
+  summary: Provided pharmaceutical services and customer support in a clinical setting.
