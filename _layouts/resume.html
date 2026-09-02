@@ -56,10 +56,20 @@
           <h2>Experience</h2>
         </header>
 
-        {% for job in site.data.experience %}
+        {% assign jobs = site.data.experience %}
+        {% assign jobs_with_sort = jobs | where_exp: "job", "job.sort_start" %}
+        {% if jobs_with_sort.size == jobs.size %}
+          {% assign last_jobs = jobs | where_exp: "job", "job.sort_last == true" %}
+          {% assign regular_jobs = jobs | where_exp: "job", "job.sort_last != true" %}
+          {% assign present_jobs = regular_jobs | where_exp: "job", "job.sort_end >= 999912" | sort: 'sort_start' | reverse %}
+          {% assign past_jobs = regular_jobs | where_exp: "job", "job.sort_end < 999912" | sort: 'sort_end' %}
+          {% assign past_jobs = past_jobs | sort: 'sort_start' | reverse %}
+          {% assign jobs = present_jobs | concat: past_jobs | concat: last_jobs %}
+        {% endif %}
+        {% for job in jobs %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}{% if job.location and job.location != "" %} &bull; {{ job.location }}{% endif %}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
