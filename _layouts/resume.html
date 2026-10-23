@@ -59,7 +59,9 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}{% if job.location and job.location != "" %} &bull; {{ job.location }}{% endif %}</h4>
+          {% if job.start_date %}<meta itemprop="startDate" content="{{ job.start_date }}">{% endif %}
+          {% if job.end_date %}<meta itemprop="endDate" content="{{ job.end_date }}">{% endif %}
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
